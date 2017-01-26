@@ -25,7 +25,7 @@ Le systeme de feuille de temps / facturation/ controle de mandat, il y a aura pe
 > a) comptables
  S'occupe de faire la facturation
 
-##partie prenantes
+##Partie prenantes
 > a) clients
 > a) gouvernements
 lors de la facturation il y a des taxes
@@ -44,3 +44,9 @@ pas en consultation le taux horaire ne change pas.
 #comptabilité est interne ou externe ?
 les données sont interne et sont envoyé à l'externe pour la comptabilité.
 le système ne fait pas de compabilité lui-même mais doit fournir les données permettant de faire la comptabilité.
+
+#Qu'est ce qui est important dans le système?
+Petit groupe.
+Toujours imputé lors de mandat
+Système qui permet de retourner en arrière s'il y a une erreur
+Système de paye automatisé si possible.
