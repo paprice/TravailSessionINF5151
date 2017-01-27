@@ -1,0 +1,5 @@
+\usepackage{pdfpages}
+
+\usepackage{eso-pic}
+
+\AddToShipoutPictureBG{\AtPageLowerLeft{\put(30,30){\includegraphics[width=1.5cm]{logo-uqam.png}}}}

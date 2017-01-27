@@ -1,0 +1,8 @@
+\usepackage{pdfpages}
+
+\usepackage{eso-pic}
+
+\usepackage{draftwatermark}
+\SetWatermarkText{version projet}
+\SetWatermarkLightness{0.92}
+\SetWatermarkScale{0.8}
