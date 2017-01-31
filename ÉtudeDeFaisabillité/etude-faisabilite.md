@@ -30,12 +30,13 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ## But
 
-L'objectif de ce DEF est de déterminer quel est la meilleur option logiciel pour la gestion des fiches de temps de l'entreprise Les Mousquetaires. Ce document s'addresse à la direction de Mousquetaires.
+L'objectif de ce DEF est de déterminer quel est la meilleur option logiciel pour la gestion des fiches de temps de l'entreprise Les Mousquetaires. Ce document s'adresse à la direction de la compagnie.
 
 ## Portée et contexte
 
-L'étude porte seulement sur le système de feuille de temps.
-_Saisir le texte pertinent ou inscrire_ S/O
+L'étude porte seulement sur le système de feuille de temps. Elle ne porte pas sur les autres éléments de l'entreprise  ou de la gestion du personnel tels que la gestion de la paie.
+
+L'objectif de cette étude sera de sélectionner ou de spécifier un logiciel de gestion des feuilles de temps qui répondra le mieux possible aux besoins de l'entreprise.
 
 ## Références
 
