@@ -1,0 +1,31 @@
+Brainstorm
+
+But du projet :
+Système de feuille de temps qui permet de gérer des mandats et faire la facturation au client
+
+Feuille de temps (hebdo) : coordonateur approuve
+Mandat : -projet que l’utilisateur peux sélectionner quand il entre ses heures, ex 4hr chez home depot, 4h chez rona…etc.
+-Client pourrait avoir plusieurs mandats (plusieurs applications qu’il fait développer)
+-L’employé a des taux horaires différents dépendant des mandats
+
+Quand l’employé entre une plage de temps/horaire (ex 4hr sur le mandat Rona pour client X), il doit :: indiquer le travail accomplie (type/description)
+
+Rapports mensuels au client :
+— Il est important de suivre le déroulement des mandats en fonction des budgets prévus lors de la signature des mandats donc si le contrat stipule 200heures, on doit avoir un rapport qui nous indique que nous somme rendu a 150heures
+-Un rapport au minimum mensuel doit être remis aux clients indiquant pour les diérents mandats en cours l’état d’avancement et l’état des banques d’heures autorisées
+
+Historique (logs) des transactions (utilisation du programme -> ajout de feuille de temps)
+
+Classes
+---------------
+Feuille de temps (hebdo) -> coordonateur approuve
+A la fin de la semaine, un rapport est généré pour les employés -> nombre d’heures travaillés par projet
+
+Frais a charger au client
+     -> ajouter via le mandat (le recu, la date, l’employé)
+
+Plage horaire -> case facturable ou non, minimum 15 minutes par plage horaire
+
+Mandats -> certaines portent sur des banques d’heures, renégociation des mandats = possible -> garder logs changement
+
+Des rapports de gestion par analyste, par client, par mandat, etc sont demandés -> plus de précisions svp.
