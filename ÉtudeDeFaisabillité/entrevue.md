@@ -20,15 +20,15 @@ Non au pire il le mettrait sur une feuille de papier et le marquerons rendu au b
 Le systeme de feuille de temps / facturation/ controle de mandat, il y a aura personne qui va être dédier au système. donc le système devra être une aide pour les analystes.
 
 ##Acteur
-> a) analystes
-> a) coordonnateurs
-> a) comptables
- S'occupe de faire la facturation
+> a) Analystes
+> a) Coordonnateurs
+> a) Comptables
+~ S'occupe de faire la facturation
 
 ##Partie prenantes
-> a) clients
-> a) gouvernements
-lors de la facturation il y a des taxes
+> a) Clients
+> a) Gouvernement ->
+~ Lors de la facturation il y a des taxes
 
 #Limite de temps et d'argent
 analystes qui a 70/80h devrait être exceptionnel. taux horaire devrait venir du système de saisi des mandats.
