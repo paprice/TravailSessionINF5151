@@ -48,7 +48,13 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ## Structure du document
 
-_Saisir le texte pertinent ou inscrire_ S/O
+Ce document présente les sections suivants dans l'ordre :
+
+1. Situation actuelle du système
+1. Système envisagé par les clients
+1. Solutions possibles
+1. La meilleur solutions
+1. Recommandations et plan d'action
 
 ## Points en suspens
 
