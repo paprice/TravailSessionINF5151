@@ -2,9 +2,10 @@
   Les Mousquetaires  
   Gestion des mandats et des feuilles de temps
 % Patrice Desrochers -- DESP02049609
-  Prénom Nomfamille -- NOMP12345678  
-  Prénom Nomfamille -- NOMP12345678  
-  Prénom Nomfamille -- NOMP12345678   
+  Gabriel Thibault --   THIG15099407
+  Pascal Vautour -- VAUP05049304  
+  William Corbeil -- CORW26049505   
+  Nizar Semlali -- SEMN14019103
 % 27 janvier 2017
 
 # Sigles et abréviations {-}
@@ -19,11 +20,13 @@ S/O
 
 | **Date** | **Version** | **Description** | **Auteur** |
 | :---------- | :------: | :----------------------------------- | :------------------|
-| 2017-01-27 | 0.1 | Version initiale | Prénom Nomfamille Prénom Nomfamille Prénom Nomfamille Prénom Nomfamille |
+| 2017-01-27 | 0.1 | Version initiale | Patrice Desrochers Gabriel Thibault  Pascal Vautour William Corbeil |
 
 # Sommaire exécutif {-}
 
 _Saisir le texte pertinent ou inscrire_ S/O
+
+
 
 # Introduction
 
@@ -69,6 +72,8 @@ Table: Exemple d'un tableau
 ### Objectifs
 
 _Saisir le texte pertinent ou inscrire_ S/O
+
+
 
 ### Contexte et portée
 
@@ -193,6 +198,10 @@ _Saisir le texte pertinent ou inscrire_ S/O
 # Solutions possibles
 
 _Saisir le texte pertinent ou inscrire_ S/O
+
+http://www.feuille-de-temps.com/product.php
+
+http://www.unittechnologies.com/PageCaractF.htm
 
 ## Identification des solutions possibles
 
