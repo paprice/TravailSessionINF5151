@@ -44,6 +44,7 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ## Méthodologie utilisée
 
+Le document sera finalisé avant le 9 juillet. Il ne lui est pas assigné de budget précis tant que le travail est fait. 
 _Saisir le texte pertinent ou inscrire_ S/O
 
 ## Structure du document
