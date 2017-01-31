@@ -29,10 +29,11 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ## But
 
-_Saisir le texte pertinent ou inscrire_ S/O
+L'objectif de ce DEF est de déterminer quel est la meilleur option logiciel pour la gestion des fiches de temps de l'entreprise Les Mousquetaires.
 
 ## Portée et contexte
 
+L'étude porte seulement sur le système de feuille de temps.
 _Saisir le texte pertinent ou inscrire_ S/O
 
 ## Références
@@ -57,7 +58,7 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ## Situation actuelle
 
-_Saisir le texte pertinent ou inscrire_ S/O
+S/O
 
 | **Titre A** | **Titre B** | **Description** |
 | :---------- | :------: | :----------------------------------- |
@@ -79,11 +80,11 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ### Description du système actuel
 
-_Saisir le texte pertinent ou inscrire_ S/O
+S/O
 
 ### Modes d'opération du système actuel
 
-_Saisir le texte pertinent ou inscrire_ S/O
+S/O
 
 ### Catégories d'utilisateurs et parties impliquées
 
@@ -95,23 +96,23 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ## Changements souhaités et leurs justifications
 
-_Saisir le texte pertinent ou inscrire_ S/O
+S/O
 
 ### Justification des changements
 
-_Saisir le texte pertinent ou inscrire_ S/O
+S/O
 
 ### Description des changements souhaités
 
-_Saisir le texte pertinent ou inscrire_ S/O
+S/O
 
 ### Priorité des changements
 
-_Saisir le texte pertinent ou inscrire_ S/O
+S/O
 
 ### Changements considérés et non retenus
 
-_Saisir le texte pertinent ou inscrire_ S/O
+S/O
 
 ### Hypothèses et contraintes
 
@@ -175,7 +176,7 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ### Sommaire des améliorations
 
-_Saisir le texte pertinent ou inscrire_ S/O
+S/O
 
 ### Inconvénients et limites
 
