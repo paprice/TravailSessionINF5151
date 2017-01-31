@@ -32,7 +32,7 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ## But
 
-L'objectif de ce DEF est de déterminer quel est la meilleur option logiciel pour la gestion des fiches de temps de l'entreprise Les Mousquetaires.
+L'objectif de ce DEF est de déterminer quel est la meilleur option logiciel pour la gestion des fiches de temps de l'entreprise Les Mousquetaires. Ce document s'addresse à la direction de Mousquetaires.
 
 ## Portée et contexte
 
