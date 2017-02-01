@@ -4,7 +4,7 @@
 % Patrice Desrochers -- DESP02049609
   Gabriel Thibault --   THIG15099407
   Pascal Vautour -- VAUP05049304  
-  William Corbeil -- CORW26049505   
+  William Corbeil -- CORW26049505
   Nizar Semlali -- SEMN14019103
 % 27 janvier 2017
 
@@ -18,9 +18,9 @@ S/O
 
 # Historique des révisions {-}
 
-| **Date** | **Version** | **Description** | **Auteur** |
-| :---------- | :------: | :----------------------------------- | :------------------|
-| 2017-01-27 | 0.1 | Version initiale | Patrice Desrochers Gabriel Thibault  Pascal Vautour William Corbeil Nizar Semlali|
+| **Date**   | **Version** | **Description** |**Auteur**                                                                        |
+| :--------- | :---------: | :--------------- | :-------------------------------------------------------------------------------- |
+| 2017-01-27 |     0.1     | Version initiale | Patrice Desrochers Gabriel Thibault  Pascal Vautour William Corbeil Nizar Semlali |
 
 # Sommaire exécutif {-}
 
@@ -50,11 +50,11 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 Ce document présente les sections suivants dans l'ordre :
 
-1. Situation actuelle du système
-1. Système envisagé par les clients
-1. Solutions possibles
-1. La meilleur solutions
-1. Recommandations et plan d'action
+1.  Situation actuelle du système
+2.  Système envisagé par les clients
+3.  Solutions possibles
+4.  La meilleur solutions
+5.  Recommandations et plan d'action
 
 ## Points en suspens
 
@@ -66,27 +66,19 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ## Situation actuelle
 
-S/O
-
-| **Titre A** | **Titre B** | **Description** |
-| :---------- | :------: | :----------------------------------- |
-| Contenu A | Contenu B | Description |
-
-Table: Exemple d'un tableau
+L'entreprise Les Mousquetaires recherche un sytème informatisée qui va permettre à l'entreprise de gagné du temps sur plusieurs plan. C'est à dire que les analystes vont pouvoir passé plus de temps sur les mandats et que les acteurs externe (ex : comtabilité) vont avoir accès facilement à toutes les données qu'ils ont besoin sans chercher et sans avoir besoin d'aller voir les analystes.
 
 ### Objectifs
 
-_Saisir le texte pertinent ou inscrire_ S/O
-
-
+ S/O
 
 ### Contexte et portée
 
-_Saisir le texte pertinent ou inscrire_ S/O
+S/O
 
 ### Cadre et contraintes opérationnels
 
-_Saisir le texte pertinent ou inscrire_ S/O
+S/O
 
 ### Description du système actuel
 
@@ -98,11 +90,11 @@ S/O
 
 ### Catégories d'utilisateurs et parties impliquées
 
-_Saisir le texte pertinent ou inscrire_ S/O
+S/O
 
 ### Environnement et logistique du maintien du système
 
-_Saisir le texte pertinent ou inscrire_ S/O
+S/O
 
 ## Changements souhaités et leurs justifications
 
@@ -126,7 +118,7 @@ S/O
 
 ### Hypothèses et contraintes
 
-_Saisir le texte pertinent ou inscrire_ S/O
+S/O
 
 ## Système envisagé
 
@@ -204,9 +196,9 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 _Saisir le texte pertinent ou inscrire_ S/O
 
-http://www.feuille-de-temps.com/product.php
+<http://www.feuille-de-temps.com/product.php>
 
-http://www.unittechnologies.com/PageCaractF.htm
+<http://www.unittechnologies.com/PageCaractF.htm>
 
 ## Identification des solutions possibles
 
