@@ -20,7 +20,7 @@ S/O
 
 | **Date**   | **Version** | **Description** |**Auteur**                                                                        |
 | :--------- | :---------: | :--------------- | :-------------------------------------------------------------------------------- |
-| 2017-01-27 |     0.1     | Version initiale | Patrice Desrochers Gabriel Thibault  Pascal Vautour William Corbeil Nizar Semlali |
+| 2017-01-27 |     0.1     | Version initiale | Patrice Desrochers, Gabriel Thibault, Pascal Vautour, William Corbeil, Nizar Semlali |
 
 # Sommaire exécutif {-}
 
