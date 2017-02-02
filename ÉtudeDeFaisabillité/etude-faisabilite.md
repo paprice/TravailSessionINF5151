@@ -64,13 +64,14 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 # Analyse de la situation
 
+ ACTUELLEMENT: DANS FEUILLE EXCEL,pas normaliser,on sait pas dans quel amndat ils traveillent.
 ## Situation actuelle
 
 L'entreprise Les Mousquetaires n'a aucun système mis en place présentement, car ils lancent leur compagnie.
 
 ### Objectifs
 
- S/O
+
 
 ### Contexte et portée
 
@@ -126,7 +127,8 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ### Objectifs
 
-_Saisir le texte pertinent ou inscrire_ S/O
+ La compagnie souhaite implémementer une solution de gestion de feuille de temps de ses employés,dans le but de leur imputer un nombre d'heures travaillees par semaine. Cela permettra non seulemment de mieux gerer le temps des analystes,mais aussi de presenter les heures travaillees dans les mandats aux clients. Puisque la firme travaille par mandat,le systeme permettra aussi de gerer les taux horraire des employés. La plateforme devra aussi permettre de suivre le travail accompli par le biais de notes ou de description,ce qui permettra un meilleur suivit de l'employé. Un autre objectif sera aussi d'avoir acces a des rapports par mandat,permettant de montrer au client l'état d'avancemment de ses différents mandats et le nombre d'heures en banque. La gestion des coûts et du budgets associés au mandat,par exemple les frais de déplacemment,sera aussi effectuée par la plateforme,ainsi que la gestion des vacances et des absences des employés. Un autre objectif serait de pouvoir s'intégrer avec un système comptable dans le but de pouvoir rendre les données de la plateformes accesible par ce type de logiciel.
+ Ainsi,on peut donc dire que les objectifs globals du systeme seront de gerer les actifs de la compagnies,c'est à dire les employés, en gerant leur temps,leur salaire et leur attribution à des mandats et à suivre le déroulemment de ces mandats du cote du budget et de l'avancemment.
 
 ### Contexte et portée
 
