@@ -132,11 +132,11 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 _Saisir le texte pertinent ou inscrire_ S/O
 
-### Cadre et contraintes opérationnels</titre>
+### Cadre et contraintes opérationnels
 
 _Saisir le texte pertinent ou inscrire_ S/O
 
-### Description du système envisagé</titre>
+### Description du système envisagé
 
 _Saisir le texte pertinent ou inscrire_ S/O
 
