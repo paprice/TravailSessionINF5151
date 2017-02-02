@@ -128,11 +128,12 @@ _Saisir le texte pertinent ou inscrire_ S/O
 ### Objectifs
 
  La compagnie souhaite implémementer une solution de gestion de feuille de temps de ses employés,dans le but de leur imputer un nombre d'heures travaillees par semaine. Cela permettra non seulemment de mieux gerer le temps des analystes,mais aussi de presenter les heures travaillees dans les mandats aux clients. Puisque la firme travaille par mandat,le systeme permettra aussi de gerer les taux horraire des employés. La plateforme devra aussi permettre de suivre le travail accompli par le biais de notes ou de description,ce qui permettra un meilleur suivit de l'employé. Un autre objectif sera aussi d'avoir acces a des rapports par mandat,permettant de montrer au client l'état d'avancemment de ses différents mandats et le nombre d'heures en banque. La gestion des coûts et du budgets associés au mandat,par exemple les frais de déplacemment,sera aussi effectuée par la plateforme,ainsi que la gestion des vacances et des absences des employés. Un autre objectif serait de pouvoir s'intégrer avec un système comptable dans le but de pouvoir rendre les données de la plateformes accesible par ce type de logiciel.
- Ainsi,on peut donc dire que les objectifs globals du systeme seront de gerer les actifs de la compagnies,c'est à dire les employés, en gerant leur temps,leur salaire et leur attribution à des mandats et à suivre le déroulemment de ces mandats du cote du budget et de l'avancemment.
+ Ainsi,on peut donc dire que les objectifs globals du systeme seront de gerer les actifs de la compagnies,c'est à dire les employés, en gerant leur temps,leur salaire et leur attribution à des mandats et à suivre le déroulemment de ces mandats du cote du budget et de l'avancemment. De cette facon,l'entreprise sauvera du temps et pourra mieux gerer et optimiser ses mandats.
 
 ### Contexte et portée
 
-_Saisir le texte pertinent ou inscrire_ S/O
+Le contexte dans lequel est implémenté le nouveau système est celui d'une nouvelle entreprise d'analystes. Puisqu'en ce moment la gestion du temps et des mandats se fait de facon informelle,on cherche ici à optimiser ces solutions et à les rendre plus formelles et informatisées. L'entreprise étant embryonnaire,on peut donc s'attendre à une augementation du nombre de mandats et une forte croissance. C'est dans ce contexte qu'au lancemment officiel de l'entreprise,il faut un système plus robuste et plus formelle de gestion du temps et des mandats. Il faut aussi que le nouveau système soit plus pratique,fiable et remplisse mieux les objectifs énoncés plus haut. 
+Pour ces raisons,et dans le but de moderniser le plus possible le systeme de gestion du temps,nous avons donné prioritée aux solutions pouvant être déployées dans le cloud. Cela permettra une fiabilité acrrue,une plateforme plus accesible entre autre sur les appareils mobiles,ainsi que de faible coûts de maintenance.
 
 ### Cadre et contraintes opérationnels
 
