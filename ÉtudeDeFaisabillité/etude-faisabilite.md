@@ -66,7 +66,7 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ## Situation actuelle
 
-L'entreprise Les Mousquetaires recherche un sytème informatisée qui va permettre à l'entreprise de gagné du temps sur plusieurs plan. C'est à dire que les analystes vont pouvoir passé plus de temps sur les mandats et que les acteurs externe (ex : comtabilité) vont avoir accès facilement à toutes les données qu'ils ont besoin sans chercher et sans avoir besoin d'aller voir les analystes.
+L'entreprise Les Mousquetaires n'a aucun système mis en place présentement, car ils lancent leur compagnie.
 
 ### Objectifs
 
