@@ -47,6 +47,82 @@ le système ne fait pas de compabilité lui-même mais doit fournir les données
 
 #Qu'est ce qui est important dans le système?
 Petit groupe.
-Toujours imputé lors de mandat
-Système qui permet de retourner en arrière s'il y a une erreur
+Toujours imputé lors de mandat.
+Système qui permet de retourner en arrière s'il y a une erreur.
 Système de paye automatisé si possible.
+
+#**Note a propos de l'étude** {-}
+
+#Equipement
+a) serveur
+a) logiciel
+
+Cout d'entretien et mainteanace = 15 a 20% du cout par année.
+Rarement plus de 5 ans pour un système de ce genre la.
+
+#Risques
+a) est ce que le fournisseur est solide
+a) est ce qu'il y a d'autre fournisseur
+a) le développement sur mesure est ce qu'il y a de plus risqué
+
+## Doit avoir des avantages importants
+* Logiciel permettant d'avoir un API pour intéragir avec d'autre logiciel
+* est ce que je suis pris dans un dead end
+* est ce que sa va être développer dans un langage isotérique ou il va y avoir d'autre développeur pour faire la maintenance
+
+
+#**Question en date du 2017/02/02** {-}
+
+## Quel est la situation actuelle ?
+
+il on eu quelque petit contrat et il remplissait sur des feuilles excel et il envoyait a la personne
+
+### Qu'est qu'ils aiment pas des feuilles excel
+
+il ne veulent pas mettre le taux horaire sur les feuilles excel et des probleme de nom. Ce qu'il ont fait grand titres et description. Qui a rencontrer quand et qui. Probleme de chiffrier c'Est le mise a jour des macros.
+
+## Imputer 25h/semaine
+
+c'est une cible, idéalement le système fasse un petit repporting ou les analyste puissent voir les temps travailler.
+
+## Équipement
+les analystes ont tous un ordianteur et ont tous un téléphone mobile (Iphone)
+
+## Exigences de budget
+Le moins cher possible. 50000$
+
+## Notifier
+Un role éthique a faire, donc pas de logiciel qui receuille des statistiques sur a quel heure il se sont logué, a quel vitesse il tape, etc.
+
+## Échéancier
+Le plus tot possible. Info-nuagique en 2-3 jours c'est régler. sur mesure c'est un peu plus long.
+
+## Calendrier avec planification avec ce qui s'en vient ?
+Intéressant, savoir ou sont les gens c'est intéressant. Pas tellement en terme de planification, mais savoir qui est libre et qui n'est pas libre.
+
+## autre choses en terme de structure informatique
+google mail, dropbox. SimpleComptable pour la comptabilité, consultant payé a l'heure. Pour la paye service de Desjardins.
+
+## Gestion de mandats quel personne a travaillé sur quel mandat et combien d'heure?
+dans ces heures la sur quel type d'activité elle a travaillé. Donner au fur et a mesure d'avancement ce qu'il reste comme budget.
+
+## Vacances et absences règlement spécifique?
+les vacances ne touche pas le client. le nombre d'heure et le timelaps est deux univers non-commun. combien ils ont déclaré des vacances et combien il ont déclaré de maladies.
+
+## Rare que les analystes vont encourager le développement {-}
+Mais la firme peut s'occuper des tests d'acceptation, de suivi
+
+### On peut proposer une solution déjà fait au client
+C'est notre travail d'analyste d'orienté vers des solutions déjà fait (package)
+
+## A qui s'addresse l'étude
+L'étude s'addresse a l'organisation et au représantant
+
+## Qui a accès a quoi?
+Tous le monde doit avoir accès a tous en "lecture seule"
+
+## Les heures d'opéraiton du sytèmes
+24h/24 7j/7
+
+## S'il y a erreur sur la feuille de temps ?
+une autre transaction / feuille de temps est rajouter sur la premiere feuille de temps s'il y a erreur, une fois transmise, la feuille de temps est intouchable. Un délai une fois tramise pour pouvoir modifier mais passé ce délai la feuille est intouchable.
