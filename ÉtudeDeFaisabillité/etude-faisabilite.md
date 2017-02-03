@@ -1,9 +1,9 @@
-% Étude de faisablité  
-  Les Mousquetaires  
+% Étude de faisablité
+  Les Mousquetaires
   Gestion des mandats et des feuilles de temps
 % Patrice Desrochers -- DESP02049609
   Gabriel Thibault --   THIG15099407
-  Pascal Vautour -- VAUP05049304  
+  Pascal Vautour -- VAUP05049304
   William Corbeil -- CORW26049505
   Nizar Semlali -- SEMN14019103
 % 27 janvier 2017
@@ -71,6 +71,8 @@ _Saisir le texte pertinent ou inscrire_ S/O
 L'entreprise Les Mousquetaires utilise comme feuille de temps un tableur EXCEL.
 
 ### Objectifs
+
+S/O
 
 ### Contexte et portée
 
@@ -152,7 +154,7 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ### Environnement et logistique du maintien du système
 
-_Saisir le texte pertinent ou inscrire_ S/O
+Le système envisagé devra fonctionner sur ordinateur, que ce soit Mac ou Windows et il peut aussi fonctionner sur téléphone portable, Android ou Apple. Donc, la facon la plus simple de pouvoir utiliser le même système sur différent terminal sans aucun problème est d'Avoir un système en ligne qu'on accède par un navigateur web.
 
 ## Cas d'utilisation du système envisagé
 
