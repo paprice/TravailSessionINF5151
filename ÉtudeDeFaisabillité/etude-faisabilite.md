@@ -64,7 +64,7 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 # Analyse de la situation
 
- ACTUELLEMENT: DANS FEUILLE EXCEL,pas normaliser,on sait pas dans quel amndat ils traveillent.
+ ACTUELLEMENT: DANS FEUILLE EXCEL,pas normaliser,on sait pas dans quel mandat ils travaillent.
 
 ## Situation actuelle
 
@@ -84,7 +84,7 @@ S/O
 
 ### Description du système actuel
 
-Le systèmes actuel est une suite de tableur que les analystes envoient au coordonateurs et qui contiennent tous les heures travaillé et sur quel mandat. Donc, tout est entré à la main. Le coordonateur doit tous copier ensuite pour mettre tous les feuilles de temps des analystes ensemble pour que la comptabilité ait toutes les informations à la même place.
+Le systèmes actuel est une suite de tableur que les analystes envoient au coordonnateurs et qui contiennent tous les heures travaillé et sur quel mandat. Donc, tout est entré à la main. Le coordonnateur doit tous copier ensuite pour mettre tous les feuilles de temps des analystes ensemble pour que la comptabilité ait toutes les informations à la même place.
 
 ### Modes d'opération du système actuel
 
@@ -128,13 +128,13 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ### Objectifs
 
- La compagnie souhaite implémementer une solution de gestion de feuille de temps de ses employés,dans le but de leur imputer un nombre d'heures travaillees par semaine. Cela permettra non seulemment de mieux gerer le temps des analystes, mais aussi de presenter les heures travaillees dans les mandats aux clients. Puisque la firme travaille par mandat,le systeme permettra aussi de gerer les taux horaire des employés. La plateforme devra aussi permettre de suivre le travail accompli par le biais de notes ou de description,ce qui permettra un meilleur suivit de l'employé. Un autre objectif sera aussi d'avoir acces a des rapports par mandat,permettant de montrer au client l'état d'avancemment de ses différents mandats et le nombre d'heures en banque. La gestion des coûts et du budgets associés au mandat,par exemple les frais de déplacemment,sera aussi effectuée par la plateforme,ainsi que la gestion des vacances et des absences des employés. Un autre objectif serait de pouvoir s'intégrer avec un système comptable dans le but de pouvoir rendre les données de la plateformes accesible par ce type de logiciel.
- Ainsi,on peut donc dire que les objectifs globals du systeme seront de gerer les actifs de la compagnies,c'est à dire les employés, en gerant leur temps,leur salaire et leur attribution à des mandats et à suivre le déroulemment de ces mandats du cote du budget et de l'avancemment. De cette facon,l'entreprise sauvera du temps et pourra mieux gerer et optimiser ses mandats.
+ La compagnie souhaite implémementer une solution de gestion de feuille de temps de ses employés,dans le but de leur imputer un nombre d'heures travaillées par semaine. Cela permettra non seulement de mieux gérer le temps des analystes, mais aussi de présenter les heures travaillées dans les mandats aux clients. Puisque la firme travaille par mandat,le système permettra aussi de gérer les taux horaire des employés. La plateforme devra aussi permettre de suivre le travail accompli par le biais de notes ou de description,ce qui permettra un meilleur suivit de l'employé. Un autre objectif sera aussi d'avoir accès a des rapports par mandat,permettant de montrer au client l'état d'avancement de ses différents mandats et le nombre d'heures en banque. La gestion des coûts et du budgets associés au mandat,par exemple les frais de déplacemment,sera aussi effectuée par la plateforme,ainsi que la gestion des vacances et des absences des employés. Un autre objectif serait de pouvoir s'intégrer avec un système comptable dans le but de pouvoir rendre les données de la plateformes accessible par ce type de logiciel.
+ Ainsi,on peut donc dire que les objectifs globaux du système seront de gérer les actifs de la compagnies,c'est à dire les employés, en gérant leur temps,leur salaire et leur attribution à des mandats et à suivre le déroulemment de ces mandats du cote du budget et de l'avancement. De cette façon,l'entreprise sauvera du temps et pourra mieux gérer et optimiser ses mandats.
 
 ### Contexte et portée
 
-Le contexte dans lequel est implémenté le nouveau système est celui d'une nouvelle entreprise d'analystes. Puisqu'en ce moment la gestion du temps et des mandats se fait de facon informelle,on cherche ici à optimiser ces solutions et à les rendre plus formelles et informatisées. L'entreprise étant embryonnaire,on peut donc s'attendre à une augementation du nombre de mandats et une forte croissance. C'est dans ce contexte qu'au lancemment officiel de l'entreprise,il faut un système plus robuste et plus formelle de gestion du temps et des mandats. Il faut aussi que le nouveau système soit plus pratique,fiable et remplisse mieux les objectifs énoncés plus haut.
-Pour ces raisons,et dans le but de moderniser le plus possible le systeme de gestion du temps,nous avons donné prioritée aux solutions pouvant être déployées dans le cloud. Cela permettra une fiabilité acrue,une plateforme plus accesible entre autre sur les appareils mobiles,ainsi que de faible coûts de maintenance.
+Le contexte dans lequel est implémenté le nouveau système est celui d'une nouvelle entreprise d'analystes. Puisqu'en ce moment la gestion du temps et des mandats se fait de façon informelle,on cherche ici à optimiser ces solutions et à les rendre plus formelles et informatisées. L'entreprise étant embryonnaire,on peut donc s'attendre à une augmentation du nombre de mandats et une forte croissance. C'est dans ce contexte qu'au lancement officiel de l'entreprise,il faut un système plus robuste et plus formelle de gestion du temps et des mandats. Il faut aussi que le nouveau système soit plus pratique,fiable et remplisse mieux les objectifs énoncés plus haut.
+Pour ces raisons,et dans le but de moderniser le plus possible le système de gestion du temps,nous avons donné prioritée aux solutions pouvant être déployées dans le cloud. Cela permettra une fiabilité accrue,une plateforme plus accessible entre autre sur les appareils mobiles,ainsi que de faible coûts de maintenance.
 
 ### Cadre et contraintes opérationnels
 
@@ -171,7 +171,7 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ### Environnement et logistique du maintien du système
 
-Le système envisagé devra fonctionner sur ordinateur, que ce soit Mac ou Windows et il peut aussi fonctionner sur téléphone portable, Android ou Apple. Donc, la facon la plus simple de pouvoir utiliser le même système sur différent terminal sans aucun problème est d'Avoir un système en ligne qu'on accède par un navigateur web.
+Le système envisagé devra fonctionner sur ordinateur, que ce soit Mac ou Windows et il peut aussi fonctionner sur téléphone portable, Android ou Apple. Donc, la façon la plus simple de pouvoir utiliser le même système sur différent terminal sans aucun problème est d'Avoir un système en ligne qu'on accède par un navigateur web.
 
 ## Cas d'utilisation du système envisagé
 
