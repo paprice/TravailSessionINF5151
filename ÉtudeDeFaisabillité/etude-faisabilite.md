@@ -149,18 +149,25 @@ _Saisir le texte pertinent ou inscrire_ S/O
 _Saisir le texte pertinent ou inscrire_ S/O
 
 ### Catégories d'utilisateurs et parties impliquées
+1. Structure organisationnelle
 
-L'outil sera utilisé par les employés qui entreront leurs propres heures. Il devra aussi permettre de créer des rapports pour les clients, fournir des données au comptable et permettre le suivi de l'employé par d'autres membres de l'entreprise.
+  Dans l'organisation, personne n'est spécifiquement dédié à la gestion des feuilles de temps. Ce sont les employés eux-mêmes qui entrent leurs heures. Elles sont ensuite vérifiées par le coordonnateur, puis utlisées par le comptable.
 
-On pourrait donc dire qu'on à deux catégories d'utilisateurs, soit;
+2. Profils de classes d'utilisateurs
 
-1. Les employés, qui pourront modifier l'information de leurs comptes.
-2. Les gestionnaires, qui pourront suivre l'avancement des différents mandats des employés.
+  Il y aura deux classes d'utilisateurs du produit;
 
-Dans un tel cas, on aurait donc deux autres parties impliquées;
+  * Les employés, qui pourront modifier l'information de leur propre compte.
+  * Les coordonnateurs, qui pourront suivre l'avancement des différents mandats des employés, mais ne pourront pas modifier de données.
 
-1. Les comptables, qui recevront les données qui leur seront utiles.
-2. Les clients, qui pourront recevoir des rapports concernant leurs projets. 
+3. Intéractions entre les membres
+
+  L'outil sera utilisé par les employés qui entreront leurs heures et des mises à jour quant à l'avancement de leurs projets dans le système. les données permettront ensuite de créer des rapports pour les clients, fournir des données au comptable et seront lues par les coordonnateurs qui pourront visualiser les notes quant à l'évolution des mandats.
+
+4. Autres partis impliqués
+
+* Les comptables, qui recevront les données qui leur seront utiles.
+* Les clients, qui pourront recevoir des rapports concernant leurs projets.
 
 ### Environnement et logistique du maintien du système
 
