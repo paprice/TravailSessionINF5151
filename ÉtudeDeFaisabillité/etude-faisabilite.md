@@ -142,7 +142,9 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ### Description du système envisagé
 
-_Saisir le texte pertinent ou inscrire_ S/O
+_**C'est ici qu'on décrit tout**_
+
+Le système devra servir d'aide pour les analystes à entrer leur feuille de temps et permettr eune meilleur compréhension entre la direction et les analyste de qui travaille sur quel mandat et que fait-il sur ce mandat. Les principales composantes de ce système sont la feuille de temps, le contrôle de mandat et la révision de mandat. La feuille de temps va intéragir avec la section controle de mandat par le fait que chaque fois qu'un analyste va entrer ses heures travaillé, la direction va pouvoir avoir un apercu de qui a fait quoi et par le fait même va pouvoir envoyer un rapport au client sur l'avancer de ses mandats. Aussi, le système devra pouvoir interagir avec SimpleComptable, car c'est l'application que la personne de la comtabilité utilise. 
 
 ### Modes d'opération du système envisagé
 
