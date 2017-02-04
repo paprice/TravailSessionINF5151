@@ -150,7 +150,17 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ### Catégories d'utilisateurs et parties impliquées
 
-_Saisir le texte pertinent ou inscrire_ S/O
+L'outil sera utilisé par les employés qui entreront leurs propres heures. Il devra aussi permettre de créer des rapports pour les clients, fournir des données au comptable et permettre le suivi de l'employé par d'autres membres de l'entreprise.
+
+On pourrait donc dire qu'on à deux catégories d'utilisateurs, soit;
+
+1. Les employés, qui pourront modifier l'information de leurs comptes.
+2. Les gestionnaires, qui pourront suivre l'avancement des différents mandats des employés.
+
+Dans un tel cas, on aurait donc deux autres parties impliquées;
+
+1. Les comptables, qui recevront les données qui leur seront utiles.
+2. Les clients, qui pourront recevoir des rapports concernant leurs projets. 
 
 ### Environnement et logistique du maintien du système
 
