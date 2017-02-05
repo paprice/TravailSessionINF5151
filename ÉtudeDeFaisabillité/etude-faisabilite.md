@@ -64,7 +64,7 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 # Analyse de la situation
 
- ACTUELLEMENT: DANS FEUILLE EXCEL,pas normaliser,on sait pas dans quel mandat ils travaillent.
+Actuellement, la compagnie utilise des feuilles EXCEL qui ne sont pas normalisées et qui ne permettent pas de savoir dans quel mandat les employés on travaillé.
 
 ## Situation actuelle
 
@@ -76,7 +76,7 @@ S/O
 
 ### Contexte et portée
 
-S/O
+Le système actuel à pour objectif d'offrir une solution simple pour que les employés puisse gérer leurs heures travaillées sans que cela empiète sur leur travail. Il permet le plus d'autonomie possible aux employés et est facile à utiliser hors du bureau.
 
 ### Cadre et contraintes opérationnels
 
@@ -84,7 +84,7 @@ S/O
 
 ### Description du système actuel
 
-Le systèmes actuel est une suite de tableur que les analystes envoient au coordonnateurs et qui contiennent tous les heures travaillé et sur quel mandat. Donc, tout est entré à la main. Le coordonnateur doit tous copier ensuite pour mettre tous les feuilles de temps des analystes ensemble pour que la comptabilité ait toutes les informations à la même place.
+Le systèmes actuel est une suite de tableurs que les analystes envoient au coordonnateurs et qui contiennent tous les heures travaillé et sur quel mandat. Donc, tout est entré à la main. Le coordonnateur doit tous copier ensuite pour mettre tous les feuilles de temps des analystes ensemble pour que la comptabilité ait toutes les informations à la même place.
 
 ### Modes d'opération du système actuel
 
@@ -92,7 +92,27 @@ S/O
 
 ### Catégories d'utilisateurs et parties impliquées
 
-S/O
+1. Structure organisationnelle
+
+  Dans l'organisation, personne n'est spécifiquement dédié à la gestion des feuilles de temps. Ce sont les employés eux-mêmes qui entrent leurs heures. Elles sont ensuite vérifiées par le coordonnateur, puis utlisées par le comptable.
+
+2. Profils de classes d'utilisateurs
+
+  Il y a deux classes d'utilisateurs;
+
+  * Les employés, qui créent et remplissent leurs feuilles EXCEL.
+  * Les coordonnateurs, qui reçoivent ces feuilles pour les approuver.
+
+3. Intéractions entre les membres
+
+  Les feuilles sont envoyées par les employés au coordonnateur qui doit les approuver. Les données approuvées sont ensuite données au comptable pour lui permettre de faire son travail.
+
+4. Autres partis impliqués
+
+* Les comptables, qui reçoivent de l'information des feuilles de temps.
+* Les clients qui achètent une certain nombre d'heures de travail.
+* Le gouvernement, qui établit le montant de taxes au niveau de la facturation.
+
 
 ### Environnement et logistique du maintien du système
 
@@ -138,7 +158,7 @@ Pour ces raisons,et dans le but de moderniser le plus possible le système de ge
 
 ### Cadre et contraintes opérationnels
 
-_Saisir le texte pertinent ou inscrire_ S/O
+S/O
 
 ### Description du système envisagé
 
