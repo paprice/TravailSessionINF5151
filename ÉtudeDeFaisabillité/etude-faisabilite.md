@@ -144,7 +144,15 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 _**C'est ici qu'on décrit tout**_
 
-Le système devra servir d'aide pour les analystes à entrer leur feuille de temps et permettr eune meilleur compréhension entre la direction et les analyste de qui travaille sur quel mandat et que fait-il sur ce mandat. Les principales composantes de ce système sont la feuille de temps, le contrôle de mandat et la révision de mandat. La feuille de temps va intéragir avec la section controle de mandat par le fait que chaque fois qu'un analyste va entrer ses heures travaillé, la direction va pouvoir avoir un apercu de qui a fait quoi et par le fait même va pouvoir envoyer un rapport au client sur l'avancer de ses mandats. Aussi, le système devra pouvoir interagir avec SimpleComptable, car c'est l'application que la personne de la comtabilité utilise. 
+Le système devra servir d'aide pour les analystes à entrer leur feuille de temps et permettr eune meilleur compréhension entre la direction et les analyste de qui travaille sur quel mandat et que fait-il sur ce mandat. Les principales composantes de ce système sont la feuille de temps, le contrôle de mandat et la révision de mandat. La feuille de temps va intéragir avec la section controle de mandat par le fait que chaque fois qu'un analyste va entrer ses heures travaillé, la direction va pouvoir avoir un apercu de qui a fait quoi et par le fait même va pouvoir envoyer un rapport au client sur l'avancer de ses mandats. Aussi, le système devra pouvoir interagir avec SimpleComptable, car c'est l'application que la personne de la comtabilité utilise. Il devra pouvoir fournir unr facture au client et permettre au client de suivre l'avancé de ses mandats.
+
+_**Manque point e de l'exemple**_
+
+L'entreprise a un budget entre 50000$ et 100000$ pour la création ou l'aquisition d'un système qui remplis leur demande. Il devra pouvoir permettre l'ajout de nouveaux analystes, puisque l'entreprise compte grossir au cours des prochaines années et il devra par la même occasion être rapide d'accès et d'exécution, pusique plus un analyste perd du temps, plus sa coute cher à l'entreprise.
+
+_**Manque point h et i de l'exemple**_
+
+Dans l'idéal, le système et ses serveurs, si requis, vont être héberger ailleurs que dans les batiments de l'entreprise, puisque l'entreprise ne veut pas utilisé d'analyste pour faire de la maintenance.
 
 ### Modes d'opération du système envisagé
 
