@@ -218,19 +218,31 @@ Le changement de système n'entrainera aucun changements du coté organisationel
 
 ### Perspective de mise en place
 
-_Saisir le texte pertinent ou inscrire_ S/O
+#### Impact sur l'utilisateur
+
+Malgre le choix d'une solution ayant le moins d'impact possible sur les employees et leur facon de faire,il est impossible d'effectuer un changemment sans avoir un impact minime sur l'utilisation. En effet,il faudra de la part des utilisateurs s'adapter à un nouveau système de de feuille de temps. Toutefois,nous nous attendons à ce que ce système offre une interface beaucoup plus conviviale qu'une feuille de calcul excel. Cela devrait donc,du point de vue de l'utilisateur,contrebalancer tout autre impact pour celui-ci.
+
+#### Impact sur le management
+
+Du point de vue du management,la aussi il y aura un impact d'implémentation à considérer. En effet,le management (coordonateur) recevait actuellemment toutes les feuilles de temps excel des employés et gérait aussi leur temps et leur attribution de projets. Or,grâce au nouveau système,le coordonateur sera donc liberé de cette tâche.Bien qu'il recevra quand meme un portrait global par le biais du sytème,il n'aura pas à consolider lui-même les feuilles de temps.
+
+#### Impact de tests
+
+Puisque nous nous orientons vers une solution SaAS,nous prevoyons un impact de test minimal,avec seulemment une legere courbe de d'apprentissage pour les utilsiateurs du système. Pour le déploimment,encore la la solution est clée en main et la configuration initiale ne représente pas un impact considérable pour l'entreprise.
 
 ## Caractéristiques du système envisagé
 
-_Saisir le texte pertinent ou inscrire_ S/O
+
 
 ### Sommaire des améliorations
 
-S/O
+Nouvelles fonction,foncitons ameliroer,foonctions sumprimer,meilleur performance et qualite
+Le système que nous envisagons possède de nombreux avantages. Tout d'abord,il est impératif de mentionner l'interface beaucoup plus conviviale et pratique pour l'utilisateur. Puisque le service sera prsente comme service web heberge dans le cloud,son accesibilite sera aussi accrue car les utilisateurs pourront l'utiliser de n'importe ou et de n'inmporte quel appareil. Une autre nouvelle fonction sera la création de raports pour un meilleur suivit du temps et de la gestion des employés. De plus,les vues consolidéees pourront permettre une meilleure connaissance des heures travaillées par mandat,par période ou par employé et ainsi faciliter la gestion interne ainsi que la communication de l'avancemment du projet avec le client. La gestion de la banque d'heure d'une compagnie pourrait aussi etre intégrer dans la solution pour une meilleur intégration. La gestion des coûts intégrée ainsi que le calculs des vacances sont d'autres attouts.
+De plus,il faut souligner que la solution étant SaAS,les coûts d'implémentation,de support,d'entretien et de programmation sont  faibles et facilemment controlables puisque le système est proposé comme clée en main et son entretient en est garantie.
 
 ### Inconvénients et limites
 
-_Saisir le texte pertinent ou inscrire_ S/O
+L'un des inconvénients évident se reflète directemment depuis l'avantage de cette plateforme: la nouvelle interface,bien différente de celle que pouvait offrir EXCEL. Bien que nous visions un système aussi intuitif que possible,il est évident qu'une petite adaptation est à prévoir de la part des utilisateurs. Toutefois,nous ne prévoyions pas qu'une formation soit nescessaire pour son utilisation. Égalemment,l'intégration avec des logiciels externes comme des solutions comptable pourrait être limitée ou difficile à implémenter ou supporter.
 
 ### Autres choix considérés et raisons des choix retenus
 
