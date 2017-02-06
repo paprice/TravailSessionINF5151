@@ -170,7 +170,7 @@ Le système permettra aussi de fournir, sur demande, des rapports hebdomadaires 
 L'entreprise a établi un budget entre 50000$ et 100000$ pour le développement ou l'acquisition d'un système qui répondra à leurs besoin . Ce système devrait pouvoir permettre d'ajouter des nouveaux analystes , car l'entreprise est en expansion et prévoit compter plus d'analystes dans les prochaines années . L'entreprise compte sur ce système pour augmenter sa productivité, en évitant que ses analystes perdent du temps avec l'utilisation des tableurs EXCEL . Le système devra par conséquent être efficace, rapide d'accès et d'utilisation .
 
 Le système devra pouvoir être accessible en tout temps ( 24/24 7j/7 ), et devra être fonctionnel sur ordinateurs et téléphones intelligents, étant donné que tout les analystes y ont accès en tout temps dans le cadre de leur travail, par conséquent le mode hors connexion n'est pas nécessaire .
-Le système ainsi que ses serveurs ne seront pas hébergés localement, car la maintenance et les mises à jour seront assurées par les développeurs du système . 
+Le système ainsi que ses serveurs ne seront pas hébergés localement, car la maintenance et les mises à jour seront assurées par les développeurs du système .
 
 ### Modes d'opération du système envisagé
 
@@ -211,11 +211,11 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ### Perspective opérationnelle
 
-_Saisir le texte pertinent ou inscrire_ S/O
+Les changements que le nouveau système va créer vont être énorme, puisque l'entreprise passe de "rien" à un système complet de gestion de feuilles de temps et de mandat. En passant d'un tableur Excel à un logiciel contenant toutes les informations, les coordonnateurs vont gagné beaucoup de temps lors de l'analyse de ce que font les analystes, puisque toutes les feuilles de temps vont se retrouver au même endroit et non dans plusieurs documents.
 
 ### Perspective organisationnelle
 
-_Saisir le texte pertinent ou inscrire_ S/O
+Le changement de système n'entrainera aucun changements du coté organisationel, puisque le système est mis en place pour faciliter le passage de donnée entre les analystes et les coordonnateurs et comptables.
 
 ### Perspective de mise en place
 
