@@ -228,7 +228,7 @@ Du point de vue du management,la aussi il y aura un impact d'implémentation à 
 
 #### Impact de tests
 
-Puisque nous nous orientons vers une solution SaAS,nous prevoyons un impact de test minimal,avec seulemment une legere courbe de d'apprentissage pour les utilsiateurs du système. Pour le déploimment,encore la la solution est clée en main et la configuration initiale ne représente pas un impact considérable pour l'entreprise.
+Puisque nous nous orientons vers une solution SaAS,nous prevoyons un impact de test minimal,avec seulemment une legere courbe de d'apprentissage pour les utilisateurs du système. Pour le déploimment, la solution est clée en main et la configuration initiale ne représente pas un impact considérable pour l'entreprise.
 
 ## Caractéristiques du système envisagé
 
@@ -236,13 +236,13 @@ Puisque nous nous orientons vers une solution SaAS,nous prevoyons un impact de t
 
 ### Sommaire des améliorations
 
-Nouvelles fonction,foncitons ameliroer,foonctions sumprimer,meilleur performance et qualite
-Le système que nous envisagons possède de nombreux avantages. Tout d'abord,il est impératif de mentionner l'interface beaucoup plus conviviale et pratique pour l'utilisateur. Puisque le service sera prsente comme service web heberge dans le cloud,son accesibilite sera aussi accrue car les utilisateurs pourront l'utiliser de n'importe ou et de n'inmporte quel appareil. Une autre nouvelle fonction sera la création de raports pour un meilleur suivit du temps et de la gestion des employés. De plus,les vues consolidéees pourront permettre une meilleure connaissance des heures travaillées par mandat,par période ou par employé et ainsi faciliter la gestion interne ainsi que la communication de l'avancemment du projet avec le client. La gestion de la banque d'heure d'une compagnie pourrait aussi etre intégrer dans la solution pour une meilleur intégration. La gestion des coûts intégrée ainsi que le calculs des vacances sont d'autres attouts.
-De plus,il faut souligner que la solution étant SaAS,les coûts d'implémentation,de support,d'entretien et de programmation sont  faibles et facilemment controlables puisque le système est proposé comme clée en main et son entretient en est garantie.
+Nouvelles fonction,fonctions ameliorer,fonctions supprimer,meilleure performance et qualité
+Le système que nous envisagons possède de nombreux avantages. Tout d'abord,il est impératif de mentionner l'interface beaucoup plus conviviale et pratique pour l'utilisateur. Puisque le service sera présente comme service web hébergé dans le cloud,son accesibilite sera aussi accrue car les utilisateurs pourront l'utiliser de n'importe où et de n'importe quel appareil. Une autre nouvelle fonction sera la création de rapports pour un meilleur suivit du temps et de la gestion des employés. De plus,les vues consolidées pourront permettre une meilleure connaissance des heures travaillées par mandat,par période ou par employé et ainsi faciliter la gestion interne ainsi que la communication de l'avancemment du projet avec le client. La gestion de la banque d'heure d'une compagnie pourrait aussi etre intégrer dans la solution pour une meilleur intégration. La gestion des coûts intégrée ainsi que le calculs des vacances sont d'autres atouts.
+De plus,il faut souligner que la solution étant SaAS,les coûts d'implémentation,de support,d'entretien et de programmation sont faibles et facilemment contrôlables puisque le système est proposé comme clée en main et son entretient en est garantie.
 
 ### Inconvénients et limites
 
-L'un des inconvénients évident se reflète directemment depuis l'avantage de cette plateforme: la nouvelle interface,bien différente de celle que pouvait offrir EXCEL. Bien que nous visions un système aussi intuitif que possible,il est évident qu'une petite adaptation est à prévoir de la part des utilisateurs. Toutefois,nous ne prévoyions pas qu'une formation soit nescessaire pour son utilisation. Égalemment,l'intégration avec des logiciels externes comme des solutions comptable pourrait être limitée ou difficile à implémenter ou supporter.
+L'un des inconvénients évident se reflète directemment depuis l'avantage de cette plateforme: la nouvelle interface,bien différente de celle que pouvait offrir EXCEL. Bien que nous visions un système aussi intuitif que possible,il est évident qu'une petite adaptation est à prévoir de la part des utilisateurs. Toutefois,nous ne prévoyions pas qu'une formation soit necéssaire pour son utilisation. Égalemment,l'intégration avec des logiciels externes comme des solutions comptable pourrait être limitée ou difficile à implémenter ou supporter.
 
 ### Autres choix considérés et raisons des choix retenus
 
