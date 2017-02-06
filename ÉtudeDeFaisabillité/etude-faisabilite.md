@@ -162,17 +162,15 @@ S/O
 
 ### Description du système envisagé
 
-_**C'est ici qu'on décrit tout**_
+Le système devra permettre aux analystes d'entrer leur feuilles de temps de façon hebdomadaire directement sur le système, pour ainsi permettre une meilleure collaboration entre la direction et les analystes : Ceci permet d'avoir une idée claire sur le mandat sur lequel l'employé travaille, et donne aussi une description des tâches effectuées ainsi que le nombre d'heures investies sur chacune de ces tâches. Les feuilles de temps sont toujours validées et approuvées par le coordonnateur .
+Les principales composantes du système sont les feuilles de temps, le contrôle de mandat ainsi que la révision du mandat . Le contrôle de mandat dépend principalement des feuilles de temps que les analystes remettent, car ceci permet à la direction d'avoir un aperçu sur les tâches effectuées dans le cadre d'un mandat en particulier . Un rapport est ensuite fourni mensuellement au client pour l'informer de l'état d'avancement de ses projets .
+Le système possède également une API pour pouvoir intéragir avec le logiciel SimpleComptable, étant donné que c'est l'application utilisée par le département de comptabilité , ce qui permet par la suite de générer les factures des clients .
+Le système permettra aussi de fournir, sur demande, des rapports hebdomadaires aux analystes contentant le nombre d'heures travaillées sur chacun de leurs projets .
 
-Le système devra servir d'aide pour les analystes à entrer leur feuille de temps et permettr eune meilleur compréhension entre la direction et les analyste de qui travaille sur quel mandat et que fait-il sur ce mandat. Les principales composantes de ce système sont la feuille de temps, le contrôle de mandat et la révision de mandat. La feuille de temps va intéragir avec la section controle de mandat par le fait que chaque fois qu'un analyste va entrer ses heures travaillé, la direction va pouvoir avoir un apercu de qui a fait quoi et par le fait même va pouvoir envoyer un rapport au client sur l'avancer de ses mandats. Aussi, le système devra pouvoir interagir avec SimpleComptable, car c'est l'application que la personne de la comtabilité utilise. Il devra pouvoir fournir unr facture au client et permettre au client de suivre l'avancé de ses mandats.
+L'entreprise a établi un budget entre 50000$ et 100000$ pour le développement ou l'acquisition d'un système qui répondra à leurs besoin . Ce système devrait pouvoir permettre d'ajouter des nouveaux analystes , car l'entreprise est en expansion et prévoit compter plus d'analystes dans les prochaines années . L'entreprise compte sur ce système pour augmenter sa productivité, en évitant que ses analystes perdent du temps avec l'utilisation des tableurs EXCEL . Le système devra par conséquent être efficace, rapide d'accès et d'utilisation .
 
-_**Manque point e de l'exemple**_
-
-L'entreprise a un budget entre 50000$ et 100000$ pour la création ou l'aquisition d'un système qui remplis leur demande. Il devra pouvoir permettre l'ajout de nouveaux analystes, puisque l'entreprise compte grossir au cours des prochaines années et il devra par la même occasion être rapide d'accès et d'exécution, pusique plus un analyste perd du temps, plus sa coute cher à l'entreprise.
-
-_**Manque point h et i de l'exemple**_
-
-Dans l'idéal, le système et ses serveurs, si requis, vont être héberger ailleurs que dans les batiments de l'entreprise, puisque l'entreprise ne veut pas utilisé d'analyste pour faire de la maintenance.
+Le système devra pouvoir être accessible en tout temps ( 24/24 7j/7 ), et devra être fonctionnel sur ordinateurs et téléphones intelligents, étant donné que tout les analystes y ont accès en tout temps dans le cadre de leur travail, par conséquent le mode hors connexion n'est pas nécessaire .
+Le système ainsi que ses serveurs ne seront pas hébergés localement, car la maintenance et les mises à jour seront assurées par les développeurs du système . 
 
 ### Modes d'opération du système envisagé
 
