@@ -67,7 +67,7 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ## Situation actuelle
 
-Actuellement, la compagnie utilise des feuilles EXCEL qui ne sont pas normalisées et qui ne permettent pas de savoir dans quel mandat les employés on travaillé. C'est le système informel qui s'est développé naturelemment pour les employés faute d'avoir une meilleure solution implémmentée.
+Actuellement, la compagnie utilise des feuilles EXCEL qui ne sont pas normalisées et qui ne permettent pas de savoir dans quel mandat les employés on travaillé. C'est le système informel qui s'est développé naturellement pour les employés faute d'avoir une meilleure solution implémmentée.
 
 ### Objectifs
 
@@ -75,11 +75,11 @@ Le système actuel à pour objectif d'offrir une solution simple pour que les em
 
 ### Contexte et portée
 
- Ce systeme informel par excel s'est revelé être facile et rapide à implémenter,et dans le contexte embryonnaire de l'entreprise cela s'est revelé être parfait. Le fichier excel gerait donc seulemment les heures travaillees de l'employé,sans details ni autre fonctionnalitées. La compagnie étant à ses tout début,on peut supposer qu'un des objectifs de ce système de base était aussi de maintenir les coûts initiaux au plus bas possible.
+ Ce système informel par excel s'est revelé être facile et rapide à implémenter,et dans le contexte embryonnaire de l'entreprise cela s'est revelé être parfait. Le fichier excel gérait donc seulement les heures travaillées de l'employé,sans détails ni autre fonctionnalitées. La compagnie étant à ses tout début,on peut supposer qu'un des objectifs de ce système de base était aussi de maintenir les coûts initiaux au plus bas possible.
 
 ### Cadre et contraintes opérationnels
 
-De par la nature basique du système,les contraintes opérationnelles de la situation actuelle sont nombreuses. Le manque de flexibilité est la première à considérer,puisque en effet il est bien difficile d'adapter un tableur EXCEL à nos besoins précis en matière de feuille de temps. Toutes les heures doivent être entrées à la main. La gestion des mandats est bien difficile aussi,car les tableurs de chaque employés ne sont pas consolidés globalemment et doivent être envoyés un à un au coordonnateur. Cela implique donc que l'aggrégation des données et leur consultation est très diffcile et complètemment manuelle. Justemment,une autre contrainte opérationnelle importante est celle de l'automatisation. Il est très difficle d'automatiser des fonctions de feuilles de gestion de temps et d'employé courantes à travers le logiciel. Mise à part les macros,impossible d'allouer automatiquemmeent une équipe sur un mandat ou de voir instannément le nombre d'heures travaillées par tous les employés sur un mandat commun. Égalemment,impossible de sortir facilemment et dans un format agréable des rapports sur mesure. L'ergonomie du logiciel étant atroce sur les palteformes mobiles,son utilisation est donc presque limitée à un ordinateur de bureau.
+De par la nature basique du système,les contraintes opérationnelles de la situation actuelle sont nombreuses. Le manque de flexibilité est la première à considérer,puisque en effet il est bien difficile d'adapter un tableur EXCEL à nos besoins précis en matière de feuille de temps. Toutes les heures doivent être entrées à la main. La gestion des mandats est bien difficile aussi,car les tableurs de chaque employés ne sont pas consolidés globalement et doivent être envoyés un à un au coordonnateur. Cela implique donc que l'aggrégation des données et leur consultation est très difficile et complètemment manuelle. Justement,une autre contrainte opérationnelle importante est celle de l'automatisation. Il est très difficile d'automatiser des fonctions de feuilles de gestion de temps et d'employé courantes à travers le logiciel. Mise à part les macros,impossible d'allouer automatiquement une équipe sur un mandat ou de voir instannément le nombre d'heures travaillées par tous les employés sur un mandat commun. Égalemment,impossible de sortir facilement et dans un format agréable des rapports sur mesure. L'ergonomie du logiciel étant atroce sur les plateformes mobiles,son utilisation est donc presque limitée à un ordinateur de bureau.
 
 ### Description du système actuel
 
@@ -99,7 +99,7 @@ S/O
 
   Il y a deux classes d'utilisateurs;
 
-  * Les employés, qui créent et remplissent leurs feuilles EXCEL.
+  * Les employés, qui créent et remplissent leurs feuilles Excel.
   * Les coordonnateurs, qui reçoivent ces feuilles pour les approuver.
 
 3. Intéractions entre les membres
@@ -157,7 +157,7 @@ Pour ces raisons,et dans le but de moderniser le plus possible le système de ge
 
 ### Cadre et contraintes opérationnels
 
-Bien entendu,nous souhaitons que le système proposé implique le minimum de contraintes opérationnelles possible. En effet,la plateforme devrait foncitonner sur le web,et ainsi être accessible de n'importe ou dans le monde et de n'importe quel appareils supportant les normes web standard. Il faudra avoir recours à un identifiant et un mot de passe pour s'identifier dans la plateforme. Les données de la plateforme devrait être accesible via un API pou en faciliter la manipulation et pour offrir une flexibilité au niveau du traitemment possible des données en sortie (ie logiciel comptable).
+Bien entendu,nous souhaitons que le système proposé implique le minimum de contraintes opérationnelles possible. En effet,la plateforme devrait fonctionner sur le web,et ainsi être accessible de n'importe ou dans le monde et de n'importe quel appareils supportant les normes web standard. Il faudra avoir recours à un identifiant et un mot de passe pour s'identifier dans la plateforme. Les données de la plateforme devrait être accessible via un API pou en faciliter la manipulation et pour offrir une flexibilité au niveau du traitement possible des données en sortie (i.e. logiciel comptable).
 
 ### Description du système envisagé
 
@@ -166,7 +166,7 @@ Les principales composantes du système sont les feuilles de temps, le contrôle
 Le système possède également une API pour pouvoir intéragir avec le logiciel SimpleComptable, étant donné que c'est l'application utilisée par le département de comptabilité , ce qui permet par la suite de générer les factures des clients .
 Le système permettra aussi de fournir, sur demande, des rapports hebdomadaires aux analystes contentant le nombre d'heures travaillées sur chacun de leurs projets .
 
-L'entreprise a établi un budget entre 50000$ et 100000$ pour le développement ou l'acquisition d'un système qui répondra à leurs besoin . Ce système devrait pouvoir permettre d'ajouter des nouveaux analystes , car l'entreprise est en expansion et prévoit compter plus d'analystes dans les prochaines années . L'entreprise compte sur ce système pour augmenter sa productivité, en évitant que ses analystes perdent du temps avec l'utilisation des tableurs EXCEL . Le système devra par conséquent être efficace, rapide d'accès et d'utilisation .
+L'entreprise a établi un budget entre 50000$ et 100000$ pour le développement ou l'acquisition d'un système qui répondra à leurs besoin . Ce système devrait pouvoir permettre d'ajouter des nouveaux analystes , car l'entreprise est en expansion et prévoit compter plus d'analystes dans les prochaines années . L'entreprise compte sur ce système pour augmenter sa productivité, en évitant que ses analystes perdent du temps avec l'utilisation des tableurs Excel . Le système devra par conséquent être efficace, rapide d'accès et d'utilisation .
 
 Le système devra pouvoir être accessible en tout temps ( 24/24 7j/7 ), et devra être fonctionnel sur ordinateurs et téléphones intelligents, étant donné que tout les analystes y ont accès en tout temps dans le cadre de leur travail, par conséquent le mode hors connexion n'est pas nécessaire .
 Le système ainsi que ses serveurs ne seront pas hébergés localement, car la maintenance et les mises à jour seront assurées par les développeurs du système .
@@ -220,15 +220,15 @@ Le changement de système n'entrainera aucun changements du coté organisationel
 
 #### Impact sur l'utilisateur
 
-Malgre le choix d'une solution ayant le moins d'impact possible sur les employees et leur facon de faire,il est impossible d'effectuer un changemment sans avoir un impact minime sur l'utilisation. En effet,il faudra de la part des utilisateurs s'adapter à un nouveau système de de feuille de temps. Toutefois,nous nous attendons à ce que ce système offre une interface beaucoup plus conviviale qu'une feuille de calcul excel. Cela devrait donc,du point de vue de l'utilisateur,contrebalancer tout autre impact pour celui-ci.
+Malgré le choix d'une solution ayant le moins d'impact possible sur les employés et leur façon de faire,il est impossible d'effectuer un changement sans avoir un impact minime sur l'utilisation. En effet,il faudra de la part des utilisateurs s'adapter à un nouveau système de de feuille de temps. Toutefois,nous nous attendons à ce que ce système offre une interface beaucoup plus conviviale qu'une feuille de calcul Excel. Cela devrait donc,du point de vue de l'utilisateur,contrebalancer tout autre impact pour celui-ci.
 
 #### Impact sur le management
 
-Du point de vue du management,la aussi il y aura un impact d'implémentation à considérer. En effet,le management (coordonateur) recevait actuellemment toutes les feuilles de temps excel des employés et gérait aussi leur temps et leur attribution de projets. Or,grâce au nouveau système,le coordonateur sera donc liberé de cette tâche.Bien qu'il recevra quand meme un portrait global par le biais du sytème,il n'aura pas à consolider lui-même les feuilles de temps.
+Du point de vue du management,la aussi il y aura un impact d'implémentation à considérer. En effet,le management (coordonnateur) recevait actuellement toutes les feuilles de temps Excel des employés et gérait aussi leur temps et leur attribution de projets. Or,grâce au nouveau système,le coordonnateur sera donc liberé de cette tâche.Bien qu'il recevra quand même un portrait global par le biais du sytème,il n'aura pas à consolider lui-même les feuilles de temps.
 
 #### Impact de tests
 
-Puisque nous nous orientons vers une solution SaAS,nous prevoyons un impact de test minimal,avec seulemment une legere courbe de d'apprentissage pour les utilisateurs du système. Pour le déploimment, la solution est clée en main et la configuration initiale ne représente pas un impact considérable pour l'entreprise.
+Puisque nous nous orientons vers une solution SaAS,nous prévoyons un impact de test minimal,avec seulement une légere courbe de d'apprentissage pour les utilisateurs du système. Pour le déploimment, la solution est clée en main et la configuration initiale ne représente pas un impact considérable pour l'entreprise.
 
 ## Caractéristiques du système envisagé
 
@@ -236,13 +236,11 @@ Puisque nous nous orientons vers une solution SaAS,nous prevoyons un impact de t
 
 ### Sommaire des améliorations
 
-Nouvelles fonction,fonctions ameliorer,fonctions supprimer,meilleure performance et qualité
-Le système que nous envisagons possède de nombreux avantages. Tout d'abord,il est impératif de mentionner l'interface beaucoup plus conviviale et pratique pour l'utilisateur. Puisque le service sera présente comme service web hébergé dans le cloud,son accesibilite sera aussi accrue car les utilisateurs pourront l'utiliser de n'importe où et de n'importe quel appareil. Une autre nouvelle fonction sera la création de rapports pour un meilleur suivit du temps et de la gestion des employés. De plus,les vues consolidées pourront permettre une meilleure connaissance des heures travaillées par mandat,par période ou par employé et ainsi faciliter la gestion interne ainsi que la communication de l'avancemment du projet avec le client. La gestion de la banque d'heure d'une compagnie pourrait aussi etre intégrer dans la solution pour une meilleur intégration. La gestion des coûts intégrée ainsi que le calculs des vacances sont d'autres atouts.
-De plus,il faut souligner que la solution étant SaAS,les coûts d'implémentation,de support,d'entretien et de programmation sont faibles et facilemment contrôlables puisque le système est proposé comme clée en main et son entretient en est garantie.
+Le système que nous envisageons possède de nombreux avantages; nouvelles fonctionalitées, fonctions améliorées, fonction de suppression, meilleure performance et qualité. Tout d'abord,il est impératif de mentionner l'interface beaucoup plus conviviale et pratique pour l'utilisateur. Puisque le service sera présenté comme service web hébergé dans le cloud, son accesibilité sera aussi accrue car les utilisateurs pourront l'utiliser de n'importe où et de n'importe quel appareil. Une autre nouvelle fonction sera la création de rapports pour un meilleur suivit du temps et de la gestion des employés. De plus,les vues consolidées pourront permettre une meilleure connaissance des heures travaillées par mandat, par période ou par employé et faciliter la gestion interne ainsi que la communication de l'avancement du projet avec le client. La gestion de la banque d'heure d'une compagnie pourrait aussi être ajouté à la solution pour une meilleure intégration. La gestion des coûts intégrée ainsi que le calculs des vacances sont d'autres atouts. Finalement, il faut souligner que la solution étant SaAS,les coûts d'implémentation,de support,d'entretien et de programmation sont faibles et facilement contrôlables puisque le système est proposé comme clée en main et son entretient en est garantie.
 
 ### Inconvénients et limites
 
-L'un des inconvénients évident se reflète directemment depuis l'avantage de cette plateforme: la nouvelle interface,bien différente de celle que pouvait offrir EXCEL. Bien que nous visions un système aussi intuitif que possible,il est évident qu'une petite adaptation est à prévoir de la part des utilisateurs. Toutefois,nous ne prévoyions pas qu'une formation soit necéssaire pour son utilisation. Égalemment,l'intégration avec des logiciels externes comme des solutions comptable pourrait être limitée ou difficile à implémenter ou supporter.
+L'un des inconvénients évident se reflète directement depuis l'avantage de cette plateforme: la nouvelle interface,bien différente de celle que pouvait offrir EXCEL. Bien que nous visions un système aussi intuitif que possible,il est évident qu'une petite adaptation est à prévoir de la part des utilisateurs. Toutefois,nous ne prévoyions pas qu'une formation soit necéssaire pour son utilisation. Égalemment,l'intégration avec des logiciels externes comme des solutions comptable pourrait être limitée ou difficile à implémenter ou supporter.
 
 ### Autres choix considérés et raisons des choix retenus
 
