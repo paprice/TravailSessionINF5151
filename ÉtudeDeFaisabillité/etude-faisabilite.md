@@ -198,11 +198,31 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ### Environnement et logistique du maintien du système
 
-Le système envisagé devra fonctionner sur ordinateur, que ce soit Mac ou Windows et il peut aussi fonctionner sur téléphone portable, Android ou Apple. Donc, la façon la plus simple de pouvoir utiliser le même système sur différent terminal sans aucun problème est d'Avoir un système en ligne qu'on accède par un navigateur web.
+Le système envisagé devra fonctionner sur ordinateur, que ce soit Mac ou Windows et il peut aussi fonctionner sur téléphone portable, Android ou Apple. Donc, la façon la plus simple de pouvoir utiliser le même système sur différents terminaux sans aucun problème est d'avoir un système en ligne qu'on accède par un navigateur web.
 
 ## Cas d'utilisation du système envisagé
 
-_Saisir le texte pertinent ou inscrire_ S/O
+Différents cas d'utilisation:
+* Un analyste veut soumettre une feuille de temps pour une période donnée:
+
+  1. Il enregistre sa feuille de temps au fur et à mesure qu'il travaille.
+  2. Il la soumet une fois complétée.
+  3. La feuille de temps est approuvée par un coordonnateur et, par le fait même, ne peut plus être modifiée à moins d'être désapprouvée.
+
+* Un coordonnateur vérifie l'avancement d'un projet à travers les notes laissées par un analyste:
+
+  1. Il utilise les droits associés à son rôle pour voir les feuilles de temps des employés en lien avec le projet.
+
+* Un comptable souhaite utiliser les informations des feuilles de temps pour faire les livres de l'entreprise:
+
+  1. Il vérouille les feuilles de temps approuvées par les coordonnateurs.
+  2. Il les importe dans Simple Comptable pour faire la comptabilitée.
+
+* Un rapport est généré et envoyé à un client:
+
+  1. Les données à inclure au rapport sont sélectionnées à l'aide d'une liste de critères de filtrage. Ces options de filtrage incluent des options tels que la période de temps, les projets et les tâches.
+  2. Un type de présentation est sélectionné pour le rapport.
+  3. Au besoin, on active l'automatisation des rapports pour que ceux-ci soient envoyés au client périodiquement suivant les critères sélectionnés.
 
 ## Étude d'impact
 
