@@ -64,23 +64,22 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 # Analyse de la situation
 
-Actuellement, la compagnie utilise des feuilles EXCEL qui ne sont pas normalisées et qui ne permettent pas de savoir dans quel mandat les employés on travaillé.
 
 ## Situation actuelle
 
-L'entreprise Les Mousquetaires utilise comme feuille de temps un tableur EXCEL.
+Actuellement, la compagnie utilise des feuilles EXCEL qui ne sont pas normalisées et qui ne permettent pas de savoir dans quel mandat les employés on travaillé. C'est le système informel qui s'est développé naturelemment pour les employés faute d'avoir une meilleure solution implémmentée.
 
 ### Objectifs
 
-S/O
+Le système actuel à pour objectif d'offrir une solution simple pour que les employés puisse gérer leurs heures travaillées sans que cela empiète sur leur travail. Il s'agit donc de stocker,partager et calculer les heures travaillées par employé,et ce avec le moins de difficulté possible et sans déploiemment complexe.
 
 ### Contexte et portée
 
-Le système actuel à pour objectif d'offrir une solution simple pour que les employés puisse gérer leurs heures travaillées sans que cela empiète sur leur travail. Il permet le plus d'autonomie possible aux employés et est facile à utiliser hors du bureau.
+ Ce systeme informel par excel s'est revelé être facile et rapide à implémenter,et dans le contexte embryonnaire de l'entreprise cela s'est revelé être parfait. Le fichier excel gerait donc seulemment les heures travaillees de l'employé,sans details ni autre fonctionnalitées. La compagnie étant à ses tout début,on peut supposer qu'un des objectifs de ce système de base était aussi de maintenir les coûts initiaux au plus bas possible.
 
 ### Cadre et contraintes opérationnels
 
-S/O
+De par la nature basique du système,les contraintes opérationnelles de la situation actuelle sont nombreuses. Le manque de flexibilité est la première à considérer,puisque en effet il est bien difficile d'adapter un tableur EXCEL à nos besoins précis en matière de feuille de temps. Toutes les heures doivent être entrées à la main. La gestion des mandats est bien difficile aussi,car les tableurs de chaque employés ne sont pas consolidés globalemment et doivent être envoyés un à un au coordonnateur. Cela implique donc que l'aggrégation des données et leur consultation est très diffcile et complètemment manuelle. Justemment,une autre contrainte opérationnelle importante est celle de l'automatisation. Il est très difficle d'automatiser des fonctions de feuilles de gestion de temps et d'employé courantes à travers le logiciel. Mise à part les macros,impossible d'allouer automatiquemmeent une équipe sur un mandat ou de voir instannément le nombre d'heures travaillées par tous les employés sur un mandat commun. Égalemment,impossible de sortir facilemment et dans un format agréable des rapports sur mesure. L'ergonomie du logiciel étant atroce sur les palteformes mobiles,son utilisation est donc presque limitée à un ordinateur de bureau.
 
 ### Description du système actuel
 
@@ -153,12 +152,12 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ### Contexte et portée
 
-Le contexte dans lequel est implémenté le nouveau système est celui d'une nouvelle entreprise d'analystes. Puisqu'en ce moment la gestion du temps et des mandats se fait de façon informelle,on cherche ici à optimiser ces solutions et à les rendre plus formelles et informatisées. L'entreprise étant embryonnaire,on peut donc s'attendre à une augmentation du nombre de mandats et une forte croissance. C'est dans ce contexte qu'au lancement officiel de l'entreprise,il faut un système plus robuste et plus formelle de gestion du temps et des mandats. Il faut aussi que le nouveau système soit plus pratique,fiable et remplisse mieux les objectifs énoncés plus haut.
+Le contexte dans lequel est implémenté le nouveau système est celui d'une nouvelle entreprise d'analystes. Puisqu'en ce moment la gestion du temps et des mandats se fait de façon informelle,on cherche ici à optimiser ces solutions et à les rendre plus formelles et informatisées. L'entreprise étant embryonnaire,on peut donc s'attendre à une augmentation du nombre de mandats et une forte croissance. C'est dans ce contexte qu'au lancement officiel de l'entreprise,il faut un système plus robuste et plus formel de gestion du temps et des mandats. Il faut aussi que le nouveau système soit plus pratique,fiable et remplisse mieux les objectifs énoncés plus haut.
 Pour ces raisons,et dans le but de moderniser le plus possible le système de gestion du temps,nous avons donné prioritée aux solutions pouvant être déployées dans le cloud. Cela permettra une fiabilité accrue,une plateforme plus accessible entre autre sur les appareils mobiles,ainsi que de faible coûts de maintenance.
 
 ### Cadre et contraintes opérationnels
 
-S/O
+Bien entendu,nous souhaitons que le système proposé implique le minimum de contraintes opérationnelles possible. En effet,la plateforme devrait foncitonner sur le web,et ainsi être accessible de n'importe ou dans le monde et de n'importe quel appareils supportant les normes web standard. Il faudra avoir recours à un identifiant et un mot de passe pour s'identifier dans la plateforme. Les données de la plateforme devrait être accesible via un API pou en faciliter la manipulation et pour offrir une flexibilité au niveau du traitemment possible des données en sortie (ie logiciel comptable).
 
 ### Description du système envisagé
 
