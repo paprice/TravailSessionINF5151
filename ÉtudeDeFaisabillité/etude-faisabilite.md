@@ -307,10 +307,15 @@ Tout d'abord,nous avons fait des recherches pour déterminer quelles solutions �
 ## Sélection des solutions retenues
 
 Avec les différentes solutions trouvées ci-haut,nous avons par la suite réfléchis sur leur faisabilité et leur coté pratique. Nous en sommes venu aux conclusions suivantes:
--La gestion de temps sans système clair,c'est à dire de mémoire,est impossible dût à la complexité prévue des opérations de l'entreprise embryonnaire.
--Le système de gestion par feuille de temps actuellement en place par feuille de temps ne reponds pas suffisament à tous les besoins pour être conservé et les possibilitées d'améliorations sont faible,voir même impossible. Le status quo au niveau du système de gestion de feuille de temps n'est donc pas retenu.
--Les solutions de gestion de ressources humaines complet integrés avec l'imposition et la comtpabilité ne sont pas disponible au Canada et sont trop complexes pour les besoins de la compagnie.
--Les progiciels sont trop cher à implémenter et sont focussés pour la plupart sur la gestion des matériels et non des feuilles de temps. De plus,ils sont très complexe à déployer et à maintenir et la plupart des foncitonnalitées offertes par ces solutions ne seront pas utilisées dans le cadre de l'entreprise.
+
+-- La gestion de temps sans système clair,c'est à dire de mémoire,est impossible dût à la complexité prévue des opérations de l'entreprise embryonnaire.
+
+-- Le système de gestion par feuille de temps actuellement en place par feuille de temps ne reponds pas suffisament à tous les besoins pour être conservé et les possibilitées d'améliorations sont faible,voir même impossible. Le status quo au niveau du système de gestion de feuille de temps n'est donc pas retenu.
+
+-- Les solutions de gestion de ressources humaines complet integrés avec l'imposition et la comtpabilité ne sont pas disponible au Canada et sont trop complexes pour les besoins de la compagnie.
+
+-- Les progiciels sont trop cher à implémenter et sont focussés pour la plupart sur la gestion des matériels et non des feuilles de temps. De plus,ils sont très complexe à déployer et à maintenir et la plupart des foncitonnalitées offertes par ces solutions ne seront pas utilisées dans le cadre de l'entreprise.
+
 Pour ces raisons,nous retenons donc les solutions web clée en main,qui se présente comme la meilleure solution considérant les besoins de l'entreprise. Elle est relativemment facile à déployer et financièremment accessible,en plus de ne pas requerir de baggage technique complexe. Elle répond a tous les besoins de l'entreprise sans être trop lourde ou trop complexe pour les utilsiateurs. Finalemment,elle offre une interface moderne et conviviale.
 
 # Analyse des solutions retenues
@@ -341,18 +346,19 @@ Les risques assocées à un maintient du status quo sont faibles. En effet,le sy
 
 ## Solution FDTPro
 
+Cette section présente les avantages et les inconvénient de prendre une solution déjà fait, donc ici le logiciel FDTpro.
 
 ### Description
 
-Cette section présente les avantages et les inconvénient de prendre une solution déjà fait, donc ici le logiciel FDTPro.
+FDTpro offre un service en ligne qui fonctionne par l'entremise d'un navigateur web. Il offre aussi une gestion des droits d'accès flexible et un processus d'appobation. Le logiciel offre un générateur de rapport qui laisse a l'utilisateur le choix de filtrer ce qu'il veut. Aussi, il permet l'intégration avec d'autre logiciel, dont simple comptable, et il permet d'envoyer des courriels de rappel pour l'heure de tombée des payes, donc il envoi un courriel suelement aux personnes n'ayant pas soumis les feuilles de temps.
 
 ### Perspective organisationnelle
 
-_Saisir le texte pertinent ou inscrire_ S/O
+Le fait de choisir FDTpro va permettre au coordonnateur de ce cooncentrer sur ce qui est plus problématique et plus important que suivre le temps travailler des analystes et sur quel projet. Aussi, les analystes vont perdre moins de temps a remplir leur feuille, car une grande partie, exemple les mandats, est déjà dans le système, alors ils ne vont avoir besoin que de sélectionner le bon nom. De plus, du coté de la comptabilité, le comptable va avoir plus de facilité, puisque le logiciel va pouvoir intéragir avec simple comptable.
 
 ### Perspective technique
 
-_Saisir le texte pertinent ou inscrire_ S/O
+Du coté technique, FDTpro permet a l'entreprise de ne rien changer ou d'installer quoi que ce soit, puisque étant un service en ligne, FDTpro s'occupe de la mise en place des esrveurs de leur coté et ils s'occupent de tous les aspects de sécurité.
 
 ### Perspective financière
 
@@ -360,7 +366,11 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ### Risques spécifiques
 
-_Saisir le texte pertinent ou inscrire_ S/O
+Il y a peu de risque associé à cet solution, car :
+
+1) FDTpro a déjà beaucoup de client, donc ce n'est pas la première fois qu'ils mettent le logiciel en place
+2) Ils offrent un logiciel selon les besoins des entreprises
+3) Si le système ne fonctionnait pas ou un peu après l'installation, on peut toujours utiliser l'ancienne méthode le temps d'arranger le nouveau système
 
 ## Solution Y
 
