@@ -320,7 +320,7 @@ Pour ces raisons,nous retenons donc les solutions web clée en main,qui se prés
 
 ### Description
 
-Cette section explore brièvemment la solution sans changemment,c'est-à-dire le status quo,afin de mieu mettre en relief les avantages de notre nouveau système.
+Cette section explore brièvemment la solution sans changemment,c'est-à-dire le status quo.
 
 ### Perspective organisationnelle
 
@@ -339,13 +339,12 @@ Au départ,on pourrait penser que le status quo entrainerait le moins grand inve
 
 Les risques assocées à un maintient du status quo sont faibles. En effet,le système fonctionne déjà en ce moment. On pourrait par contre dire que les risques à long termes sont ceux de rester derrière et de ne pas avoir une plateformes de gestion de temps et de mandats robuste à un moment ou l'entreprise en aurait besoin en raison d'une forte croissance.
 
-## Solution X
+## Solution FDTPro
 
-_Répéter cette section pour chaque solution retenue_
 
 ### Description
 
-_Saisir le texte pertinent ou inscrire_ S/O
+Cette section présente les avantages et les inconvénient de prendre une solution déjà fait, donc ici le logiciel FDTPro.
 
 ### Perspective organisationnelle
 
