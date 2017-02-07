@@ -291,9 +291,6 @@ Lors de note recherche,nous avons bien étudié toute sorte de solutions pour r�
 
 # Solutions possibles
 
-<http://www.feuille-de-temps.com/product.php>
-
-<http://www.unittechnologies.com/PageCaractF.htm>
 
 ## Identification des solutions possibles
 
@@ -362,7 +359,9 @@ Du coté technique, FDTpro permet a l'entreprise de ne rien changer ou d'install
 
 ### Perspective financière
 
-_Saisir le texte pertinent ou inscrire_ S/O
+FDTpro donne la chance au entreprises voulant leur logiciel de l'essayer gratuitement pendant un mois, avec même un peu de personnalisation. Donc, lors de l'essai, FDTpro va donner à la compagnie le prix que sa va leur couter, mais on sait que sa va être beaucoup moins cher que si l'entreprise demandait un logiciel complètement sur mesure.
+
+Utiliser un logiciel comme FDTpro pour Les Mousquetaire serait un très grand avantage vu que la compagnie fait ses débuts. Du coté court terme, nous avons l'investissement initial qui pourrait paraitre très grand, mais le logiciel va être facilement rembourser sur quelque années. De plus, les frais mensuels ou annuels vont être prévisible et il n'y aura aucune dépense surprise, puisque c'est FDTpro qui s'occupe du coté serveur et tout ce qui est de la sécurité. Donc, l'investissement dans FDTpro est très prometteur, puisque le logiciel est compatible avec les besoins de l'entreprise.
 
 ### Risques spécifiques
 
@@ -372,13 +371,40 @@ Il y a peu de risque associé à cet solution, car :
 2) Ils offrent un logiciel selon les besoins des entreprises
 3) Si le système ne fonctionnait pas ou un peu après l'installation, on peut toujours utiliser l'ancienne méthode le temps d'arranger le nouveau système
 
-## Solution Y
+## Solution ACTIVI-T
 
-_Répéter cette section pour chaque solution retenue_
+Cette section présente les avantages et les inconvénient de prendre une solution déjà fait, donc ici le logiciel ACTIVI-T.
 
 ### Description
 
-_Saisir le texte pertinent ou inscrire_ S/O
+ACTIVI-T est un système de gestiomn de feuilles de temps et de mandats :
+
+>  -- Gestion du temps par employés et projets (mandats)
+>
+>   -- Saisie du temps: facturable ou non
+>
+> -- Gestion des dépenses au projet (mandat)
+>
+> -- Gestion des compte de dépenses d'employés
+>
+> -- Gestion des banques d'heures
+>
+> -- Facturation honoraire ou forfaitaire
+>
+> -- Facturation détaillée ou sommaire
+>
+> -- Suivi des échéanciers
+>
+> -- Suivi des budgets
+>
+> -- Statistiques par employés, projets (mandats) et clients
+>
+> -- Évaluation de la rentabilité des projets (mandats)
+>
+> -- Gestion des informations relatives aux clients et projets (mandats)[^1]
+
+
+[^1]: http://www.unittechnologies.com/Page1F.htm
 
 ### Perspective organisationnelle
 
@@ -419,6 +445,10 @@ _Saisir le texte pertinent ou inscrire_ S/O
 ## Rapports
 
 ## Sites
+
+<http://www.feuille-de-temps.com/product.php>
+
+<http://www.unittechnologies.com/PageCaractF.htm>
 
 # Annexe X _(normative)_
 
