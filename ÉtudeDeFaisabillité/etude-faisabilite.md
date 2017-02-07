@@ -87,7 +87,15 @@ Le systèmes actuel est une suite de tableurs que les analystes envoient au coor
 
 ### Modes d'opération du système actuel
 
-S/O
+Étant très basique le système actuel possède peu de modes d'opération.
+
+1. Mode dégradé
+
+  Le mode d'opération dégradé identifie la façon par laquelle les usagers d'un système (analystes et coordonateurs dans notre cas) effectuent la tâche demandée même si le système est en problème. Pour ce qui est de l'entreprise les Mousquetaires, le mode dégradé s'applique lorsque l'ordinateur d'un/ou plusieurs usagers est hors-service (excel ne fonctionne pas, l'ordinateur ne veux pas démarrer...etc). Si un analyste n'a pas accès a un ordinateur pour remplir sa feuille de temps via excel, il écrit ses heures sur une feuille (tableur excel imprimé) qu'il conserve a son bureau jusqu'a ce que qu'il puisse ré-utiliser son ordinateur. Si la date butoire pour la remise des feuilles de temps est la journée même, il essaye de trouver un collègue qui peut lui prêter son ordinateur momentanément. Dans le cas ou il ne peut pas avoir accès a un ordinateur d'un collègue avant la date butoire, il remet sa feuille de temps papier a son coordonateur qui devra remplir manuellement le tableur sur excel. Si un coordonateur n'a pas accès a son ordinateur et qu'il doit cumuler les feuilles de temps des différents employés, il demandera a l'employé le moins occupé de lui prêter son ordinateur et le fera travailler sur des tâches ne nécessitant par d'ordinateur pendant ce temps.
+
+2. Mode de sauvegarde
+
+  Le mode d'opération de sauvegarde définit la façon dont l'état du système est sauvegardé dans le cas d'une défaillance totale ou il y a la perte des données cruciales à celui-ci. Dans le cas du système de feuilles de temps des Mousquetaires, il y a des données a 2 endroits. Les tableurs remplit pas les analystes, et la compilation faites par les coordonateurs. Les analystes conservent les feuilles de temps dans un dossier sur leur ordinateur, ils sont avisé de faire une sauvegarde de ce dossier avant chaque date butoire de remise sur une clé usb. Les gestionnaires fonctionnent de la même façon, seulement ils ont un dossier par employé dans laquelle on retrouve chacune de leurs feuilles de temps. La compilation des rapports est conservé séparément. Le dossier contenant tout ces documents est aussi sauvegardé sur une clé usb périodiquement après chaque compilation des feuilles de temps. Donc, si un analyste perd ses données, il peut ravoir ses anciennes feuilles de temps soit par son poste, sa clé usb ou en demandant a son coordonateur. Si le coordonateur perd ses données, il peux les ravoir par son poste, sa clé usb, ou demandé a tous les analystes de leur renvoyer leur dossier, il n'aura alors qu'a refaire la compilation des rapports.
 
 ### Catégories d'utilisateurs et parties impliquées
 
