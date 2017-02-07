@@ -258,15 +258,32 @@ Puisque nous nous orientons vers une solution SaAS,nous prévoyons un impact de 
 
 ### Sommaire des améliorations
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+Le système que nous envisagons possède de nombreux avantages. Tout d'abord,il est impératif de mentionner l'interface beaucoup plus conviviale et pratique pour l'utilisateur. Puisque le service sera prsente comme service web heberge dans le cloud,son accesibilite sera aussi accrue car les utilisateurs pourront l'utiliser de n'importe ou et de n'inmporte quel appareil. Une autre nouvelle fonction sera la création de raports pour un meilleur suivit du temps et de la gestion des employés. De plus,les vues consolidéees pourront permettre une meilleure connaissance des heures travaillées par mandat,par période ou par employé et ainsi faciliter la gestion interne ainsi que la communication de l'avancemment du projet avec le client. La gestion de la banque d'heure d'une compagnie pourrait aussi etre intégrer dans la solution pour une meilleur intégration. La gestion des coûts intégrée ainsi que le calculs des vacances sont d'autres attouts.
+De plus,il faut souligner que la solution étant SaAS,les coûts d'implémentation,de support,d'entretien et de programmation sont  faibles et facilemment controlables puisque le système est proposé comme clée en main et son entretient en est garantie.
+
+### Inconvénients et limites
+
+L'un des inconvénients évident se reflète directemment depuis l'avantage de cette plateforme: la nouvelle interface est bien différente de celle que pouvait offrir EXCEL. Bien que nous visions un système aussi intuitif que possible,il est évident qu'une petite adaptation est à prévoir de la part des utilisateurs. Toutefois,nous ne prévoyions pas qu'une formation soit nescessaire pour son utilisation. Égalemment,l'intégration avec des logiciels externes comme des solutions comptable pourrait être limitée ou difficile à implémenter ou supporter.
+=======
 Le système que nous envisageons possède de nombreux avantages; nouvelles fonctionalitées, fonctions améliorées, fonction de suppression, meilleure performance et qualité. Tout d'abord,il est impératif de mentionner l'interface beaucoup plus conviviale et pratique pour l'utilisateur. Puisque le service sera présenté comme service web hébergé dans le cloud, son accesibilité sera aussi accrue car les utilisateurs pourront l'utiliser de n'importe où et de n'importe quel appareil. Une autre nouvelle fonction sera la création de rapports pour un meilleur suivit du temps et de la gestion des employés. De plus,les vues consolidées pourront permettre une meilleure connaissance des heures travaillées par mandat, par période ou par employé et faciliter la gestion interne ainsi que la communication de l'avancement du projet avec le client. La gestion de la banque d'heure d'une compagnie pourrait aussi être ajouté à la solution pour une meilleure intégration. La gestion des coûts intégrée ainsi que le calculs des vacances sont d'autres atouts. Finalement, il faut souligner que la solution étant SaAS,les coûts d'implémentation,de support,d'entretien et de programmation sont faibles et facilement contrôlables puisque le système est proposé comme clée en main et son entretient en est garantie.
 
 ### Inconvénients et limites
 
 L'un des inconvénients évident se reflète directement depuis l'avantage de cette plateforme: la nouvelle interface,bien différente de celle que pouvait offrir Excel. Bien que nous visions un système aussi intuitif que possible,il est évident qu'une petite adaptation est à prévoir de la part des utilisateurs. Toutefois,nous ne prévoyions pas qu'une formation soit necéssaire pour son utilisation. Égalemment,l'intégration avec des logiciels externes comme des solutions comptable pourrait être limitée ou difficile à implémenter ou supporter.
+>>>>>>> origin/master
+=======
+Le système que nous envisageons possède de nombreux avantages; nouvelles fonctionalitées, fonctions améliorées, fonction de suppression, meilleure performance et qualité. Tout d'abord,il est impératif de mentionner l'interface beaucoup plus conviviale et pratique pour l'utilisateur. Puisque le service sera présenté comme service web hébergé dans le cloud, son accesibilité sera aussi accrue car les utilisateurs pourront l'utiliser de n'importe où et de n'importe quel appareil. Une autre nouvelle fonction sera la création de rapports pour un meilleur suivit du temps et de la gestion des employés. De plus,les vues consolidées pourront permettre une meilleure connaissance des heures travaillées par mandat, par période ou par employé et faciliter la gestion interne ainsi que la communication de l'avancement du projet avec le client. La gestion de la banque d'heure d'une compagnie pourrait aussi être ajouté à la solution pour une meilleure intégration. La gestion des coûts intégrée ainsi que le calculs des vacances sont d'autres atouts. Finalement, il faut souligner que la solution étant SaAS,les coûts d'implémentation,de support,d'entretien et de programmation sont faibles et facilement contrôlables puisque le système est proposé comme clée en main et son entretient en est garantie.
+
+### Inconvénients et limites
+
+L'un des inconvénients évident se reflète directement depuis l'avantage de cette plateforme: la nouvelle interface,bien différente de celle que pouvait offrir Excel. Bien que nous visions un système aussi intuitif que possible,il est évident qu'une petite adaptation est à prévoir de la part des utilisateurs. Toutefois,nous ne prévoyions pas qu'une formation soit necéssaire pour son utilisation. Égalemment,l'intégration avec des logiciels externes comme des solutions comptable pourrait être limitée ou difficile à implémenter ou supporter.
+>>>>>>> origin/master
 
 ### Autres choix considérés et raisons des choix retenus
 
-_Saisir le texte pertinent ou inscrire_ S/O
+Lors de note recherche,nous avons bien étudié toute sorte de solutions pour répondere aux besoins de la compagnie. La première solution considèrer fût naturellemment le status quo. En effet,les feuilles de temps stockéees sur EXCEL représentent une solution qui répond tout de même aux besoin de base de la compagnie soit ceux de stocker et calculer le nombre d'heures travaillées des employés. Toutefois,cette solution c'est averée écartée bien rapidemment dût a son manque de flexibilité et de puissance,en plus des problèmes d'ergonomie lié a son utilisation. Nous avons ensuite considéré les solution basées sur des applications (app-based solutions). Toutefois,nous avons tout de suite réaliser que la plupart de ces solutions n'étaient pas disponible sur toutes les plateformes,ce qui signifie que certains employés ne pourraient y accéder. De plus,elles nèoffraient pas certaines focntionnalitées plus avancées tel l'intégration avec des logiciels comptables ou la génération de rapports sur mesure. Ainsi,nous avons donné priorité aux systèmes web,facilemment accessible de partout,ainsi qu'aux solutions clée en main de par la facilité de leur déploiemment ainsi que par leur faibles coûts initiaux et leur meilleure fiabilité. Ces systèmes,de type SaAs,nous semblait donc les meilleurs choix à suggérer pour l'entreprise.
 
 ## Critères de sélection des solutions
 
@@ -278,25 +295,79 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 # Solutions possibles
 
-_Saisir le texte pertinent ou inscrire_ S/O
-
 <http://www.feuille-de-temps.com/product.php>
 
 <http://www.unittechnologies.com/PageCaractF.htm>
 
 ## Identification des solutions possibles
 
-_Saisir le texte pertinent ou inscrire_ S/O
+Tout d'abord,nous avons fait des recherches pour déterminer quelles solutions était communemment utilisées pour la gestion de feuilles de temps. Pour ce faire,nous avons surtout eu recours à l'internet et à notre entourage. Nous y avons relevés les points suivants:
+-Les entreprises informelles,c'est-à-dire avec un ou deux employés et des mandats facielmment gérables,n'ont parfois aucun système de gestion de feuille de temps. Ils gèrent alors leurs mandats de mémoire.
+-Les petits entreprises,souvent de cinq employés ou moins,ont souvent recours à une solution par tableur comme EXCEL couplée avec un système de formules programmées dans la feuille ou de macros.
+-La plupart des start-up et autres entreprises plus innovatrices ont recours à des plateformes webs clée en main pour gérer le temps et l'attribution des mandats.
+-Certaines entreprises,surtout situées aux États-unis,ont recours à une solution de gestion de ressources humaines et de comptabilité intégrée
+-Les entreprises de plus grands tailles ont recours à des progiciels intégrés comme SAP ou utilise une solution maison (programme in-house).
 
 ## Sélection des solutions retenues
 
-_Saisir le texte pertinent ou inscrire_ S/O
+Avec les différentes solutions trouvées ci-haut,nous avons par la suite réfléchis sur leur faisabilité et leur coté pratique. Nous en sommes venu aux conclusions suivantes:
+-La gestion de temps sans système clair,c'est à dire de mémoire,est impossible dût à la complexité prévue des opérations de l'entreprise embryonnaire.
+-Le système de gestion par feuille de temps actuellement en place par feuille de temps ne reponds pas suffisament à tous les besoins pour être conservé et les possibilitées d'améliorations sont faible,voir même impossible. Le status quo au niveau du système de gestion de feuille de temps n'est donc pas retenu.
+-Les solutions de gestion de ressources humaines complet integrés avec l'imposition et la comtpabilité ne sont pas disponible au Canada et sont trop complexes pour les besoins de la compagnie.
+-Les progiciels sont trop cher à implémenter et sont focussés pour la plupart sur la gestion des matériels et non des feuilles de temps. De plus,ils sont très complexe à déployer et à maintenir et la plupart des foncitonnalitées offertes par ces solutions ne seront pas utilisées dans le cadre de l'entreprise.
+Pour ces raisons,nous retenons donc les solutions web clée en main,qui se présente comme la meilleure solution considérant les besoins de l'entreprise. Elle est relativemment facile à déployer et financièremment accessible,en plus de ne pas requerir de baggage technique complexe. Elle répond a tous les besoins de l'entreprise sans être trop lourde ou trop complexe pour les utilsiateurs. Finalemment,elle offre une interface moderne et conviviale.
 
 # Analyse des solutions retenues
 
-_Saisir le texte pertinent ou inscrire_ S/O
+## Status quo
+
+
+### Description
+
+Cette section explore brièvemment la solution sans changemment,c'est-à-dire le status quo,afin de mieu mettre en relief les avantages de notre nouveau système.
+
+### Perspective organisationnelle
+
+Si l'on considère l'effet du status quo sur les caractérisitques organisationnelles,on se rends vite compte de la surcharge que cela pourrait entrainer sur le coordonateur en plus du manque d'orginisation de la sociéte. En effet,la solution du tableur EXCEL a déjà fait ressentir ses limites et ce,même avec aussi peu que quelques employées. On ne peut donc qu'imaginer comment la gestion du temps et des employés serait difficile avec un douzaine,ou même une centaine d'employé. On peut donc dire que la mise à l'échelle de la solution est très difficle avec le status quo. On peut même imaginer avoir à engager un coordonateur à temps plein,voir même plusieurs selon le nombre d'employés.
+Cela est sans compter l'effet sur l'oganisation même de la société et de ses mandats. Sans rapports ni foncitonalitées avancées,impossible de prévoir et de gérer le personnel de l'entreprise. On peut donc supposer que les opérations en serait fortemment affectées.
+
+### Perspective technique
+
+De par sa nature,la situation du status quo est très simple du point de vue technique. En effet,un tableur EXCEL ne requiera pas de grande maintenance et ne présentera pas de défis techniques pour continuer à l'utiliser tel quel. Toutefois,la modularitée de cette solution est très faible.
+
+### Perspective financière
+
+Au départ,on pourrait penser que le status quo entrainerait le moins grand investissement financier possible. Or,on se rends vite compte que plus largemment,il risque d'y avoir des pertes associé à l'utilsiation à long terme d'un tableur de type EXCEL pour gérer les feuilles de temps et les mandats d'une compagnie. En effet,il faudra problablemment engager un ou plusieurs coordonateur à temps plein pour entrenir et maintenair les différentes feuilles de temps envoyées par les employés toutes les semaines. De plus,on peut s'attendre à des pertes financières dut à la mauvaise gestion de l'attribution des heures et des mandats découlant du manque de foncitonnalitées offertes par le tableur.
+
+### Risques spécifiques
+
+Les risques assocées à un maintient du status quo sont faibles. En effet,le système fonctionne déjà en ce moment. On pourrait par contre dire que les risques à long termes sont ceux de rester derrière et de ne pas avoir une plateformes de gestion de temps et de mandats robuste à un moment ou l'entreprise en aurait besoin en raison d'une forte croissance.
 
 ## Solution X
+
+_Répéter cette section pour chaque solution retenue_
+
+### Description
+
+_Saisir le texte pertinent ou inscrire_ S/O
+
+### Perspective organisationnelle
+
+_Saisir le texte pertinent ou inscrire_ S/O
+
+### Perspective technique
+
+_Saisir le texte pertinent ou inscrire_ S/O
+
+### Perspective financière
+
+_Saisir le texte pertinent ou inscrire_ S/O
+
+### Risques spécifiques
+
+_Saisir le texte pertinent ou inscrire_ S/O
+
+## Solution Y
 
 _Répéter cette section pour chaque solution retenue_
 
