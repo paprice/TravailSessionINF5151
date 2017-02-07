@@ -224,6 +224,20 @@ Différents cas d'utilisation:
   2. Un type de présentation est sélectionné pour le rapport.
   3. Au besoin, on active l'automatisation des rapports pour que ceux-ci soient envoyés au client périodiquement suivant les critères sélectionnés.
 
+  * Un analyste souhaite corriger une erreur dans une feuille de temps soumise et vérouillée par le comptable.
+
+  1. Il contacte un coordonnateur pour que la feuille soit débloquée.
+  2. Le coordonnateur contacte le comptable pour que la feuille soit dévérouillée.
+  3. Le comptable dévérouille la feuille de temps.
+  4. Le coordonnateur utilise ses droits pour désapprouver la feuille de temps.
+  5. L'analyste entre une nouvelle entrée pour corriger l'erreur sans effacer celle-ci de la feuille de temps.
+  6. L'employé soumet sa feuille de temps pour une nouvelle approbation par le coordonnateur.
+
+  * Un analyste souhaite entrer des heures, mais n'a pas accès à internet.
+
+  1. Il écrit sur papier les changements à apporter.
+  2. Une fois connecté à l'internet, il entre les informations notées dans sa feuille de temps.
+
 ## Étude d'impact
 
 _Saisir le texte pertinent ou inscrire_ S/O
