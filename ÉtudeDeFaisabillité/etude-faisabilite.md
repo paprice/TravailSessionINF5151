@@ -238,6 +238,8 @@ Le changement de système n’entraînera aucun changements du coté organisatio
 
 ### Perspective de mise en place
 
+La mise en place du système devrait se faire sans problème, puisque étant donné que c'est la création d'un système, si le système ne fonctionne pas dès la mise en place, les analystes auront juste a fonctionner comme il le faisait avant.
+
 #### Impact sur l'utilisateur
 
 Malgré le choix d'une solution ayant le moins d'impact possible sur les employés et leur façon de faire,il est impossible d'effectuer un changement sans avoir un impact minime sur l'utilisation. En effet,il faudra de la part des utilisateurs s'adapter à un nouveau système de de feuille de temps. Toutefois,nous nous attendons à ce que ce système offre une interface beaucoup plus conviviale qu'une feuille de calcul Excel. Cela devrait donc,du point de vue de l'utilisateur,contrebalancer tout autre impact pour celui-ci.
@@ -268,7 +270,11 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ## Critères de sélection des solutions
 
-_Saisir le texte pertinent ou inscrire_ S/O
+1) La solution doit être un système de gestion de feuille de temps, qui permet aussi la gestion des mandats.
+2) Le système doit pouvoir communiquer avec des applications extérieur
+3) Il doit permettre la génération de rapport
+4) Il doit fonctionner sur ordinateur, que ce soit Apple ou Windows
+
 
 # Solutions possibles
 
