@@ -24,7 +24,18 @@ S/O
 
 # Sommaire exécutif {-}
 
-_Saisir le texte pertinent ou inscrire_ S/O
+Cette étude de faisabilité a pour objectif principal de déterminer s'il existe au moins une solution pour l'entreprise les Mousquetaires aux niveaux technique, économique et organisationnel qui rencontre les objectifs visés .
+
+La meilleure option qui répond aux besoins de l'entreprise est le développement d'un système, qui pourra exécuter toutes les tâches que l'on souhaite implémenter . Ce nouveau système se veut simple, fiable et simple d'accès .
+
+L'implémentation permettra à l'entreprise d'automatiser un grand nombre de tâches qui, jusqu'à présent, sont effectuées d'une façon manuelle, ce qui permettra une augmentation de la productivité .
+
+Il facilitera grandement le travail des analystes au niveau de la gestion des heures travaillées et les détails relatifs au mandats, mais aussi le travail des coordonnateurs au niveau de la validation des feuilles de temps des analystes, ainsi que la production de rapports hebdomadaires .
+
+Au niveau de l'entreprise, ceci permettra d'avoir une idée globale sur l'avancement des projets de clients, avec tout les détails relatifs aux nombres d'heures investies sur chacun des projets .
+
+Il permet enfin de gérer la facturation client à travers la communication avec SimpleComptable .
+
 
 # Introduction
 
