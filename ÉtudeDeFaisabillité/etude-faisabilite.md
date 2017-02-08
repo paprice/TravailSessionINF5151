@@ -449,11 +449,11 @@ Les perspectives financières sont un gros investissement au début, plus un pri
 
 ## Recommandations
 
-_Saisir le texte pertinent ou inscrire_ S/O
+La meilleur option en prennant en compte que l'entreprise ne veut pas se soucier d'infrastructure ou de maintenance serait d'opter pour FDTpro, car il permet une plus grande flexibilité au niveau de l'entrée des feuilles de temps, tout en étant un puissant système de gestion de mandat.
 
 ## Plan d'action préliminaire
 
-_Saisir le texte pertinent ou inscrire_ S/O
+La première étape va être de communiquer avec FDTpro pour avoir l'essai gratuit d'un mois pour savoir si le logiciel correspond réellement avec les besoins de l'entreprises. Donc, jusqu'à ce que le logiciel entre en services, les analystes devront continuer avec les tableurs Excel. Ensuite, l'achat s'il correspond.
 
 # Bibliographie
 
