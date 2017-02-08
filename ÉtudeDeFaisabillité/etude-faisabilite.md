@@ -384,15 +384,13 @@ FDTpro offre un service en ligne qui fonctionne par l'entremise d'un navigateur 
 
 ### Perspective organisationnelle
 
-Le fait de choisir FDTpro va permettre au coordonnateur de ce cooncentrer sur ce qui est plus problématique et plus important que suivre le temps travailler des analystes et sur quel projet. Aussi, les analystes vont perdre moins de temps a remplir leur feuille, car une grande partie, exemple les mandats, est déjà dans le système, alors ils ne vont avoir besoin que de sélectionner le bon nom. De plus, du coté de la comptabilité, le comptable va avoir plus de facilité, puisque le logiciel va pouvoir intéragir avec simple comptable.
+Le fait de choisir FDTpro va permettre au coordonnateur de ce concentrer sur ce qui est plus problématique et plus important que suivre le temps travailler des analystes et sur quel projet. Aussi, les analystes vont perdre moins de temps a remplir leur feuille, car une grande partie, exemple les mandats, est déjà dans le système, alors ils ne vont avoir besoin que de sélectionner le bon nom. De plus, du coté de la comptabilité, le comptable va avoir plus de facilité, puisque le logiciel va pouvoir intéragir avec simple comptable.
 
 ### Perspective technique
 
-Du coté technique, FDTpro permet a l'entreprise de ne rien changer ou d'installer quoi que ce soit, puisque étant un service en ligne, FDTpro s'occupe de la mise en place des esrveurs de leur coté et ils s'occupent de tous les aspects de sécurité.
+Du coté technique, FDTpro permet a l'entreprise de ne rien changer ou d'installer quoi que ce soit, puisque étant un service en ligne, FDTpro s'occupe de la mise en place des serveurs de leur coté et ils s'occupent de tous les aspects de sécurité.
 
 ### Perspective financière
-
-FDTpro donne la chance au entreprises voulant leur logiciel de l'essayer gratuitement pendant un mois, avec même un peu de personnalisation. Donc, lors de l'essai, FDTpro va donner à la compagnie le prix que sa va leur couter, mais on sait que sa va être beaucoup moins cher que si l'entreprise demandait un logiciel complètement sur mesure.
 
 Utiliser un logiciel comme FDTpro pour Les Mousquetaire serait un très grand avantage vu que la compagnie fait ses débuts. Du coté court terme, nous avons l'investissement initial qui pourrait paraitre très grand, mais le logiciel va être facilement rembourser sur quelque années. De plus, les frais mensuels ou annuels vont être prévisible et il n'y aura aucune dépense surprise, puisque c'est FDTpro qui s'occupe du coté serveur et tout ce qui est de la sécurité. Donc, l'investissement dans FDTpro est très prometteur, puisque le logiciel est compatible avec les besoins de l'entreprise.
 
@@ -436,28 +434,27 @@ ACTIVI-T est un système de gestiomn de feuilles de temps et de mandats :
 >
 > -- Gestion des informations relatives aux clients et projets (mandats)[^1]
 
-
 [^1]: http://www.unittechnologies.com/Page1F.htm
 
 ### Perspective organisationnelle
 
-_Saisir le texte pertinent ou inscrire_ S/O
+Ici, sa ressemble aussi a FDTpro, puisque le logiciel va permettre de laisser plus de temps aux analystes et coordonnateur pour travailler sur des choses plus importantes que la feuille de temps et bien la remplir, puisque tous est inclus dans le logiciel.
 
 ### Perspective technique
 
-_Saisir le texte pertinent ou inscrire_ S/O
+Du coté technique, ACTIVI-T offre une plateforme qui focntionne sur bureau, donc que le logiciel doit être installer sur l'ordinateur pour qu'il fonctionne.
 
 ### Perspective financière
 
-_Saisir le texte pertinent ou inscrire_ S/O
+Les perspectives financières sont un gros investissement au début, plus un prix par ans. Mais, on sait quel va être le prix et même être capable de prévoir le cout en fonction du nombre d'employé que l'entreprise va avoir.
 
 ### Risques spécifiques
 
-_Saisir le texte pertinent ou inscrire_ S/O
+Étant donné que l'application se trouve sur l'ordinateur, si un des ordinateurs des analystes brise, alors il va être obligé d'emprunter un ordinateur d'un de ses collègues pour pouvoir remplir sa feuille de temps.
 
 ## Analyse comparative des solutions envisagées
 
-_Saisir le texte pertinent ou inscrire_ S/O
+
 
 # Recommandations et plan d'action
 
