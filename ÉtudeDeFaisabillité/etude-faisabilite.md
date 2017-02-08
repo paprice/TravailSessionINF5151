@@ -60,8 +60,6 @@ Ce document présente les sections suivantes dans l'ordre :
 
 _Saisir le texte pertinent ou inscrire_ S/O
 
-! [Exemple d'une figure] (examen.jpg) {width=100%}
-
 # Analyse de la situation
 
 
@@ -83,7 +81,7 @@ De par la nature basique du système, les contraintes opérationnelles de la sit
 
 ### Description du système actuel
 
-Le système actuel est une suite de tableurs que les analystes envoient au coordonnateur et qui contiennent tous les heures travaillées et sur quel mandat ? Donc, tout est entré à la main. Le coordonnateur doit tous copier ensuite pour mettre toutes les feuilles de temps des analystes ensemble pour que la comptabilité ait toutes les informations à la même place.
+Le système actuel est une suite de tableurs que les analystes envoient au coordonnateur et qui contiennent tous les heures travaillées et sur quel mandat? Donc, tout est entré à la main. Le coordonnateur doit tous copier ensuite pour mettre toutes les feuilles de temps des analystes ensemble pour que la comptabilité ait toutes les informations à la même place.
 
 ### Modes d'opération du système actuel
 
@@ -105,7 +103,7 @@ Le système actuel est une suite de tableurs que les analystes envoient au coord
 
 2. Profils de classes d'utilisateurs
 
-  Il y a deux classes d'utilisateurs ;
+  Il y a deux classes d'utilisateurs:
 
   * Les employés, qui créent et remplissent leurs feuilles Excel.
   * Les coordonnateurs, qui reçoivent ces feuilles pour les approuver.
@@ -185,7 +183,7 @@ Les principales composantes du système sont les feuilles de temps, le contrôle
 Le système possède également une API pour pouvoir interagir avec le logiciel SimpleComptable, étant donné que c'est l'application utilisée par le département de comptabilité, ce qui permet par la suite de générer les factures des clients.
 Le système permettra aussi de fournir, sur demande, des rapports hebdomadaires aux analystes contentant le nombre d'heures travaillées sur chacun de leurs projets.
 
-L'entreprise a établi un budget entre 50 000 $ et 100 000 $ pour le développement ou l'acquisition d'un système qui répondra à leurs besoins. Ce système devrait pouvoir permettre d'ajouter des nouveaux analystes, car l'entreprise est en expansion et prévoit compter plus d'analystes dans les prochaines années. L'entreprise compte sur ce système pour augmenter sa productivité, en évitant que ses analystes perdent du temps avec l'utilisation des tableurs Excel. Le système devra par conséquent être efficace, rapide d'accès et d'utilisation.
+L'entreprise a établi un budget entre 50 000 $ et 100 000 $ pour le développement ou l'acquisition d'un système qui répondra à leurs besoins. Ce système devrait pouvoir permettre d'ajouter des nouveaux analystes, car l'entreprise est en expansion et prévoit compter plus d'analystes dans les prochaines années. L'entreprise compte sur ce système pour augmenter sa productivité, en évitant que ses analystes perdent du temps avec l'utilisation des tableurs Excel. Le système devra par conséquent être efficace, rapide d'accès et d'utilisation.
 
 Le système devra pouvoir être accessible en tout temps (24/24 7 j/7), et devra être fonctionnel sur ordinateurs et téléphones intelligents, étant donné que tous les analystes y ont accès en tout temps dans le cadre de leur travail, par conséquent le mode hors connexion n'est pas nécessaire.
 Le système ainsi que ses serveurs ne seront pas hébergés localement, car la maintenance et les mises à jour seront assurées par les développeurs du système.
@@ -222,7 +220,7 @@ Les différents modes d'opération du système envisagé sont :
 
 2. Profils de classes d'utilisateurs
 
-  Il y aura deux classes d'utilisateurs du produit ;
+  Il y aura deux classes d'utilisateurs du produit :
 
   * Les employés, qui pourront modifier l'information de leur propre compte.
   * Les coordonnateurs, qui pourront suivre l'avancement des différents mandats des employés, mais ne pourront pas modifier de données.
@@ -338,13 +336,13 @@ De plus, il faut souligner que la solution étant Saab, les coûts d'implémenta
 
 L'un des inconvénients évidents se reflète directement depuis l'avantage de cette plateforme : la nouvelle interface est bien différente de celle que pouvait offrir EXCEL. Bien que nous visions un système aussi intuitif que possible, il est évident qu'une petite adaptation est à prévoir de la part des utilisateurs. Toutefois, nous ne prévoyions pas qu'une formation soit nécessaire pour son utilisation. Également, l'intégration avec des logiciels externes comme des solutions comptable pourrait être limitée ou difficile à implémenter ou supporter.
 
-Le système que nous envisageons possède de nombreux avantages ; nouvelles fonctionnalités, fonctions améliorées, fonction de suppression, meilleure performance et qualité. Tout d'abord, il est impératif de mentionner l'interface beaucoup plus conviviale et pratique pour l'utilisateur. Puisque le service sera présenté comme service web hébergé dans le nuage, son accessibilité sera aussi accrue, car les utilisateurs pourront l'utiliser de n'importe où et de n'importe quel appareil. Une autre nouvelle fonction sera la création de rapports pour un meilleur suivi du temps et de la gestion des employés. De plus, les vues consolidées pourront permettre une meilleure connaissance des heures travaillées par mandat, par période ou par employé et faciliter la gestion interne ainsi que la communication de l'avancement du projet avec le client. La gestion de la banque d'heure d'une compagnie pourrait aussi être ajoutée à la solution pour une meilleure intégration. La gestion des coûts intégrée ainsi que le calcul des vacances sont d'autres atouts. Finalement, il faut souligner que la solution étant Saab, les coûts d'implémentation, de support, d'entretien et de programmation sont faibles et facilement contrôlables puisque le système est proposé comme clé en main et son entretien en est garanti.
+Le système que nous envisageons possède de nombreux avantages : nouvelles fonctionnalités, fonctions améliorées, fonction de suppression, meilleure performance et qualité. Tout d'abord, il est impératif de mentionner l'interface beaucoup plus conviviale et pratique pour l'utilisateur. Puisque le service sera présenté comme service web hébergé dans le nuage, son accessibilité sera aussi accrue, car les utilisateurs pourront l'utiliser de n'importe où et de n'importe quel appareil. Une autre nouvelle fonction sera la création de rapports pour un meilleur suivi du temps et de la gestion des employés. De plus, les vues consolidées pourront permettre une meilleure connaissance des heures travaillées par mandat, par période ou par employé et faciliter la gestion interne ainsi que la communication de l'avancement du projet avec le client. La gestion de la banque d'heure d'une compagnie pourrait aussi être ajoutée à la solution pour une meilleure intégration. La gestion des coûts intégrée ainsi que le calcul des vacances sont d'autres atouts. Finalement, il faut souligner que la solution étant Saab, les coûts d'implémentation, de support, d'entretien et de programmation sont faibles et facilement contrôlables puisque le système est proposé comme clé en main et son entretien en est garanti.
 
 ### Inconvénients et limites
 
 L'un des inconvénients évidents se reflète directement depuis l'avantage de cette plateforme : la nouvelle interface, bien différente de celle que pouvait offrir Excel. Bien que nous visions un système aussi intuitif que possible, il est évident qu'une petite adaptation est à prévoir de la part des utilisateurs. Toutefois, nous ne prévoyions pas qu'une formation soit nécessaire pour son utilisation. Également, l'intégration avec des logiciels externes comme des solutions comptable pourrait être limitée ou difficile à implémenter ou supporter.
 
-Le système que nous envisageons possède de nombreux avantages ; nouvelles fonctionnalités, fonctions améliorées, fonction de suppression, meilleure performance et qualité. Tout d'abord, il est impératif de mentionner l'interface beaucoup plus conviviale et pratique pour l'utilisateur. Puisque le service sera présenté comme service web hébergé dans le nuage, son accessibilité sera aussi accrue, car les utilisateurs pourront l'utiliser de n'importe où et de n'importe quel appareil. Une autre nouvelle fonction sera la création de rapports pour un meilleur suivi du temps et de la gestion des employés. De plus, les vues consolidées pourront permettre une meilleure connaissance des heures travaillées par mandat, par période ou par employé et faciliter la gestion interne ainsi que la communication de l'avancement du projet avec le client. La gestion de la banque d'heure d'une compagnie pourrait aussi être ajoutée à la solution pour une meilleure intégration. La gestion des coûts intégrée ainsi que le calcul des vacances sont d'autres atouts. Finalement, il faut souligner que la solution étant SaaS, les coûts d'implémentation, de support, d'entretien et de programmation sont faibles et facilement contrôlables puisque le système est proposé comme clé en main et son entretien en est garanti.
+Le système que nous envisageons possède de nombreux avantages : nouvelles fonctionnalités, fonctions améliorées, fonction de suppression, meilleure performance et qualité. Tout d'abord, il est impératif de mentionner l'interface beaucoup plus conviviale et pratique pour l'utilisateur. Puisque le service sera présenté comme service web hébergé dans le nuage, son accessibilité sera aussi accrue, car les utilisateurs pourront l'utiliser de n'importe où et de n'importe quel appareil. Une autre nouvelle fonction sera la création de rapports pour un meilleur suivi du temps et de la gestion des employés. De plus, les vues consolidées pourront permettre une meilleure connaissance des heures travaillées par mandat, par période ou par employé et faciliter la gestion interne ainsi que la communication de l'avancement du projet avec le client. La gestion de la banque d'heure d'une compagnie pourrait aussi être ajoutée à la solution pour une meilleure intégration. La gestion des coûts intégrée ainsi que le calcul des vacances sont d'autres atouts. Finalement, il faut souligner que la solution étant SaaS, les coûts d'implémentation, de support, d'entretien et de programmation sont faibles et facilement contrôlables puisque le système est proposé comme clé en main et son entretien en est garanti.
 
 ### Inconvénients et limites
 
@@ -424,7 +422,7 @@ FDTpro offre un service en ligne qui fonctionne par l'entremise d'un navigateur 
 
 ### Perspective organisationnelle
 
-Le fait de choisir FDTpro va permettre au coordonnateur de se concentrer sur ce qui est plus problématique et plus important que suivre le temps travaillé des analystes et sur quel projet ? Aussi, les analystes vont perdre moins de temps a remplir leur feuille, car une grande partie, exemple les mandats, est déjà dans le système, alors ils ne vont avoir besoin que de sélectionner le bon nom. De plus, du côté de la comptabilité, le comptable va avoir plus de facilité, puisque le logiciel va pouvoir interagir avec simple comptable.
+Le fait de choisir FDTpro va permettre au coordonnateur de se concentrer sur ce qui est plus problématique et plus important que suivre le temps travaillé des analystes et sur quel projet? Aussi, les analystes vont perdre moins de temps a remplir leur feuille, car une grande partie, exemple les mandats, est déjà dans le système, alors ils ne vont avoir besoin que de sélectionner le bon nom. De plus, du côté de la comptabilité, le comptable va avoir plus de facilité, puisque le logiciel va pouvoir interagir avec simple comptable.
 
 ### Perspective technique
 
