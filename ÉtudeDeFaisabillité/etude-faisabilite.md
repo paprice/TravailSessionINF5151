@@ -192,7 +192,28 @@ Le système ainsi que ses serveurs ne seront pas hébergés localement, car la m
 
 ### Modes d'opération du système envisagé
 
-_Saisir le texte pertinent ou inscrire_ S/O
+Les différents modes d'opération du système envisagé sont :
+
+1. Mode maintenance
+
+  Le mode maintenance représente le mode stable et complet du système . Le système effectue toutes les tâches demandées : permet aux analystes de rentrer leurs heures et générer les rapports, permet aux coordonnateurs de faire les suivis des mandats et approuver les feuilles de temps, et finalement envoie automatiquement les données à SimpleComptable pour la facturation .
+  La maintenance et les mises à jour sont toujours assurées par les développeurs, afin de garder le système dans un état stable et opérationnel .
+
+2. Mode dégradé
+
+  Le mode dégradé représente la façon que les usagers (analystes et coordonnateurs) effectuent la tâche requise quand le système ne fonctionne pas . Dans notre scénario ici, en cas de dysfonctionnement du système :
+  - Si le système est en maintenance pour une courte période de temps, ou qu'on envisage de régler la panne dans un court délai, les analystes rentreront leurs heures ainsi que les détails sur les mandats travaillés sur un fichier Excel, qu'ils pourront par la suite utiliser pour rentrer leurs heures une fois le système rétabli .
+
+  - Si la panne du système dure plus longtemps, et que la date butoire pour la remise des feuilles de temps est la journée même, l'analyste remplira un tableur Excel avec les heures et les détails sur mandats travaillés .
+  Il fera parvenir ce tableur Excel au coordonnateur .
+
+
+3. Mode de sauvegarde
+
+  Le mode d'opération de sauvegarde définit la façon dont l'état du système est sauvegardé dans le cas d'une défaillance totale ou il y a la perte des données cruciales à celui-ci. Dans notre contexte, nous avons établi qu'une fois que la feuille de temps est rentrée dans le système par l'analyste, la sauvegarde se fait automatiquement sur une base de données distante . Donc en cas de défaillance totale, toute l'information demeure disponible à distance sur la base de données .
+  Les coordonnateurs ont aussi accès à la sauvegarde distante sur la BD, en cas de défaillance, s'ils ont besoin de générer leurs rapports .
+
+
 
 ### Catégories d'utilisateurs et parties impliquées
 1. Structure organisationnelle
