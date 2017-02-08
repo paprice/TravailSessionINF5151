@@ -81,7 +81,7 @@ De par la nature minimaliste du système, les contraintes opérationnelles de la
 
 ### Description du système actuel
 
-Le système actuel est une suite de tableurs que les analystes envoient au coordonnateur et qui contiennent tous les heures travaillées et sur quel mandat? Donc, tout est entré à la main. Le coordonnateur doit tous copier ensuite pour mettre toutes les feuilles de temps des analystes ensemble pour que la comptabilité ait toutes les informations à la même place.
+Le système actuel est une suite de tableurs que les analystes envoient au coordonnateur et qui contiennent tous les heures travaillées et sur quel mandat. Donc, tout est entré à la main. Le coordonnateur doit tous copier ensuite pour mettre toutes les feuilles de temps des analystes ensemble pour que la comptabilité ait toutes les informations à la même place.
 
 ### Modes d'opération du système actuel
 
@@ -200,6 +200,7 @@ Les différents modes d'opération du système envisagé sont :
 2. Mode dégradé
 
   Le mode dégradé représente la façon que les usagers (analystes et coordonnateurs) effectuent la tâche requise quand le système ne fonctionne pas. Dans notre scénario ici, en cas de dysfonctionnement du système :
+
   - Si le système est en maintenance pour une courte période de temps, ou qu'on envisage de régler la panne dans un court délai, les analystes rentreront leurs heures ainsi que les détails sur les mandats travaillés sur un fichier Excel, qu'ils pourront par la suite utiliser pour rentrer leurs heures une fois le système rétabli.
 
   - Si la panne du système dure plus longtemps, et que la date butoir pour la remise des feuilles de temps est la journée même, l'analyste remplira un tableur Excel avec les heures et les détails sur mandats travaillés.
@@ -321,7 +322,7 @@ Du point de vue du management, la aussi il y aura un impact d'implémentation à
 
 #### Impact de tests
 
-Puisque nous nous orientons vers une solution CAA, nous prévoyons un impact de test minimal, avec seulement une légère courbe d'apprentissage pour les utilisateurs du système. Pour le déploiement, la solution est clé en main et la configuration initiale ne représente pas un impact considérable pour l'entreprise.
+Puisque nous nous orientons vers une solution SaaS, nous prévoyons un impact de test minimal, avec seulement une légère courbe d'apprentissage pour les utilisateurs du système. Pour le déploiement, la solution est clé en main et la configuration initiale ne représente pas un impact considérable pour l'entreprise.
 
 ## Caractéristiques du système envisagé
 
@@ -336,19 +337,7 @@ De plus, il faut souligner que la solution étant Saab, les coûts d'implémenta
 
 L'un des inconvénients évidents se reflète directement depuis l'avantage de cette plateforme : la nouvelle interface est bien différente de celle que pouvait offrir EXCEL. Bien que nous visions un système aussi intuitif que possible, il est évident qu'une petite adaptation est à prévoir de la part des utilisateurs. Toutefois, nous ne prévoyions pas qu'une formation soit nécessaire pour son utilisation. Également, l'intégration avec des logiciels externes comme des solutions comptable pourrait être limitée ou difficile à implémenter ou supporter.
 
-Le système que nous envisageons possède de nombreux avantages : nouvelles fonctionnalités, fonctions améliorées, fonction de suppression, meilleure performance et qualité. Tout d'abord, il est impératif de mentionner l'interface beaucoup plus conviviale et pratique pour l'utilisateur. Puisque le service sera présenté comme service web hébergé dans le nuage, son accessibilité sera aussi accrue, car les utilisateurs pourront l'utiliser de n'importe où et de n'importe quel appareil. Une autre nouvelle fonction sera la création de rapports pour un meilleur suivi du temps et de la gestion des employés. De plus, les vues consolidées pourront permettre une meilleure connaissance des heures travaillées par mandat, par période ou par employé et faciliter la gestion interne ainsi que la communication de l'avancement du projet avec le client. La gestion de la banque d'heure d'une compagnie pourrait aussi être ajoutée à la solution pour une meilleure intégration. La gestion des coûts intégrée ainsi que le calcul des vacances sont d'autres atouts. Finalement, il faut souligner que la solution étant Saab, les coûts d'implémentation, de support, d'entretien et de programmation sont faibles et facilement contrôlables puisque le système est proposé comme clé en main et son entretien en est garanti.
-
-### Inconvénients et limites
-
-L'un des inconvénients évidents se reflète directement depuis l'avantage de cette plateforme : la nouvelle interface, bien différente de celle que pouvait offrir Excel. Bien que nous visions un système aussi intuitif que possible, il est évident qu'une petite adaptation est à prévoir de la part des utilisateurs. Toutefois, nous ne prévoyions pas qu'une formation soit nécessaire pour son utilisation. Également, l'intégration avec des logiciels externes comme des solutions comptable pourrait être limitée ou difficile à implémenter ou supporter.
-
-Le système que nous envisageons possède de nombreux avantages : nouvelles fonctionnalités, fonctions améliorées, fonction de suppression, meilleure performance et qualité. Tout d'abord, il est impératif de mentionner l'interface beaucoup plus conviviale et pratique pour l'utilisateur. Puisque le service sera présenté comme service web hébergé dans le nuage, son accessibilité sera aussi accrue, car les utilisateurs pourront l'utiliser de n'importe où et de n'importe quel appareil. Une autre nouvelle fonction sera la création de rapports pour un meilleur suivi du temps et de la gestion des employés. De plus, les vues consolidées pourront permettre une meilleure connaissance des heures travaillées par mandat, par période ou par employé et faciliter la gestion interne ainsi que la communication de l'avancement du projet avec le client. La gestion de la banque d'heure d'une compagnie pourrait aussi être ajoutée à la solution pour une meilleure intégration. La gestion des coûts intégrée ainsi que le calcul des vacances sont d'autres atouts. Finalement, il faut souligner que la solution étant SaaS, les coûts d'implémentation, de support, d'entretien et de programmation sont faibles et facilement contrôlables puisque le système est proposé comme clé en main et son entretien en est garanti.
-
-### Inconvénients et limites
-
-L'un des inconvénients évidents se reflète directement depuis l'avantage de cette plateforme : la nouvelle interface, bien différente de celle que pouvait offrir Excel. Bien que nous visions un système aussi intuitif que possible, il est évident qu'une petite adaptation est à prévoir de la part des utilisateurs. Toutefois, nous ne prévoyions pas qu'une formation soit nécessaire pour son utilisation. Également, l'intégration avec des logiciels externes comme des solutions comptable pourrait être limitée ou difficile à implémenter ou supporter.
-
-### autres choix considérés et raisons des choix retenus
+### Autres choix considérés et raisons des choix retenus
 
 Lors de note recherche, nous avons bien étudié toute sorte de solutions pour répondre aux besoins de la compagnie. La première solution considérée fut naturellement le statu quo. En effet, les feuilles de temps stockées sur EXCEL représentent une solution qui répond tout de même aux besoins de base de la compagnie soit ceux de stocker et calculer le nombre d'heures travaillées des employés. Toutefois, cette solution c'est avéré écartée bien rapidement dût a son manque de flexibilité et de puissance, en plus des problèmes d'ergonomie liés a son utilisation. Nous avons ensuite considéré les solutions basées sur des applications (app-based solutions). Toutefois, nous avons tout de suite réalisé que la plupart de ces solutions n'étaient pas disponibles sur toutes les plateformes, ce qui signifie que certains employés ne pourraient y accéder. De plus, elles n'offraient pas certaines fonctionnalités plus avancées telle l'intégration avec des logiciels comptables ou la génération de rapports sur mesure. Ainsi, nous avons donné priorité aux systèmes web, facilement accessible de partout, ainsi qu'aux solutions clé en main de par la facilité de leur déploiement ainsi que par leurs faibles coûts initiaux et leur meilleure fiabilité. Ces systèmes, de type SaaS, nous semblaient donc les meilleurs choix à suggérer pour l'entreprise.
 
@@ -366,11 +355,16 @@ Lors de note recherche, nous avons bien étudié toute sorte de solutions pour r
 ## Identification des solutions possibles
 
 Tout d'abord, nous avons fait des recherches pour déterminer quelles solutions étaient communément utilisées pour la gestion de feuilles de temps. Pour ce faire, nous avons surtout eu recours à l'internet et à notre entourage. Nous y avons relevé les points suivants :
-— les entreprises informelles, c'est-à-dire avec un ou deux employés et des mandats facilement gérables, n'ont parfois aucun système de gestion de feuille de temps. Ils gèrent alors leurs mandats de mémoire.
--Les petits entrepris, souvent de cinq employés ou moins, ont souvent recours à une solution par tableur comme EXCEL couplée avec un système de formules programmées dans la feuille ou de macros.
--La plupart des start-ups et autres entreprises plus innovatrices ont recours à des plateformes web clé en main pour gérer le temps et l'attribution des mandats.
--Certaines entreprises, surtout situées aux États-Unis, ont recours à une solution de gestion de ressources humaines et de comptabilité intégrée
--les entreprises de plus grandes tailles ont recours à des progiciels intégrés comme SAP ou utilise une solution maison (programme in-house).
+
+- les entreprises informelles, c'est-à-dire avec un ou deux employés et des mandats facilement gérables, n'ont parfois aucun système de gestion de feuille de temps. Ils gèrent alors leurs mandats de mémoire.
+
+- Les petits entrepris, souvent de cinq employés ou moins, ont souvent recours à une solution par tableur comme EXCEL couplée avec un système de formules programmées dans la feuille ou de macros.
+
+- La plupart des start-ups et autres entreprises plus innovatrices ont recours à des plateformes web clé en main pour gérer le temps et l'attribution des mandats.
+
+- Certaines entreprises, surtout situées aux États-Unis, ont recours à une solution de gestion de ressources humaines et de comptabilité intégrée
+
+- Les entreprises de plus grandes tailles ont recours à des progiciels intégrés comme SAP ou utilise une solution maison (programme in-house).
 
 ## Sélection des solutions retenues
 
@@ -422,7 +416,7 @@ FDTpro offre un service en ligne qui fonctionne par l'entremise d'un navigateur 
 
 ### Perspective organisationnelle
 
-Le fait de choisir FDTpro va permettre au coordonnateur de se concentrer sur ce qui est plus problématique et plus important que suivre le temps travaillé des analystes et sur quel projet? Aussi, les analystes vont perdre moins de temps a remplir leur feuille, car une grande partie, exemple les mandats, est déjà dans le système, alors ils ne vont avoir besoin que de sélectionner le bon nom. De plus, du côté de la comptabilité, le comptable va avoir plus de facilité, puisque le logiciel va pouvoir interagir avec simple comptable.
+Le fait de choisir FDTpro va permettre au coordonnateur de se concentrer sur ce qui est plus problématique et plus important que suivre le temps travaillé des analystes et sur quel projet. Aussi, les analystes vont perdre moins de temps a remplir leur feuille, car une grande partie, exemple les mandats, est déjà dans le système, alors ils ne vont avoir besoin que de sélectionner le bon nom. De plus, du côté de la comptabilité, le comptable va avoir plus de facilité, puisque le logiciel va pouvoir interagir avec simple comptable.
 
 ### Perspective technique
 
@@ -480,7 +474,7 @@ Ici, sa ressemble aussi a FDTpro, puisque le logiciel va permettre de laisser pl
 
 ### Perspective technique
 
-Du coté technique, ACTIVISTE offre une plateforme qui fonctionne sur bureau, donc que le logiciel doit être installé sur l'ordinateur pour qu'il fonctionne.
+Du coté technique, ACTIVI-T offre une plateforme qui fonctionne sur bureau, donc que le logiciel doit être installé sur l'ordinateur pour qu'il fonctionne.
 
 ### Perspective financière
 
