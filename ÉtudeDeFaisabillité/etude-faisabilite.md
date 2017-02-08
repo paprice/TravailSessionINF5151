@@ -280,7 +280,26 @@ Différents cas d'utilisation:
 
 ## Étude d'impact
 
-_Saisir le texte pertinent ou inscrire_ S/O
+L'impact du système proposé est significatif pour les différents acteurs.
+
+1. Clients
+
+  Grâce au nouveau système, les clients pourront maintenant avoir accès a un rapport mensuel détaillant les heures travaillés sur chaque mandats qu'ils ont avec la compagnie les Mousquetaire. Cela leur permettra de voir le temps débité de leur banque d'heures. Le rapport leur permettra de suive l'évolution du projet et de se préparer aux entrevues avec les Mousquetaire dans le cas ou ce qu'il faudrait modifier le mandat.
+
+2. Analystes
+
+  Les analystes auront plusieurs avantages grâce aux nouveau système. Il pourront maintenant enregistrer leur feuille de temps sur mobile. Des prises de sauvegarde seront prises automatiquement, alors ils n'auront plus besoin de faire des sauvegarde manuellement via leur clé usb. Ils auront d'ailleurs accès facilement a leur feuille de temps antérieures ainsi que le nombre d'heures travaillées pour un certain mandat. Une fois la feuille de temps remplie et soumise, celle-ci sera envoyé automatiquement au coordonateur et les analystes pourront vérifier si leurs feuilles ont été approuvées et en re-soumettre une nouvelle si ce n'est pas le cas.
+
+3. Coordonateurs
+
+  Les coordonateurs sauveront beaucoup de temps au niveau de la compilation des rapports, ceux-ci devait avant compiler manuellement chacunes des feuilles de temps des analystes. Donc Mr.X a travaillé 20 heures sur le mandat "Rona" et Mr.Y 20 heures sur "Rona" ...etc Maintenant ils auront une compilation automatique qui indiquera "60 heures travaillées sur Rona, 50 heures travaillées sur Home dépot...etc". Ils pourront d'ailleurs approuvé les feuilles de temps directement sur l'application.
+
+4. Comptables
+
+  Les comptables recevront maintenant la compilation des feuilles de temps (via les coordonateurs), ils auront donc le nombre d'heures travaillés par mandat et pourront facturer le client selon le taux horaire établi (soit via une banque d'heures ou par un paiement). Ils pourront aussi effectuer la paie, ils auront le total d'heures travaillé pour chaque employé et pourront leur envoyer la paie correspondante a leur taux horaire.
+
+
+
 
 ### Perspective opérationnelle
 
@@ -481,11 +500,11 @@ Les perspectives financières sont un gros investissement au début, plus un pri
 
 ## Recommandations
 
-_Saisir le texte pertinent ou inscrire_ S/O
+La meilleur option en prennant en compte que l'entreprise ne veut pas se soucier d'infrastructure ou de maintenance serait d'opter pour FDTpro, car il permet une plus grande flexibilité au niveau de l'entrée des feuilles de temps, tout en étant un puissant système de gestion de mandat.
 
 ## Plan d'action préliminaire
 
-_Saisir le texte pertinent ou inscrire_ S/O
+La première étape va être de communiquer avec FDTpro pour avoir l'essai gratuit d'un mois pour savoir si le logiciel correspond réellement avec les besoins de l'entreprises. Donc, jusqu'à ce que le logiciel entre en services, les analystes devront continuer avec les tableurs Excel. Ensuite, l'achat s'il correspond.
 
 # Bibliographie
 
