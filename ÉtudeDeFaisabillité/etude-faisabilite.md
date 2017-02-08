@@ -151,7 +151,18 @@ S/O
 
 ## Système envisagé
 
-_Saisir le texte pertinent ou inscrire_ S/O
+Le système proposé consiste en un logiciel de gestion de feuilles de temps . Ses principales fonctionnalités sont :
+
+- Permet aux analystes de gérer et rentrer, d'une façon hebdomadaire, les heures travaillées en spécifiant les mandats associés à ces heures .
+
+- Permet aux coordonnateurs de valider et approuver les feuilles de temps hebdomadaires des analystes .
+
+- Permet aux analystes de générer des rapports hebdomadaires contenant le nombres d'heures investies sur chacun des projets sur lesquels ils travaillent .
+
+- Permet de générer des rapports de suivi aux clients , notamment le nombre d'heures investies dans chacun de leurs projets .
+
+- Permet aussi de communiquer avec SimpleComptable, pour générer les factures des clients .
+
 
 ### Objectifs
 
