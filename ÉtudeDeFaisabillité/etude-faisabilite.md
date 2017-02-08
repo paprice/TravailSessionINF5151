@@ -60,8 +60,6 @@ Ce document présente les sections suivants dans l'ordre :
 
 _Saisir le texte pertinent ou inscrire_ S/O
 
-![Exemple d'une figure](examen.jpg){width=100%}
-
 # Analyse de la situation
 
 
@@ -71,15 +69,15 @@ Actuellement, la compagnie utilise des feuilles Excel qui ne sont pas normalisé
 
 ### Objectifs
 
-Le système actuel à pour objectif d'offrir une solution simple pour que les employés puisse gérer leurs heures travaillées sans que cela empiète sur leur travail. Il s'agit donc de stocker,partager et calculer les heures travaillées par employé,et ce avec le moins de difficulté possible et sans déploiemment complexe.
+Le système actuel à pour objectif d'offrir une solution simple pour que les employés puissent gérer leurs heures travaillées sans que cela empiète sur leur travail. Il s'agit donc de stocker,partager et de calculer les heures travaillées par chaque employé, et ce, avec le moins de difficulté possible et sans déploiemment complexe.
 
 ### Contexte et portée
 
- Ce système informel par Excel s'est revelé être facile et rapide à implémenter,et dans le contexte embryonnaire de l'entreprise cela s'est revelé être parfait. Le fichier Excel gérait donc seulement les heures travaillées de l'employé,sans détails ni autre fonctionnalitées. La compagnie étant à ses tout début,on peut supposer qu'un des objectifs de ce système de base était aussi de maintenir les coûts initiaux au plus bas possible.
+ Le système informel par Excel s'est revelé être facile et rapide à implémenter, et dans le contexte embryonnaire de l'entreprise, cela s'est revelé être une assez bonne solution. Le fichier Excel gérait seulement les heures travaillées de l'employé, sans détails ni autre fonctionnalitées. La compagnie étant à ses tout début,on peut supposer qu'un des objectifs de ce système de base était de maintenir les coûts initiaux au plus bas possible.
 
 ### Cadre et contraintes opérationnels
 
-De par la nature basique du système,les contraintes opérationnelles de la situation actuelle sont nombreuses. Le manque de flexibilité est la première à considérer,puisque en effet il est bien difficile d'adapter un tableur Excel à nos besoins précis en matière de feuille de temps. Toutes les heures doivent être entrées à la main. La gestion des mandats est bien difficile aussi,car les tableurs de chaque employés ne sont pas consolidés globalement et doivent être envoyés un à un au coordonnateur. Cela implique donc que l'aggrégation des données et leur consultation est très difficile et complètemment manuelle. Justement,une autre contrainte opérationnelle importante est celle de l'automatisation. Il est très difficile d'automatiser des fonctions de feuilles de gestion de temps et d'employé courantes à travers le logiciel. Mise à part les macros,impossible d'allouer automatiquement une équipe sur un mandat ou de voir instannément le nombre d'heures travaillées par tous les employés sur un mandat commun. Égalemment,impossible de sortir facilement et dans un format agréable des rapports sur mesure. L'ergonomie du logiciel étant atroce sur les plateformes mobiles,son utilisation est donc presque limitée à un ordinateur de bureau.
+De par la nature minimaliste du système, les contraintes opérationnelles de la situation actuelle sont nombreuses. Le manque de flexibilité est la première à constater, puisque, en effet, il est bien difficile d'adapter un tableur Excel à nos besoins précis en matière de feuille de temps. Toutes les heures doivent être entrées à la main et la gestion des mandats est bien difficile,car les tableurs de chaque employés ne sont pas consolidés globalement et doivent être envoyés un à un au coordonnateur. Cela implique donc que l'aggrégation des données et leur consultation est très difficile et complètemment manuelle. Justement, une autre contrainte opérationnelle importante est celle de l'automatisation. Il est très difficile d'automatiser des fonctions de feuilles de gestion de temps et d'employé courantes à travers le logiciel. Mise à part les macros, impossible d'allouer automatiquement une équipe sur un mandat ou de voir instannément le nombre d'heures travaillées par tous les employés sur un mandat commun. De plus, il n'est pas plus possible de sortir facilement et dans un format agréable des rapports sur mesure. L'ergonomie du logiciel étant atroce sur les plateformes mobiles, son utilisation est donc presque limitée à un ordinateur de bureau.
 
 ### Description du système actuel
 
