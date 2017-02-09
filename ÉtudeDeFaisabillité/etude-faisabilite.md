@@ -6,7 +6,7 @@
   Pascal Vautour -- VAUP05049304
   William Corbeil -- CORW26049505
   Nizar Semlali -- SEMN14019103
-% 27 janvier 2017
+% 09 février 2017
 
 # Sigles et abréviations {-}
 
