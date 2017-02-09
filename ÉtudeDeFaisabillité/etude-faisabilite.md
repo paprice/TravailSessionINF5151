@@ -26,12 +26,12 @@ S/O
 
 Cette étude de faisabilité a pour objectif principal de déterminer s'il existe au moins une solution pour l'entreprise les Mousquetaires aux niveaux technique, économique et organisationnel qui atteignent les objectifs visés.
 
-L'entreprise recherche un logiciel qui leur permettra de mieux gérer les feuilles de temps de leur employé et de mieux gérer les mandats. Donc, le logiciel devra pouvoir permettre la création de rapports pour que les clients puissent voir l'avancer de leur mandat et il devra aussi permettre l'envoi des données au comptables.
+L'entreprise recherche un logiciel qui leur permettra de mieux gérer les feuilles de temps de leur employés et de mieux gérer les mandats. Donc, le logiciel devra pouvoir permettre la création de rapports pour que les clients puissent voir l'avancement de leur mandat et il devra aussi permettre l'envoi des données au comptables.
 
-La meilleure option qui répond aux besoins de l'entreprise est l'utilisation du système FDTpro qui lui permettra d'effectuer toutes les tâches relatives  à la gestion des heures des analystes, production de rapport, et facturation. C'est un système simple, fiable et simple d'accès, qui sera  adapté selon les besoins de l'entreprise.
+La meilleure option qui répond aux besoins de l'entreprise est l'utilisation du système FDTpro qui lui permettra d'effectuer toutes les tâches relatives à la gestion des heures des analystes, production de rapports, et facturation. C'est un système simple, fiable et simple d'accès, qui sera adapté selon les besoins de l'entreprise.
 Le logiciel permettra à l'entreprise d'automatiser un grand nombre de tâches qui, jusqu'à présent, sont effectuées d'une façon manuelle, ce qui permettra une augmentation de la productivité.
-Il facilitera grandement le travail des analystes au niveau de la gestion des heures travaillées et les détails relatifs au mandat, mais aussi le travail des coordonnateurs au niveau de la validation des feuilles de temps des analystes, ainsi que la production de rapports hebdomadaires.
-Au niveau de l'entreprise, ceci permettra d'avoir une idée globale sur l'avancement des projets de clients, avec tous les détails relatifs aux nombres d'heures investies sur chacun des projets.
+Il facilitera grandement le travail des analystes au niveau de la gestion des heures travaillées et les détails relatifs au mandats, mais aussi le travail des coordonnateurs au niveau de la validation des feuilles de temps des analystes, ainsi que la production de rapports hebdomadaires.
+Au niveau de l'entreprise, ceci permettra d'avoir une idée globale sur l'avancement des projets des clients, avec tous les détails relatifs aux nombres d'heures investies sur chacun des projets.
 Il permet enfin de gérer la facturation client à travers la communication avec Simple Comptable.
 Le risque relié à l'utilisation de FDTpro est très faible, étant donné que c'est un système qui est grandement utilisé donc établi, et qui ne nécessite pas d'installation particulière, car les serveurs sont gérés par FDTpro directement.
 De plus, Les Mousquetaires disposeront d'une période d'essai gratuite.
@@ -44,7 +44,7 @@ L'objectif de ce DEF est de déterminer quelle est la meilleure option logiciel 
 
 ## Portée et contexte
 
-L'étude porte seulement sur le système de feuille de temps. Elle ne porte pas sur les autres éléments de l'entreprise  ou de la gestion du personnel tels que la gestion de la paie.
+L'étude porte seulement sur le système de feuilles de temps. Elle ne porte pas sur les autres éléments de l'entreprise  ou de la gestion du personnel tels que la gestion de la paie.
 
 L'objectif de cette étude sera de sélectionner ou de spécifier un logiciel de gestion des feuilles de temps qui répondra le mieux possible aux besoins de l'entreprise.
 
@@ -54,7 +54,7 @@ S/O
 
 ## Méthodologie utilisée
 
-Étant donné le cours délais dans lequel l'étude a dû être conduite et le contexte dans lequel elle a été produite, nous avons considéré suffisant de baser notre recherche sur les informations disponibles sur internet. Ensuite, l'entreprise étant très jeune et ses requêtes communes, nous avons favorisé la recherche d'une solution préfaite sur le marché étant donné que celles-ci sont généralement moins coûteuses tant au niveau financier que de l'entretien.
+Étant donné le court délai dans lequel l'étude a dû être conduite et le contexte dans lequel elle a été produite, nous avons considéré suffisant de baser notre recherche sur les informations disponibles sur internet. Ensuite, l'entreprise étant très jeune et ses requêtes communes, nous avons favorisé la recherche d'une solution pré-faite sur le marché étant donné que celles-ci sont généralement moins coûteuses tant au niveau financier que de l'entretien.
 
 ## Structure du document
 
@@ -75,35 +75,35 @@ S/O
 
 ## Situation actuelle
 
-Actuellement, la compagnie utilise des feuilles Excel qui ne sont pas normalisées et qui ne permettent pas de savoir dans quel mandat les employés ont travaillé. C'est le système informel qui s'est développé naturellement pour les employés faute d'avoir une meilleure solution implémentée.
+Actuellement, la compagnie utilise des feuilles Excel qui ne sont pas normalisées et qui ne permettent pas de savoir sur quel mandat les employés ont travaillé. C'est le système informel qui s'est développé naturellement pour les employés faute d'avoir une meilleure solution implémentée.
 
 ### Objectifs
 
-Le système actuel à pour objectif d'offrir une solution simple pour que les employés puissent gérer leurs heures travaillées sans que cela empiète sur leur travail. Il s'agit donc de stocker, partager et de calculer les heures travaillées par chaque employé, et ce, sans déploiemment complexe.
+Le système actuel à pour objectif d'offrir une solution simple pour que les employés puissent gérer leurs heures travaillées sans que cela empiète sur leur travail. Il s'agit donc de stocker, partager et de calculer les heures travaillées par chaque employé, et ce, sans déploiement complexe.
 
 ### Contexte et portée
 
- Le système informel par Excel s'est revelé être facile et rapide à implémenter, et dans le contexte embryonnaire de l'entreprise, cela s'est revelé être une assez bonne solution. Le fichier Excel gérait seulement les heures travaillées de l'employé, sans détails ni autre fonctionnalitées. La compagnie étant à ses tout début,on peut supposer qu'un des objectifs de ce système de base était de maintenir les coûts initiaux au plus bas possible.
+ Le système informel par Excel s'est révélé être facile et rapide à implémenter, et dans le contexte embryonnaire de l'entreprise, cela s'est révélé être une assez bonne solution. Le fichier Excel gérait seulement les heures travaillées de l'employé, sans détails ni autre fonctionnalités. La compagnie étant à ses tout débuts, on peut supposer qu'un des objectifs de ce système de base était de maintenir les coûts initiaux au plus bas possible.
 
 ### Cadre et contraintes opérationnels
 
-De par la nature minimaliste du système, les contraintes opérationnelles de la situation actuelle sont nombreuses. Le manque de flexibilité est la première à constater, puisque, en effet, il est bien difficile d'adapter un tableur Excel à nos besoins précis en matière de feuille de temps. Toutes les heures doivent être entrées à la main et la gestion des mandats est bien difficile,car les tableurs de chaque employés ne sont pas consolidés globalement et doivent être envoyés un à un au coordonnateur. Cela implique donc que l'aggrégation des données et leur consultation est très difficile et complètemment manuelle. Justement, une autre contrainte opérationnelle importante est celle de l'automatisation. Il est très difficile d'automatiser des fonctions de feuilles de gestion de temps et d'employé courantes à travers le logiciel. Mise à part les macros, impossible d'allouer automatiquement une équipe sur un mandat ou de voir instannément le nombre d'heures travaillées par tous les employés sur un mandat commun. De plus, il n'est pas plus possible de sortir facilement et dans un format agréable des rapports sur mesure. L'ergonomie du logiciel étant atroce sur les plateformes mobiles, son utilisation est donc presque limitée à un ordinateur de bureau.
+De par la nature minimaliste du système, les contraintes opérationnelles de la situation actuelle sont nombreuses. Le manque de flexibilité est la première à constater, puisque, en effet, il est bien difficile d'adapter un tableur Excel à nos besoins précis en matière de feuilles de temps. Toutes les heures doivent être entrées à la main et la gestion des mandats est bien difficile, car les tableurs de chaque employés ne sont pas consolidés globalement et doivent être envoyés un à un au coordonnateur. Cela implique donc que l'agrégation des données et leur consultation est très difficile et complètement manuelle. Justement, une autre contrainte opérationnelle importante est celle de l'automatisation. Il est très difficile d'automatiser des fonctions de feuilles de gestion de temps et d'employés courantes à travers le logiciel. Mise à part les macros, impossible d'allouer automatiquement une équipe sur un mandat ou de voir instantanément le nombre d'heures travaillées par tous les employés sur un mandat commun. De plus, il n'est pas plus possible de sortir facilement et dans un format conforme des rapports sur mesure. L'ergonomie du logiciel étant atroce sur les plateformes mobiles, son utilisation est donc presque limitée à un ordinateur de bureau.
 
 ### Description du système actuel
 
-Le système actuel est une suite de tableurs que les analystes envoient au coordonnateur et qui contiennent tous les heures travaillées et sur quel mandat. Donc, tout est entré à la main. Le coordonnateur doit tous copier ensuite pour mettre toutes les feuilles de temps des analystes ensemble pour que la comptabilité ait toutes les informations à la même place.
+Le système actuel est une suite de tableurs que les analystes envoient au coordonnateur et qui contiennent toutes les heures travaillées et sur quel mandat. Donc, tout est entré à la main. Le coordonnateur doit ensuite tout copier  pour mettre toutes les feuilles de temps des analystes ensemble, afin que la comptabilité ait toutes les informations à la même place.
 
 ### Modes d'opération du système actuel
 
-Étant très basique le système actuel possède peu de modes d'opération.
+Étant très basique, le système actuel possède peu de modes d'opération :
 
 1. Mode dégradé
 
-  Le mode d'opération dégradé identifie la façon par laquelle les usagers d'un système (analystes et coordonnateurs dans notre cas) effectuent la tâche demandée même si le système est en problème. Pour ce qui est de l'entreprise les Mousquetaires, le mode dégradé s'appliquent lorsque l'ordinateur d'un/ou plusieurs usagers est hors service (Excel ne fonctionne pas, l'ordinateur ne veut pas démarrer... etc.). Si un analyste n'a pas accès a un ordinateur pour remplir sa feuille de temps via Excel, il écrit ses heures sur une feuille (tableur Excel imprimé) qu'il conserve a son bureau jusqu'a qu'il puisse réutiliser son ordinateur. Si la date butoir pour la remise des feuilles de temps est la journée même, il essaye de trouver un collègue qui peut lui prêter son ordinateur momentanément. Dans le cas ou il ne peut pas avoir accès a un ordinateur d'un collègue avant la date butoir, il remet sa feuille de temps papier a son coordonnateur qui devra remplir manuellement le tableur sur Excel. Si un coordonnateur n'a pas accès a son ordinateur et qu'il doit cumuler les feuilles de temps des différents employés, il demandera a l'employé le moins occupé de lui prêter son ordinateur et le fera travailler sur des tâches ne nécessitant par d'ordinateur pendant ce temps.
+  Le mode d'opération dégradé identifie la façon par laquelle les usagers d'un système (analystes et coordonnateurs dans notre cas) effectuent la tâche demandée même si le système est en problème. Pour ce qui est de l'entreprise les Mousquetaires, le mode dégradé s'appliquent lorsque l'ordinateur d'un/ou plusieurs usagers est hors service (Excel ne fonctionne pas, l'ordinateur ne veut pas démarrer... etc.). Si un analyste n'a pas accès a un ordinateur pour remplir sa feuille de temps via Excel, il écrit ses heures sur une feuille (tableur Excel imprimé) qu'il conserve à son bureau jusqu'à ce qu'il puisse réutiliser son ordinateur. Si la date butoire pour la remise des feuilles de temps est la journée même, il essaye de trouver un collègue qui peut lui prêter son ordinateur momentanément. Dans le cas où il ne peut pas avoir accès à un ordinateur d'un collègue avant la date butoire, il remet sa feuille de temps papier à son coordonnateur qui devra remplir manuellement le tableur sur Excel. Si un coordonnateur n'a pas accès à son ordinateur et qu'il doit cumuler les feuilles de temps des différents employés, il demandera à l'employé le moins occupé de lui prêter son ordinateur et le fera travailler sur des tâches ne nécessitant par d'ordinateur pendant ce temps.
 
 2. Mode de sauvegarde
 
-  Le mode d'opération de sauvegarde définit la façon dont l'état du système est sauvegardé dans le cas d'une défaillance totale ou il y a la perte des données cruciales à celui-ci. Dans le système de feuilles de temps des Mousquetaires, il y a des données a 2 endroits. Les tableurs ne remplissent pas les analystes, et la compilation faites par les coordonnateurs. Les analystes conservent les feuilles de temps dans un dossier sur leur ordinateur, ils sont avisés de faire une sauvegarde de ce dossier avant chaque date butoir de remise sur une clé USB. Les gestionnaires fonctionnent de la même façon, seulement ils ont un dossier par employé dans laquelle on retrouve chacune de leurs feuilles de temps. La compilation des rapports est conservée séparément. Le dossier contenant tous ces documents est aussi sauvegardé sur une clé USB périodiquement après chaque compilation des feuilles de temps. Donc, si un analyste perd ses données, il peut ravoir ses anciennes feuilles de temps soit par son poste, sa clé USB ou en demandant a son coordonnateur. Si le coordonnateur perd ses données, il peut les ravoir par son poste, sa clé USB, ou demandé a tous les analystes de leur renvoyer leur dossier, il n'aura alors qu'a refaire la compilation des rapports.
+  Le mode d'opération de sauvegarde définit la façon dont l'état du système est sauvegardé dans le cas d'une défaillance totale ou il y a la perte des données cruciales à celui-ci. Dans le système de feuilles de temps des Mousquetaires, il y a des données à 2 endroits. Les tableurs ne remplissent pas les analystes, et la compilation faites par les coordonnateurs. Les analystes conservent les feuilles de temps dans un dossier sur leur ordinateur, ils sont avisés de faire une sauvegarde de ce dossier avant chaque date butoire de remise sur une clé USB. Les gestionnaires fonctionnent de la même façon, seulement ils ont un dossier par employé dans laquelle on retrouve chacune de leurs feuilles de temps. La compilation des rapports est conservée séparément. Le dossier contenant tous ces documents est aussi sauvegardé sur une clé USB périodiquement après chaque compilation des feuilles de temps. Donc, si un analyste perd ses données, il peut récupérer les anciennes feuilles de temps soit sur son poste, sa clé USB ou en demandant à son coordonnateur. Si le coordonnateur perd ses données, il peut les ravoir sur son poste, sa clé USB, ou demander à tous les analystes de lui renvoyer leurs dossiers, il n'aura alors qu'à refaire la compilation des rapports.
 
 ### Catégories d'utilisateurs et parties impliquées
 
@@ -174,7 +174,7 @@ Le système proposé consiste en un logiciel de gestion de feuilles de temps. Se
 
 ### Objectifs
 
- La compagnie souhaite implémenter une solution de gestion de feuille de temps de ses employés, dans le but de leur imputer un nombre d'heures travaillées par semaine. Cela permettra non seulement de mieux gérer le temps des analystes, mais aussi de présenter les heures travaillées dans les mandats aux clients. Puisque la firme travaille par mandat, le système permettra aussi de gérer les taux horaires des employés. La plateforme devra aussi permettre de suivre le travail accompli par le biais de notes ou de description, ce qui permettra un meilleur suivi de l'employé. Un autre objectif sera aussi d'avoir accès a des rapports par mandat, permettant de montrer au client l'état d'avancement de ses différents mandats et le nombre d'heures en banque. La gestion des coûts et du budget associés au mandat, par exemple les frais de déplacement, sera aussi effectuée par la plateforme, ainsi que la gestion des vacances et des absences des employés. Un autre objectif serait de pouvoir s'intégrer avec un système comptable dans le but de pouvoir rendre les données de la plateforme accessible par ce type de logiciel.
+ La compagnie souhaite implémenter une solution de gestion de feuilles de temps de ses employés, dans le but de leur imputer un nombre d'heures travaillées par semaine. Cela permettra non seulement de mieux gérer le temps des analystes, mais aussi de présenter les heures travaillées dans les mandats aux clients. Puisque la firme travaille par mandat, le système permettra aussi de gérer les taux horaires des employés. La plateforme devra aussi permettre de suivre le travail accompli par le biais de notes ou de description, ce qui permettra un meilleur suivi de l'employé. Un autre objectif sera aussi d'avoir accès à des rapports par mandat, permettant de montrer au client l'état d'avancement de ses différents mandats et le nombre d'heures en banque. La gestion des coûts et du budget associés au mandat, par exemple les frais de déplacement, sera aussi effectuée par la plateforme, ainsi que la gestion des vacances et des absences des employés. Un autre objectif serait de pouvoir s'intégrer avec un système comptable dans le but de pouvoir rendre les données de la plateforme accessible par ce type de logiciel.
  Ainsi, on peut donc dire que les objectifs globaux du système seront de gérer les actifs de la compagnie, c'est-à-dire les employés, en gérant leur temps, leur salaire et leur attribution à des mandats et à suivre le déroulement de ces mandats du côté du budget et de l'avancement. De cette façon, l'entreprise sauvera du temps et pourra mieux gérer et optimiser ses mandats.
 
 ### Contexte et portée
@@ -184,7 +184,7 @@ Pour ces raisons, et dans le but de moderniser le plus possible le système de g
 
 ### Cadre et contraintes opérationnels
 
-Bien entendu, nous souhaitons que le système proposé implique le minimum de contraintes opérationnelles possible. En effet, la plateforme devrait fonctionner sur le web, et ainsi être accessible de n'importe où dans le monde et de n'importe quels appareils supportant les normes web standard. Il faudra avoir recours à un identifiant et un mot de passe pour s'identifier dans la plateforme. Les données de la plateforme devraient être accessible via un API pou en faciliter la manipulation et pour offrir une flexibilité au niveau du traitement possible des données en sortie (c.-à-d. logiciel comptable).
+Bien entendu, nous souhaitons que le système proposé implique le minimum de contraintes opérationnelles possible. En effet, la plateforme devrait fonctionner sur le web, et ainsi être accessible de n'importe où dans le monde et de n'importe quels appareils supportant les normes web standard. Il faudra avoir recours à un identifiant et un mot de passe pour s'identifier dans la plateforme. Les données de la plateforme devraient être accessible via une API pour en faciliter la manipulation et pour offrir une flexibilité au niveau du traitement possible des données en sortie (c.-à-d. logiciel comptable).
 
 ### Description du système envisagé
 
@@ -213,7 +213,7 @@ Les différents modes d'opération du système envisagé sont :
 
   - Si le système est en maintenance pour une courte période de temps, ou qu'on envisage de régler la panne dans un court délai, les analystes rentreront leurs heures ainsi que les détails sur les mandats travaillés sur un fichier Excel, qu'ils pourront par la suite utiliser pour rentrer leurs heures une fois le système rétabli.
 
-  - Si la panne du système dure plus longtemps, et que la date butoir pour la remise des feuilles de temps est la journée même, l'analyste remplira un tableur Excel avec les heures et les détails sur mandats travaillés.
+  - Si la panne du système dure plus longtemps, et que la date butoire pour la remise des feuilles de temps est la journée même, l'analyste remplira un tableur Excel avec les heures et les détails sur mandats travaillés.
   Il fera parvenir ce tableur Excel au coordonnateur.
 
 
@@ -225,6 +225,7 @@ Les différents modes d'opération du système envisagé sont :
 
 
 ### Catégories d'utilisateurs et parties impliquées
+
 1. Structure organisationnelle
 
   Dans l'organisation, personne n'est spécifiquement dédié à la gestion des feuilles de temps. Ce sont les employés eux-mêmes qui entrent leurs heures. Elles sont ensuite vérifiées par le coordonnateur, puis utilisées par le comptable.
@@ -252,6 +253,7 @@ Le système envisagé devra fonctionner sur ordinateur, que ce soit Mac ou Windo
 ## Cas d'utilisation du système envisagé
 
 Différents cas d'utilisation :
+
 * Un analyste veut soumettre une feuille de temps pour une période donnée :
 
   1. Il enregistre sa feuille de temps au fur et à mesure qu'il travaille.
@@ -265,7 +267,7 @@ Différents cas d'utilisation :
 * Un comptable souhaite utiliser les informations des feuilles de temps pour faire les livres de l'entreprise :
 
   1. Il verrouille les feuilles de temps approuvées par les coordonnateurs.
-  2. Il les importe dans simple Comptable pour faire la comptabilité.
+  2. Il les importe dans SimpleComptable pour faire la comptabilité.
 
 * Un rapport est généré et envoyé à un client :
 
@@ -293,42 +295,42 @@ L'impact du système proposé est significatif pour les différents acteurs.
 
 1. Clients
 
-  Grâce au nouveau système, les clients pourront maintenant avoir accès a un rapport mensuel détaillant les heures travaillées sur chaque mandat qu'ils ont avec la compagnie les Mousquetaires. Cela leur permettra de voir le temps débité de leur banque d'heures. Le rapport leur permettra de suive l'évolution du projet et de se préparer aux entrevues avec les Mousquetaires dans le cas ou ce qu'il faudrait modifier le mandat.
+  Grâce au nouveau système, les clients pourront maintenant avoir accès à un rapport mensuel détaillant les heures travaillées sur chaque mandat qu'ils ont avec la compagnie les Mousquetaires. Cela leur permettra de voir le temps débité de leur banque d'heures. Le rapport leur permettra de suive l'évolution du projet et de se préparer aux entrevues avec les Mousquetaires dans le cas ou il faudrait modifier le mandat.
 
 2. Analystes
 
-  Les analystes auront plusieurs avantages grâce aux nouveaux systèmes. Ils pourront maintenant enregistrer leur feuille de temps sur mobile. Des prises de sauvegarde seront prises automatiquement, alors ils n'auront plus besoin de faire des sauvegardes manuellement via leur clé USB. Ils auront d'ailleurs accès facilement a leur feuille de temps antérieure ainsi que le nombre d'heures travaillées pour un certain mandat. Une fois la feuille de temps remplie et soumise, celle-ci sera envoyée automatiquement au coordonnateur et les analystes pourront vérifier si leurs feuilles ont été approuvées et en resoumettre une nouvelle si ce n'est pas le cas.
+  Les analystes auront plusieurs avantages grâce aux nouveau système. Ils pourront maintenant enregistrer leur feuilles de temps sur mobile. Des sauvegardes seront effectuées automatiquement, ils n'auront donc plus besoin de faire des sauvegardes manuelles via leur clé USB. Ils auront d'ailleurs facilement accès à leurs feuilles de temps antérieures ainsi que le nombre d'heures travaillées pour un certain mandat. Une fois la feuille de temps remplie et soumise, celle-ci sera envoyée automatiquement au coordonnateur et les analystes pourront vérifier si leurs feuilles ont été approuvées et en resoumettre une nouvelle si ce n'est pas le cas.
 
 3. Coordonateurs
 
-  Les coordonnateurs sauveront beaucoup de temps au niveau de la compilation des rapports, ceux-ci devaient avant compiler manuellement chacune des feuilles de temps des analystes. Donc Mr.X a travaillé 20 heures sur le mandat "Rona" et Mr.Y 20 heures sur "Rona"... etc. maintenant ils auront une compilation automatique qui indiquera "60 heures travaillées sur Rona, 50 heures travaillées sur Home Depot... etc.". Ils pourront d'ailleurs approuver les feuilles de temps directement sur l'application.
+  Les coordonnateurs sauveront beaucoup de temps au niveau de la compilation des rapports, ceux-ci devaient avant compiler manuellement chacune des feuilles de temps des analystes. Donc Mr.X a travaillé 20 heures sur le mandat "Rona" et Mr.Y 20 heures sur "Rona"... etc. Maintenant, ils auront une compilation automatique qui indiquera "60 heures travaillées sur Rona, 50 heures travaillées sur Home Depot... etc.". Ils pourront d'ailleurs approuver les feuilles de temps directement sur l'application.
 
 4. Comptables
 
-  Les comptables recevront maintenant la compilation des feuilles de temps (via les coordonnateurs), ils auront donc le nombre d'heures travaillées par mandat et pourront facturer le client selon le taux horaire établi (soit via une banque d'heures ou par un paiement). Ils pourront aussi effectuer la paie, ils auront le total d'heures travaillé pour chaque employé et pourront leur envoyer la paie correspondante a leur taux horaire.
+  Les comptables recevront maintenant la compilation des feuilles de temps (via les coordonnateurs), ils auront donc le nombre d'heures travaillées par mandat et pourront facturer le client selon le taux horaire établi (soit via une banque d'heures ou par un paiement). Ils pourront aussi effectuer la paie, ils auront le total d'heures travaillées pour chaque employé et pourront lui envoyer la paie correspondante à leur taux horaire.
 
 
 
 
 ### Perspective opérationnelle
 
-Les changements que le nouveau système va créer vont être énormes, puisque l'entreprise ne passe de "rien" à un système complet de gestion de feuilles de temps et de mandat. En passant d'un tableur Excel à un logiciel contenant toutes les informations, les coordonnateurs vont gagner beaucoup de temps lors de l'analyse de ce que font les analystes, puisque toutes les feuilles de temps vont se retrouver au même endroit et non dans plusieurs documents.
+Les changements que le nouveau système va créer vont être énormes, puisque l'entreprise passe de "rien" à un système complet de gestion de feuilles de temps et de mandat. En passant d'un tableur Excel à un logiciel contenant toutes les informations, les coordonnateurs vont gagner beaucoup de temps lors de l'analyse de ce que font les analystes, puisque toutes les feuilles de temps vont se retrouver au même endroit et non dans plusieurs documents.
 
 ### Perspective organisationnelle
 
-Le changement de système n’entraînera aucun changement du côté organisationnel, puisque le système est mis en place pour faciliter le passage de donnée entre les analystes et les coordonnateurs et comptables.
+Le changement de système n’entraînera aucun changement du côté organisationnel, puisque le système est mis en place pour faciliter le passage de données entre les analystes, les coordonnateurs et les comptables.
 
 ### Perspective de mise en place
 
-La mise en place du système devrait se faire sans problème, puisque étant donné que c'est la création d'un système, si le système ne fonctionne pas dès la mise en place, les analystes auront juste a fonctionner comme il le faisait avant.
+La mise en place du système devrait se faire sans problème, étant donné que c'est la création d'un système, si le système ne fonctionne pas dès la mise en place, les analystes auront juste à fonctionner comme il le faisaient avant.
 
 #### Impact sur l'utilisateur
 
-Malgré le choix d'une solution ayant le moins d'impact possible sur les employés et leur façon de faire, il est impossible d'effectuer un changement sans avoir un impact minime sur l'utilisation. En effet, il faudra de la part des utilisateurs s'adapter à un nouveau système de feuille de temps. Toutefois, nous nous attendons à ce que ce système offre une interface beaucoup plus conviviale qu'une feuille de calcul Excel. Cela devrait donc, du point de vue de l'utilisateur, contrebalancer tout autre impact pour celui-ci.
+Malgré le choix d'une solution ayant le moins d'impact possible sur les employés et leur façon de faire, il est impossible d'effectuer un changement sans avoir un impact minime sur l'utilisation. En effet, il faudra que les utilisateurs s'adaptent à ce nouveau système de feuilles de temps. Toutefois, nous nous attendons à ce que ce système offre une interface beaucoup plus conviviale qu'une feuille de calcul Excel. Cela devrait donc, du point de vue de l'utilisateur, contrebalancer tout autre impact pour celui-ci.
 
 #### Impact sur le management
 
-Du point de vue du management, la aussi il y aura un impact d'implémentation à considérer. En effet, le management (coordonnateur) recevait actuellement toutes les feuilles de temps Excel des employés et gérait aussi leur temps et leur attribution de projets. Or, grâce au nouveau système, le coordonnateur sera donc libéré de cette tâche. Bien qu'il recevra quand même un portrait global par le biais du système, il n'aura pas à consolider lui-même les feuilles de temps.
+Du point de vue du management, il y aura également un impact d'implémentation à considérer. En effet, le management (coordonnateur) recevait actuellement toutes les feuilles de temps Excel des employés et gérait aussi leur temps et leur attribution de projets. Or, grâce au nouveau système, le coordonnateur sera donc libéré de cette tâche. Bien qu'il recevra quand même un portrait global par le biais du système, il n'aura pas à consolider lui-même les feuilles de temps.
 
 #### Impact de tests
 
@@ -340,23 +342,23 @@ Puisque nous nous orientons vers une solution SaaS, nous prévoyons un impact de
 
 ### Sommaire des améliorations
 
-Le système que nous envisageons possède de nombreux avantages. Tout d'abord, il est impératif de mentionner l'interface beaucoup plus conviviale et pratique pour l'utilisateur. Puisque le service sera présent comme service web héberge dans le nuage, son accessibilité sera aussi accrue, car les utilisateurs pourront l'utiliser de n'importe où et de n'importe quel appareil. Une autre nouvelle fonction sera la création de rapports pour un meilleur suivi du temps et de la gestion des employés. De plus, les vues consolidées pourront permettre une meilleure connaissance des heures travaillées par mandat, par période ou par employé et ainsi faciliter la gestion interne ainsi que la communication de l'avancement du projet avec le client. La gestion de la banque d'heure d'une compagnie pourrait aussi être intégrée dans la solution pour une meilleure intégration. La gestion des coûts intégrée ainsi que le calcul des vacances sont d'autres atouts.
-De plus, il faut souligner que la solution étant Saab, les coûts d'implémentation, de support, d'entretien et de programmation sont  faibles et facilement contrôlables puisque le système est proposé comme clé en main et son entretien en est garanti.
+Le système que nous envisageons possède de nombreux avantages. Tout d'abord, il est impératif de mentionner l'interface beaucoup plus conviviale et pratique pour l'utilisateur. Puisque le service sera présent comme service web hébergé dans le nuage, son accessibilité sera aussi accrue, car les utilisateurs pourront l'utiliser de n'importe où et de n'importe quel appareil. Une autre nouvelle fonction sera la création de rapports pour un meilleur suivi du temps et de la gestion des employés. De plus, les vues consolidées pourront permettre une meilleure connaissance des heures travaillées par mandat, par période ou par employé et ainsi faciliter la gestion interne ainsi que la communication de l'avancement du projet avec le client. La gestion de la banque d'heures d'une compagnie pourrait aussi être intégrée dans la solution pour une meilleure intégration. La gestion des coûts intégrée ainsi que le calcul des vacances sont d'autres atouts.
+De plus, il faut souligner que la solution étant Saab, les coûts d'implémentation, de support, d'entretien et de programmation sont faibles et facilement contrôlables puisque le système est proposé comme clé en main et son entretien en est garanti.
 
 ### Inconvénients et limites
 
-L'un des inconvénients évidents se reflète directement depuis l'avantage de cette plateforme : la nouvelle interface est bien différente de celle que pouvait offrir EXCEL. Bien que nous visions un système aussi intuitif que possible, il est évident qu'une petite adaptation est à prévoir de la part des utilisateurs. Toutefois, nous ne prévoyions pas qu'une formation soit nécessaire pour son utilisation. Également, l'intégration avec des logiciels externes comme des solutions comptable pourrait être limitée ou difficile à implémenter ou supporter.
+L'un des inconvénients évidents se reflète directement depuis l'avantage de cette plateforme : la nouvelle interface est bien différente de celle que pouvait offrir EXCEL. Bien que nous visions un système aussi intuitif que possible, il est évident qu'une petite adaptation est à prévoir de la part des utilisateurs. Toutefois, nous ne prévoyions pas qu'une formation soit nécessaire pour son utilisation. Également, l'intégration avec des logiciels externes comme des solutions comptables pourrait être limitée ou difficile à implémenter ou supporter.
 
 ### Autres choix considérés et raisons des choix retenus
 
-Lors de note recherche, nous avons bien étudié toute sorte de solutions pour répondre aux besoins de la compagnie. La première solution considérée fut naturellement le statu quo. En effet, les feuilles de temps stockées sur EXCEL représentent une solution qui répond tout de même aux besoins de base de la compagnie soit ceux de stocker et calculer le nombre d'heures travaillées des employés. Toutefois, cette solution c'est avéré écartée bien rapidement dût a son manque de flexibilité et de puissance, en plus des problèmes d'ergonomie liés a son utilisation. Nous avons ensuite considéré les solutions basées sur des applications (app-based solutions). Toutefois, nous avons tout de suite réalisé que la plupart de ces solutions n'étaient pas disponibles sur toutes les plateformes, ce qui signifie que certains employés ne pourraient y accéder. De plus, elles n'offraient pas certaines fonctionnalités plus avancées telle l'intégration avec des logiciels comptables ou la génération de rapports sur mesure. Ainsi, nous avons donné priorité aux systèmes web, facilement accessible de partout, ainsi qu'aux solutions clé en main de par la facilité de leur déploiement ainsi que par leurs faibles coûts initiaux et leur meilleure fiabilité. Ces systèmes, de type SaaS, nous semblaient donc les meilleurs choix à suggérer pour l'entreprise.
+Lors de note recherche, nous avons bien étudié toute sorte de solutions pour répondre aux besoins de la compagnie. La première solution considérée fut naturellement le statu quo. En effet, les feuilles de temps stockées sur EXCEL représentent une solution qui répond tout de même aux besoins de base de la compagnie soit ceux de stocker et calculer le nombre d'heures travaillées des employés. Toutefois, cette solution c'est avéré écartée bien rapidement dû a son manque de flexibilité et de puissance, en plus des problèmes d'ergonomie liés à son utilisation. Nous avons ensuite considéré les solutions basées sur des applications (app-based solutions). Toutefois, nous avons tout de suite réalisé que la plupart de ces solutions n'étaient pas disponibles sur toutes les plateformes, ce qui signifie que certains employés ne pourraient y accéder. De plus, elles n'offraient pas certaines fonctionnalités plus avancées telles que l'intégration avec des logiciels comptables ou la génération de rapports sur mesure. Ainsi, nous avons donné priorité aux systèmes web, facilement accessibles de partout, ainsi qu'aux solutions clé en main de par la facilité de leur déploiement ainsi que par leurs faibles coûts initiaux et leur fiabilité. Ces systèmes, de type SaaS, nous semblaient donc les meilleurs choix à suggérer pour l'entreprise.
 
 ## Critères de sélection des solutions
 
-1) La solution doit être un système de gestion de feuille de temps, qui permet aussi la gestion des mandats.
-2) Le système doit pouvoir communiquer avec des applications extérieures
-3) Il doit permettre la génération de rapport
-4) Il doit fonctionner sur ordinateur, que ce soit Apple ou Windows
+1) La solution doit être un système de gestion de feuilles de temps, qui permet aussi la gestion des mandats.
+2) Le système doit pouvoir communiquer avec des applications extérieures.
+3) Il doit permettre la génération de rapports.
+4) Il doit fonctionner sur ordinateur, que ce soit Apple ou Windows.
 
 
 # Solutions possibles
@@ -366,23 +368,23 @@ Lors de note recherche, nous avons bien étudié toute sorte de solutions pour r
 
 Tout d'abord, nous avons fait des recherches pour déterminer quelles solutions étaient communément utilisées pour la gestion de feuilles de temps. Pour ce faire, nous avons surtout eu recours à l'internet et à notre entourage. Nous y avons relevé les points suivants :
 
-- les entreprises informelles, c'est-à-dire avec un ou deux employés et des mandats facilement gérables, n'ont parfois aucun système de gestion de feuille de temps. Ils gèrent alors leurs mandats de mémoire.
+- Les entreprises informelles, c'est-à-dire avec un ou deux employés et des mandats facilement gérables, n'ont parfois aucun système de gestion de feuilles de temps. Ils gèrent alors leurs mandats de mémoire.
 
-- Les petits entrepris, souvent de cinq employés ou moins, ont souvent recours à une solution par tableur comme EXCEL couplée avec un système de formules programmées dans la feuille ou de macros.
+- Les petites entreprises, souvent de cinq employés ou moins, ont souvent recours à une solution par tableur comme EXCEL couplée avec un système de formules programmées dans la feuille ou de macros.
 
 - La plupart des start-ups et autres entreprises plus innovatrices ont recours à des plateformes web clé en main pour gérer le temps et l'attribution des mandats.
 
-- Certaines entreprises, surtout situées aux États-Unis, ont recours à une solution de gestion de ressources humaines et de comptabilité intégrée
+- Certaines entreprises, surtout basées aux États-Unis, ont recours à une solution de gestion de ressources humaines et de comptabilité intégrée.
 
 - Les entreprises de plus grandes tailles ont recours à des progiciels intégrés comme SAP ou utilise une solution maison (programme in-house).
 
 ## Sélection des solutions retenues
 
-Avec les différentes solutions trouvées ci-haut, nous avons par la suite réfléchi sur leur faisabilité et leur côté pratique. Nous en sommes venus aux conclusions suivantes :
+Avec les différentes solutions trouvées ci-haut, nous avons par la suite réfléchi à leur faisabilité et leur côté pratique. Nous en sommes venus aux conclusions suivantes :
 
 -- La gestion de temps sans système clair, c'est à dire de mémoire, est impossible dût à la complexité prévue des opérations de l'entreprise embryonnaire.
 
--- Le système de gestion par feuille de temps actuellement en place par feuille de temps ne répond pas suffisamment à tous les besoins pour être conservé et les possibilités d'améliorations sont faibles, voire même impossibles. Le statu quo au niveau du système de gestion de feuille de temps n'est donc pas retenu.
+-- Le système de gestion par feuille de temps actuellement en place par feuilles de temps ne répond pas suffisamment à tous les besoins pour être conservé et les possibilités d'améliorations sont faibles, voire même impossibles. Le statu quo au niveau du système de gestion de feuille de temps n'est donc pas retenu.
 
 -- Les solutions de gestion de ressources humaines complète intègres avec l'imposition et la comptabilité ne sont pas disponibles au Canada et sont trop complexes pour les besoins de la compagnie.
 
@@ -414,35 +416,35 @@ Au départ, on pourrait penser que le statu quo entraînerait le moins grand inv
 
 ### Risques spécifiques
 
-Les risques associés à un maintien du statu quo sont faibles. En effet, le système fonctionne déjà en ce moment. On pourrait par contre dire que les risques à long terme sont ceux de rester derrière et de ne pas avoir une plateforme de gestion de temps et de mandats robuste à un moment ou l'entreprise en aurait besoin en raison d'une forte croissance.
+Les risques associés à un maintien du statu quo sont faibles. En effet, le système fonctionne déjà en ce moment. On pourrait par contre dire que les risques à long terme sont ceux de rester derrière et de ne pas avoir une plateforme de gestion de temps et de mandats robuste à un moment où l'entreprise en aurait besoin en raison d'une forte croissance.
 
 ## Solution FDTpro
 
-Cette section présente les avantages et les inconvénients de prendre une solution déjà fait, donc ici le logiciel FDTpro.
+Cette section présente les avantages et les inconvénients de prendre une solution déjà faite, donc ici le logiciel FDTpro.
 
 ### Description
 
-FDTpro offre un service en ligne qui fonctionne par l'entremise d'un navigateur web. Il offre aussi une gestion des droits d'accès flexible et un processus d'approbation. Le logiciel offre un générateur de rapport qui laisse à l'utilisateur le choix de filtrer ce qu'il veut. Aussi, il permet l'intégration avec d'autres logiciels, dont simple comptable, et il permet d'envoyer des courriels de rappel pour l'heure de tombée des paies, donc il envoie un courriel seulement aux personnes n'ayant pas soumis les feuilles de temps.
+FDTpro offre un service en ligne qui fonctionne par l'entremise d'un navigateur web. Il offre aussi une gestion des droits d'accès flexible et un processus d'approbation. Le logiciel offre un générateur de rapport qui laisse à l'utilisateur le choix de filtrer ce qu'il veut. Aussi, il permet l'intégration avec d'autres logiciels, dont SimpleComptable, et il permet d'envoyer des courriels de rappel pour l'heure de tombée des paies, donc il envoie un courriel seulement aux personnes n'ayant pas soumis les feuilles de temps.
 
 ### Perspective organisationnelle
 
-Le fait de choisir FDTpro va permettre au coordonnateur de se concentrer sur ce qui est plus problématique et plus important que suivre le temps travaillé des analystes et sur quel projet. Aussi, les analystes vont perdre moins de temps a remplir leur feuille, car une grande partie, exemple les mandats, est déjà dans le système, alors ils ne vont avoir besoin que de sélectionner le bon nom. De plus, du côté de la comptabilité, le comptable va avoir plus de facilité, puisque le logiciel va pouvoir interagir avec simple comptable.
+Le fait de choisir FDTpro permettra au coordonnateurs de se concentrer sur ce qui est plus problématique et plus important que suivre le temps travaillé des analystes et sur quel projet. Aussi, les analystes perdront moins de temps à remplir leur feuilles, car une grande partie, exemple les mandats, est déjà dans le système, alors ils n'auront qu'à sélectionner le nom correspondant. De plus, du côté de la comptabilité, le comptable aura plus de facilité, puisque le logiciel pourra interagir avec SimpleComptable.
 
 ### Perspective technique
 
-Du côté technique, FDTpro permet à l'entreprise de ne rien changer ou d'installer quoi que ce soit, puisqu’étant un service en ligne, FDTpro s'occupe de la mise en place des serveurs de leur côté et ils s'occupent de tous les aspects de sécurité.
+Du côté technique, FDTpro permet à l'entreprise de ne rien changer ou d'installer quoi que ce soit, puisqu’étant un service en ligne, FDTpro s'occupe de la mise en place des serveurs ainsi que tout les aspects liés à la sécurité .
 
 ### Perspective financière
 
-Utiliser un logiciel comme FDTpro pour Les Mousquetaires serait un très grand avantage vu que la compagnie fait ses débuts. Du côté court terme, nous avons l'investissement initial qui pourrait paraitre très grand, mais le logiciel va être facilement remboursé sur quelques années. De plus, les frais mensuels ou annuels vont être prévisibles et il n'y aura aucune dépense surprise, puisque c'est FDTpro qui s'occupe du côté serveur et tout ce qui est de la sécurité. Donc, l'investissement dans FDTpro est très prometteur, puisque le logiciel est compatible avec les besoins de l'entreprise.
+Utiliser un logiciel comme FDTpro pour Les Mousquetaires serait un très grand avantage vu que la compagnie fait ses débuts. À court terme, nous avons l'investissement initial qui pourrait paraitre très grand, mais le coût du logiciel sera facilement amorti sur quelques années. De plus, les frais mensuels ou annuels sont prévisibles et il n'y aura aucune dépense surprise, puisque c'est FDTpro qui s'occupe du côté serveur et tout ce qui concerne sécurité. Donc, l'investissement dans FDTpro est très prometteur, puisque le logiciel est compatible avec les besoins de l'entreprise.
 
 ### Risques spécifiques
 
-Il y a peu de risque associé à cette solution, car :
+Il y a peu de risques associés à cette solution, car :
 
-1) FDTpro a déjà beaucoup de clients, donc ce n'est pas la première fois qu'ils mettent le logiciel en place
-2) Ils offrent un logiciel selon les besoins des entreprises
-3) Si le système ne fonctionnait pas ou un peu après l'installation, on peut toujours utiliser l'ancienne méthode le temps d'arranger le nouveau système
+1) FDTpro a déjà beaucoup de clients, donc ce n'est pas la première fois qu'ils mettent le logiciel en place.
+2) Ils offrent un logiciel selon les besoins des entreprises.
+3) Si le système ne fonctionnait pas ou peu après l'installation, on peut toujours utiliser l'ancienne méthode le temps d'arranger le nouveau système.
 
 ## Solution ACTIVI-T
 
@@ -480,7 +482,7 @@ ACTIVI-T est un système de gestion de feuilles de temps et de mandats :
 
 ### Perspective organisationnelle
 
-Ici, sa ressemble aussi a FDTpro, puisque le logiciel va permettre de laisser plus de temps aux analystes et coordonnateur pour travailler sur des choses plus importantes que la feuille de temps et bien la remplir, puisque tous est inclus dans le logiciel.
+Ici, sa ressemble aussi à FDTpro, puisque le logiciel permettra de laisser plus de temps aux analystes et coordonnateurs pour travailler sur des choses plus importantes que les feuilles de temps et bien la remplir, puisque tous est inclus dans le logiciel.
 
 ### Perspective technique
 
@@ -488,26 +490,26 @@ Du coté technique, ACTIVI-T offre une plateforme qui fonctionne sur bureau, don
 
 ### Perspective financière
 
-Les perspectives financières sont un gros investissement au début, plus un prix par ans. Mais, on sait qu’elle va être le prix et même être capable de prévoir le coût en fonction du nombre d'employés que l'entreprise va avoir.
+Les perspectives financières sont un gros investissement au début, plus un prix annuel. Par contre, le prix est connu à l'avance, ceci nous permet donc de prévoir le coût en fonction du nombre d'employés de l'entreprise.
 
 ### Risques spécifiques
 
-Étant donné que l'application se trouve sur l'ordinateur, si un des ordinateurs des analystes brise, alors il va être obligé d'emprunter un ordinateur d'un de ses collègues pour pouvoir remplir sa feuille de temps.
+Étant donné que l'application se trouve sur l'ordinateur, si un des ordinateurs des analystes brise, alors il devra emprunter  l'ordinateur d'un de ses collègues pour pouvoir remplir sa feuille de temps.
 
 ## Analyse comparative des solutions envisagées
 
 Retour sur les critères de sélection (voir section 2.7)
 
 1) La solution doit être un système de gestion de feuille de temps, qui permet aussi la gestion des mandats.
-2) Le système doit pouvoir communiquer avec des applications extérieures
-3) Il doit permettre la génération de rapport
-4) Il doit fonctionner sur ordinateur, que ce soit Apple ou Windows
+2) Le système doit pouvoir communiquer avec des applications extérieures.
+3) Il doit permettre la génération de rapport.
+4) Il doit fonctionner sur ordinateur, que ce soit Apple ou Windows.
 
-Il y a 2 solutions qui ont étés retenues. Soit FDTpro et ACTIVI-T, ces deux applications répondent aux critères de sélection, mais avec certaines différences significatives dépendant des besoins de l'entreprise les Mousquetaires.
+Il y a 2 solutions qui ont été retenues. Soit FDTpro et ACTIVI-T, ces deux applications répondent aux critères de sélection, mais avec certaines différences significatives dépendant des besoins de l'entreprise les Mousquetaires.
 
 1. Le système doit pouvoir communiquer avec des applications extérieures
 
-Prenons ce critère, selon lequel le but recherché serait au système de pouvoir interagir avec des logiciels de comptabilité. FDTpro et ACTIVI-T peuvent tous les deux communiquer avec plusieurs logiciels, par contre, FDTpro offre plus de choix ainsi que la compatibilité avec le logiciel simple comptable (Sage50) qui est très réputé au Québec, d'ailleurs l'entreprise FDTpro indique que la compatibilité peut être développée avec d'autres logiciels si le département de comptabilité utilise des logiciels moins connus.
+Prenons ce critère, selon lequel le but recherché serait que le système puisse interagir avec des logiciels de comptabilité. FDTpro et ACTIVI-T peuvent tous les deux communiquer avec plusieurs logiciels, par contre, FDTpro offre plus de choix ainsi que la compatibilité avec le logiciel SimpleComptable (Sage50) qui est très réputé au Québec. D'ailleurs, l'entreprise FDTpro indique que la compatibilité peut être développée avec d'autres logiciels si le département de comptabilité utilise des logiciels moins connus.
 
 2. La solution doit être un système de gestion de feuille de temps, qui permet aussi la gestion des mandats.
 
@@ -515,11 +517,11 @@ Pour ce critère, ACTIVI-T et FDTpro sont égaux.
 
 3. Il doit permettre la génération de rapport
 
-ACTIVI-T et FDTpro peuvent tous les 2 générer des rapports, par contre, FDTpro est clairement supérieur pour ce critère. ACTIVI-T peut donner des statistiques par employés, mandats et clients, mais FDTpro permet la création de rapport personnalisé. Donc peu importe les besoins de l'entreprise au niveau des rapports, ceux-ci pourront les créer exactement comme nécessaire avec FDTpro.
+ACTIVI-T et FDTpro peuvent tous les 2 générer des rapports, par contre, FDTpro est clairement supérieur dans cet aspect. ACTIVI-T peut donner des statistiques par employés, mandats et clients, mais FDTpro permet la création de rapports personnalisés. Donc peu importe les besoins de l'entreprise au niveau des rapports, ceux-ci pourront être générés exactement comme voulu par FDTpro.
 
 4. Il doit fonctionner sur ordinateur, que ce soit Apple ou Windows
 
-ACTIVI-T est un logiciel de bureau qui fonctionne sous Windows seulement. FDTpro est remporté donc pour ce critère, car c'est une application web, donc on peut l'utiliser via n'importe quel type de système d'exploitation (Linux, Windows, Apple, etc.). Cela permet aussi a FDTpro de fonctionner sur mobile également, l'entreprise offre d'ailleurs une configuration spéciale de l'application si elle est utilisée via mobile pour qu'elle soit utilisable facilement malgré la taille de l'appareil.
+ACTIVI-T est un logiciel de bureau qui fonctionne sous Windows seulement. FDTpro est donc mieux adapté pour ce critère, car c'est une application web, pouvant donc être utilisée via n'importe quel type de système d'exploitation (Linux, Windows, Apple, etc.). Cela permet aussi à FDTpro de fonctionner sur mobile également. L'entreprise offre d'ailleurs une configuration spéciale de l'application si elle est utilisée via mobile, pour qu'elle soit automatiquement adaptable à la taille de l'appareil.
 
 
 # Recommandations et plan d'action
@@ -530,7 +532,7 @@ La meilleure option en prenant en compte que l'entreprise ne veut pas se soucier
 
 ## Plan d'action préliminaire
 
-La première étape va être de communiquer avec FDTpro pour avoir l'essai gratuit d'un mois pour savoir si le logiciel correspond réellement avec les besoins de l'entreprise. Donc, jusqu'à ce que le logiciel entre en services, les analystes devront continuer avec les tableurs Excel. Ensuite, l'achat s'il correspond.
+La première étape sera de communiquer avec FDTpro pour avoir l'essai gratuit d'un mois pour savoir si le logiciel correspond réellement aux les besoins de l'entreprise. Donc, jusqu'à ce que le logiciel entre en service, les analystes devront continuer avec les tableurs Excel. Ensuite, l'entreprise procèdera à l'achat de la licence s'il correspond.
 
 # Bibliographie
 
