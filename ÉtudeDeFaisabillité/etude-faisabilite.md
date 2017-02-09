@@ -26,18 +26,14 @@ S/O
 
 Cette étude de faisabilité a pour objectif principal de déterminer s'il existe au moins une solution pour l'entreprise les Mousquetaires aux niveaux technique, économique et organisationnel qui atteignent les objectifs visés.
 
+L'entreprise recherche un logiciel qui leur permettra de mieux gérer les feuilles de temps de leur employé et de mieux gérer les mandats. Donc, le logiciel devra pouvoir permettre la création de rapports pour que les clients puissent voir l'avancer de leur mandat et il devra aussi permettre l'envoi des données au comptables.
+
 La meilleure option qui répond aux besoins de l'entreprise est l'utilisation du système FDTpro qui lui permettra d'effectuer toutes les tâches relatives  à la gestion des heures des analystes, production de rapport, et facturation. C'est un système simple, fiable et simple d'accès, qui sera  adapté selon les besoins de l'entreprise.
-
 Le logiciel permettra à l'entreprise d'automatiser un grand nombre de tâches qui, jusqu'à présent, sont effectuées d'une façon manuelle, ce qui permettra une augmentation de la productivité.
-
 Il facilitera grandement le travail des analystes au niveau de la gestion des heures travaillées et les détails relatifs au mandat, mais aussi le travail des coordonnateurs au niveau de la validation des feuilles de temps des analystes, ainsi que la production de rapports hebdomadaires.
-
 Au niveau de l'entreprise, ceci permettra d'avoir une idée globale sur l'avancement des projets de clients, avec tous les détails relatifs aux nombres d'heures investies sur chacun des projets.
-
 Il permet enfin de gérer la facturation client à travers la communication avec Simple Comptable.
-
 Le risque relié à l'utilisation de FDTpro est très faible, étant donné que c'est un système qui est grandement utilisé donc établi, et qui ne nécessite pas d'installation particulière, car les serveurs sont gérés par FDTpro directement.
-
 De plus, Les Mousquetaires disposeront d'une période d'essai gratuite.
 
 # Introduction
