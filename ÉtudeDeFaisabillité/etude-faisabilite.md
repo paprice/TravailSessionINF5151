@@ -24,22 +24,21 @@ S/O
 
 # Sommaire exécutif {-}
 
-Cette étude de faisabilité a pour objectif principal de déterminer s'il existe au moins une solution pour l'entreprise les Mousquetaires aux niveaux technique, économique et organisationnel qui rencontre les objectifs visés.
+Cette étude de faisabilité a pour objectif principal de déterminer s'il existe au moins une solution pour l'entreprise les Mousquetaires aux niveaux technique, économique et organisationnel qui atteignent les objectifs visés.
 
-La meilleure option qui répond aux besoins de l'entreprise est l'utilisation du système FDTpro qui lui permettra d'effectuer toutes les tâches relatives  à la gestion des heures des analystes, production de rapport, et facturation. C'est un système simple, fiable et simple d'accès, qui sera  adapté selon les besoin de l'entreprise.
+La meilleure option qui répond aux besoins de l'entreprise est l'utilisation du système FDTpro qui lui permettra d'effectuer toutes les tâches relatives  à la gestion des heures des analystes, production de rapport, et facturation. C'est un système simple, fiable et simple d'accès, qui sera  adapté selon les besoins de l'entreprise.
 
 Le logiciel permettra à l'entreprise d'automatiser un grand nombre de tâches qui, jusqu'à présent, sont effectuées d'une façon manuelle, ce qui permettra une augmentation de la productivité.
 
-Il facilitera grandement le travail des analystes au niveau de la gestion des heures travaillées et les détails relatifs au mandats, mais aussi le travail des coordonnateurs au niveau de la validation des feuilles de temps des analystes, ainsi que la production de rapports hebdomadaires.
+Il facilitera grandement le travail des analystes au niveau de la gestion des heures travaillées et les détails relatifs au mandat, mais aussi le travail des coordonnateurs au niveau de la validation des feuilles de temps des analystes, ainsi que la production de rapports hebdomadaires.
 
-Au niveau de l'entreprise, ceci permettra d'avoir une idée globale sur l'avancement des projets de clients, avec tout les détails relatifs aux nombres d'heures investies sur chacun des projets.
+Au niveau de l'entreprise, ceci permettra d'avoir une idée globale sur l'avancement des projets de clients, avec tous les détails relatifs aux nombres d'heures investies sur chacun des projets.
 
-Il permet enfin de gérer la facturation client à travers la communication avec SimpleComptable.
+Il permet enfin de gérer la facturation client à travers la communication avec Simple Comptable.
 
-Le risque relié à l'utilisation de FDTpro est très faible, étant donné que c'est un système qui est grandement utilisé donc établi, et qui ne nécessite pas d'installation particulière car les serveurs sont gérés par FDTpro directement.
+Le risque relié à l'utilisation de FDTpro est très faible, étant donné que c'est un système qui est grandement utilisé donc établi, et qui ne nécessite pas d'installation particulière, car les serveurs sont gérés par FDTpro directement.
 
 De plus, Les Mousquetaires disposeront d'une période d'essai gratuite.
-
 
 # Introduction
 
@@ -508,11 +507,11 @@ Retour sur les critères de sélection (voir section 2.7)
 3) Il doit permettre la génération de rapport
 4) Il doit fonctionner sur ordinateur, que ce soit Apple ou Windows
 
-Il y a 2 solutions qui ont étés retenues. Soit FDTpro et ACTIVI-T, ces deux applications répondent aux critères de sélection mais avec certaines différences significatives dépendant des besoins de l'entreprise les Mousquetaires.
+Il y a 2 solutions qui ont étés retenues. Soit FDTpro et ACTIVI-T, ces deux applications répondent aux critères de sélection, mais avec certaines différences significatives dépendant des besoins de l'entreprise les Mousquetaires.
 
 1. Le système doit pouvoir communiquer avec des applications extérieures
 
-Prenons ce critère, selon lequel le but recherché serait au système de pouvoir interagir avec des logiciels de comptabilité. FDTpro et ACTIVI-T peuvent tous les deux communiquer avec plusieurs logiciels, par contre FDTpro offre plus de choix ainsi que la compatibilité avec le logiciel simple comptable (Sage50) qui est très réputé au Québec, d'ailleur l'entreprise FDTpro indique que la compatibilité peut être développée avec d'autres logiciels si le département de comptabilité utilise des logiciels moins connus.
+Prenons ce critère, selon lequel le but recherché serait au système de pouvoir interagir avec des logiciels de comptabilité. FDTpro et ACTIVI-T peuvent tous les deux communiquer avec plusieurs logiciels, par contre, FDTpro offre plus de choix ainsi que la compatibilité avec le logiciel simple comptable (Sage50) qui est très réputé au Québec, d'ailleurs l'entreprise FDTpro indique que la compatibilité peut être développée avec d'autres logiciels si le département de comptabilité utilise des logiciels moins connus.
 
 2. La solution doit être un système de gestion de feuille de temps, qui permet aussi la gestion des mandats.
 
@@ -520,13 +519,11 @@ Pour ce critère, ACTIVI-T et FDTpro sont égaux.
 
 3. Il doit permettre la génération de rapport
 
-ACTIVI-T et FDTpro peuvent tous les 2 générer des rapports, par contre, FDTpro est clairement supérieur pour ce critère. ACTIVI-T peux donner des statistiques par employés, mandats et clients, mais FDTpro permet la création de rapport personnalisé. Donc peu importe les besoins de l'entreprise au niveau des rapports, ceux-ci pourront les créer exactement comme nécessaire avec FDTpro.
+ACTIVI-T et FDTpro peuvent tous les 2 générer des rapports, par contre, FDTpro est clairement supérieur pour ce critère. ACTIVI-T peut donner des statistiques par employés, mandats et clients, mais FDTpro permet la création de rapport personnalisé. Donc peu importe les besoins de l'entreprise au niveau des rapports, ceux-ci pourront les créer exactement comme nécessaire avec FDTpro.
 
 4. Il doit fonctionner sur ordinateur, que ce soit Apple ou Windows
 
-ACTIVI-T est un logiciel de bureau qui fonctionne sous Windows seulement. FDTpro est remporte donc pour ce critère car c'est une application web, donc on peux l'utiliser via n'importequel type de système d'exploitation (linux, Windows, apple..etc). Cela permet aussi a FDTpro de fonctionner sur mobile également, l'entreprise offre d'ailleur une configuration spéciale de l'application si elle est utilisé via mobile pour qu'elle soit utilisable facilement malgré la taille de l'appareil.
-
-
+ACTIVI-T est un logiciel de bureau qui fonctionne sous Windows seulement. FDTpro est remporté donc pour ce critère, car c'est une application web, donc on peut l'utiliser via n'importe quel type de système d'exploitation (Linux, Windows, Apple, etc.). Cela permet aussi a FDTpro de fonctionner sur mobile également, l'entreprise offre d'ailleurs une configuration spéciale de l'application si elle est utilisée via mobile pour qu'elle soit utilisable facilement malgré la taille de l'appareil.
 
 
 # Recommandations et plan d'action
