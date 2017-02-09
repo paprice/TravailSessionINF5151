@@ -501,6 +501,32 @@ Les perspectives financières sont un gros investissement au début, plus un pri
 
 ## Analyse comparative des solutions envisagées
 
+Retour sur les critères de sélection (voir section 2.7)
+
+1) La solution doit être un système de gestion de feuille de temps, qui permet aussi la gestion des mandats.
+2) Le système doit pouvoir communiquer avec des applications extérieures
+3) Il doit permettre la génération de rapport
+4) Il doit fonctionner sur ordinateur, que ce soit Apple ou Windows
+
+Il y a 2 solutions qui ont étés retenues. Soit FDTpro et ACTIVI-T, ces deux applications répondent aux critères de sélection mais avec certaines différences significatives dépendant des besoins de l'entreprise les Mousquetaires.
+
+1. Le système doit pouvoir communiquer avec des applications extérieures
+
+Prenons ce critère, selon lequel le but recherché serait au système de pouvoir interagir avec des logiciels de comptabilité. FDTpro et ACTIVI-T peuvent tous les deux communiquer avec plusieurs logiciels, par contre FDTpro offre plus de choix ainsi que la compatibilité avec le logiciel simple comptable (Sage50) qui est très réputé au Québec, d'ailleur l'entreprise FDTpro indique que la compatibilité peut être développée avec d'autres logiciels si le département de comptabilité utilise des logiciels moins connus.
+
+2. La solution doit être un système de gestion de feuille de temps, qui permet aussi la gestion des mandats.
+
+Pour ce critère, ACTIVI-T et FDTpro sont égaux.
+
+3. Il doit permettre la génération de rapport
+
+ACTIVI-T et FDTpro peuvent tous les 2 générer des rapports, par contre, FDTpro est clairement supérieur pour ce critère. ACTIVI-T peux donner des statistiques par employés, mandats et clients, mais FDTpro permet la création de rapport personnalisé. Donc peu importe les besoins de l'entreprise au niveau des rapports, ceux-ci pourront les créer exactement comme nécessaire avec FDTpro.
+
+4. Il doit fonctionner sur ordinateur, que ce soit Apple ou Windows
+
+ACTIVI-T est un logiciel de bureau qui fonctionne sous Windows seulement. FDTpro est remporte donc pour ce critère car c'est une application web, donc on peux l'utiliser via n'importequel type de système d'exploitation (linux, Windows, apple..etc). Cela permet aussi a FDTpro de fonctionner sur mobile également, l'entreprise offre d'ailleur une configuration spéciale de l'application si elle est utilisé via mobile pour qu'elle soit utilisable facilement malgré la taille de l'appareil.
+
+
 
 
 # Recommandations et plan d'action
