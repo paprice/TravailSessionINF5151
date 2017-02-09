@@ -38,7 +38,7 @@ Il permet enfin de gérer la facturation client à travers la communication avec
 
 Le risque relié à l'utilisation de FDTpro est très faible, étant donné que c'est un système qui est grandement utilisé donc établi, et qui ne nécessite pas d'installation particulière car les serveurs sont gérés par FDTpro directement.
 
-De plus, Les Mousquetaires disposeront d'une période d'essai gratuite. 
+De plus, Les Mousquetaires disposeront d'une période d'essai gratuite.
 
 
 # Introduction
@@ -59,7 +59,7 @@ _Saisir le texte pertinent ou inscrire_ S/O
 
 ## Méthodologie utilisée
 
-_Saisir le texte pertinent ou inscrire_ S/O
+Étant donné le cours délais dans lequel l'étude a dû être conduite et le contexte dans lequel elle a été produite, nous avons considéré suffisant de baser notre recherche sur les informations disponibles sur internet. Ensuite, l'entreprise étant très jeune et ses requêtes communes, nous avons favorisé la recherche d'une solution préfaite sur le marché étant donné que celles-ci sont généralement moins coûteuses tant au niveau financier que de l'entretien.
 
 ## Structure du document
 
