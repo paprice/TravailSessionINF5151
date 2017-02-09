@@ -54,7 +54,7 @@ L'objectif de cette étude sera de sélectionner ou de spécifier un logiciel de
 
 ## Références
 
-_Saisir le texte pertinent ou inscrire_ S/O
+S/O
 
 ## Méthodologie utilisée
 
@@ -72,7 +72,7 @@ Ce document présente les sections suivantes dans l'ordre :
 
 ## Points en suspens
 
-_Saisir le texte pertinent ou inscrire_ S/O
+S/O
 
 # Analyse de la situation
 
@@ -480,7 +480,7 @@ ACTIVI-T est un système de gestion de feuilles de temps et de mandats :
 >
 > -- Gestion des informations relatives aux clients et projets (mandats) [^1]
 
-[^1] : http://www.unittechnologies.com/Page1F.htm
+[^1]:http://www.unittechnologies.com/Page1F.htm
 
 ### Perspective organisationnelle
 
@@ -549,11 +549,3 @@ La première étape va être de communiquer avec FDTpro pour avoir l'essai gratu
 <http://www.feuille-de-temps.com/product.php>
 
 <http://www.unittechnologies.com/PageCaractF.htm>
-
-# Annexe X _(normative)_
-
-_Saisir le texte pertinent ou retirer_
-
-# Annexe Y _(informative)_
-
-_Saisir le texte pertinent ou retirer_
