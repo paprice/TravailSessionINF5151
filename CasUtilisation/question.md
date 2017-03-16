@@ -16,4 +16,4 @@ c'est le coordonnateur qui approuve et qui entre les mandats, les budgets et les
 
 notion imputable et notion facturable. donc la compagnie veut savoir combien de temps et combien sa lui a couter, mais elle ne peut charger que le temps inscrit lors du contrat.
 
-Avoir des statistique de projet
+Avoir des statistiques de projet
