@@ -14,44 +14,52 @@ Le present document a pour but de cerner les differents cas d'utilisations lie a
 
 # Cas d'utilisation
 
-## Titre du cas
+## Un employe veut rentrer ses heures
 
-### But
+### Entrer les heures effectuees dans le systeme de feuilles de temps
 
-Décrire le but.
+Le but de ce cas d'utilisation est le cas de base,le plus commun a effectuer selon les regles d'affaire actuelles. En effet,il consiste à entrer les heures effectuées au cours de la semaine et de les soumettre au coordonateur dans le but de faire approuver la feuille de temps.
 
 ### Acteur principal _(ou Acteurs principaux)_
 
-- Référence à l'acteur
+Employe
 
 ### Sommaire
 
-Sommaire du cas.
+L'employe veut rentrer ses heures. Il se connecte au systeme et regle toute situation problematique signalee par le coordnateur dans le systeme,puis il entre les donnees de ses heures par mandat. Ensuite,il soummet ses heures dans le systeme pour approbation par le coordonateur.
 
 ### Pré-conditions
 
-- Première pré-condition
-- Etc.
+Être un employé actif dans le système
 
 ### Déroulement nominal
 
 -------------------------------------------------------------------------------
 **Acteur**                              **Système**
 -------------------------------------   ---------------------------------------
-_Section Nom de la section_
+_Section Se connecter au système_
 
-1. Première action de l'acteur.
+1. L'employé se connecte au système
+de feuille de temps avec ses
+identifiants.
 
-                                        2. Réponse du système qui s'étend sur
-                                        plusieurs lignes et ça continue ainsi
-                                        jusqu'à la fin.
+                                        2. Le système l'identifie et lui présente l'interface principale avec un calendrier qui contient ses mandats ainsi que toutes demande de correction de la part du coordonateur.
 
-_Section Nom de la section_
+_Section Entree des heures_
 
-3. Un longue action de la part de
-l'acteur pour la suite des choses.
+3. L'employé entre ensuite ses heures
+dans le système grace à la vue
+calendrier de l'interface.
 
-                                        4. Et le système répond.
+                                        4. Le système envoie un message de confirmation comme quoi les heures sont bien rentrées.
+_Section Demande d'approbation_              
+
+5. Une fois l'entrée des heures
+terminée,l'employé soumet ses
+changements au coordonateur
+pour obtenir une approbation.
+
+                                        6. Le système envoie un message de confirmation comme quoi la demande d'approbation a bien été soumise.
 -------------------------------------------------------------------------------
 
 ### Déroulement alternatif 1
@@ -59,26 +67,24 @@ l'acteur pour la suite des choses.
 -------------------------------------------------------------------------------
 **Acteur**                              **Système**
 -------------------------------------   ---------------------------------------
-_Section Nom de la section_
+_Section Correction des refus_
 
-1. Action de l'acteur
+1. À l'étape 2 du déroulement nominal,
+si le coordonateur a refusé la feuille
+de temps précedente,le système affiche
+un message à cet effet et l'employé
+doit corriger la feuille de temps
+problématique avant de pouvoir
+poursuivre.
 
-                                        2. Réponse du système qui s'étend sur
-                                        plusieurs lignes et ça continue ainsi
-                                        jusqu'à la fin.
+                                        2. Retour à l'étape 2 du déroulemment nominal
 
-_Section Nom de la section_
-
-3. Un longue action de la part de
-l'acteur pour la suite des choses.
-
-                                        4. Et le système répond.
 -------------------------------------------------------------------------------
 
 ### Exceptions
 
-- Première exception
-- Etc.
+- Les informations de connexions de l'employé sont erronées
+- L'employé est hors ligne
 
 ### Diagramme de séquence système
 
