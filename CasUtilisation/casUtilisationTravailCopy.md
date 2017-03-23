@@ -1,4 +1,4 @@
-% Cas d'utilsation
+% Cas d'utilisation
   Les Mousquetaires
   Gestion des mandats et des feuilles de temps
 % Patrice Desrochers -- DESP02049609
@@ -10,25 +10,29 @@
 
 # Introduction
 
-Le present document a pour but de cerner les differents cas d'utilisations lie au systeme de feuille de temps pour les mousquetaires.
+Le présent document a pour but de cerner les différents cas d'utilisations lie au système de feuille de temps pour les mousquetaires.
 
-# Cas d'utilisation
+# Diagramme de cas d'utilisation
+
+\includegraphics[width=6in]{CasDUtilisationImage.pdf}
+
+# Description des cas d'utilisation
 
 ## Un analyste veut rentrer ses heures
 
-### Entrer les heures effectuees dans le systeme de feuilles de temps
+### Entrer les heures effectuées dans le système de feuilles de temps
 
-Le but de ce cas d'utilisation est le cas de base,le plus commun a effectuer selon les regles d'affaire actuelles. En effet,il consiste à entrer les heures effectuées au cours de la semaine et de les soumettre au coordonateur dans le but de faire approuver la feuille de temps.
+Le but de ce cas d'utilisation est le cas de base,le plus commun a effectué selon les règles d'affaires actuelles. En effet,il consiste à entrer les heures effectuées au cours de la semaine et de les soumettre au coordonnateur dans le but de faire approuver la feuille de temps.
 
 ### Acteur principal _(ou Acteurs principaux)_
 
-Employe
+Employé
 
 ### Sommaire
 
-L'analyste veut rentrer ses heures. Il se connecte au systeme et regle toute situation problematique signalee par le coordnateur dans le systeme,puis il entre les donnees de ses heures par mandat. Ensuite,il soummet ses heures dans le systeme pour approbation par le coordonateur.
+L'analyste veut rentrer ses heures. Il se connecte au système et règle toute situation problématique signalée par le coordonnateur dans le système,puis il entre les données de ses heures par mandat. Ensuite,il soumet ses heures dans le système pour approbation par le coordonnateur.
 
-### Pré-conditions
+### Préalables
 
 Être un analyste actif dans le système
 
@@ -43,20 +47,20 @@ _Section Se connecter au système_
 de feuille de temps avec ses
 identifiants.
 
-                                        2. Le système l'identifie et lui présente l'interface principale avec un calendrier qui contient ses mandats ainsi que toutes demande de correction de la part du coordonateur.
+                                        2. Le système l'identifie et lui présente l'interface principale avec un calendrier qui contient ses mandats ainsi que toute demande de correction de la part du coordonnateur.
 
 _Section Entree des heures_
 
 3. L'analyste entre ensuite ses heures
-dans le système grace à la vue
+dans le système grâce à la vue
 calendrier de l'interface.
 
                                         4. Le système envoie un message de confirmation comme quoi les heures sont bien rentrées.
-_Section Demande d'approbation_              
+_Section Demande d'approbation_
 
 5. Une fois l'entrée des heures
 terminée,l'analyste soumet ses
-changements au coordonateur
+changements au coordonnateur
 pour obtenir une approbation.
 
                                         6. Le système envoie un message de confirmation comme quoi la demande d'approbation a bien été soumise.
@@ -70,14 +74,14 @@ pour obtenir une approbation.
 _Section Correction des refus_
 
 1. À l'étape 2 du déroulement nominal,
-si le coordonateur a refusé la feuille
-de temps précedente,le système affiche
+si le coordonnateur a refusé la feuille
+de temps précédente,le système affiche
 un message à cet effet et l'employé
 doit corriger la feuille de temps
 problématique avant de pouvoir
 poursuivre.
 
-                                        2. Retour à l'étape 2 du déroulemment nominal
+                                        2. Retour à l'étape 2 du déroulement nominal
 
 -------------------------------------------------------------------------------
 
@@ -86,13 +90,12 @@ poursuivre.
 - Les informations de connexions de l'analyste sont erronées
 - L'analyste est hors ligne
 
-# Cas d'utilisation
 
-## Un employe veut demander des vacances
+## Un employé veut demander des vacances
 
-### Entrer les vacances dans le systeme de feuilles de temps
+### Entrer les vacances dans le système de feuilles de temps
 
-Le but de ce cas d'utilisation est un autre cas commun pour les analystes. En effet,il consiste à entrer les vacances voulues par l'analyste et à les soumettre au coordonateur dans le but de les faire approuver. Il est a la limite d'un cas alternatif d'entree des heures,mais nous l'avons detaillé ici pour une plus grande clartée.
+Le but de ce cas d'utilisation est un autre cas commun pour les analystes. En effet,il consiste à entrer les vacances voulues par l'analyste et à les soumettre au coordonnateur dans le but de les faire approuver. Il est à la limite d'un cas alternatif d'entrée des heures,mais nous l'avons détaillé ici pour une plus grande clarté.
 
 ### Acteur principal _(ou Acteurs principaux)_
 
@@ -100,9 +103,9 @@ Analyste
 
 ### Sommaire
 
-L'employé veut rentrer ses vacances. Il se connecte au systeme et regle toute situation problematique signalee par le coordnateur dans le systeme,puis il entre les donnees de ses vaccances. Ensuite,il le soumet dans le systeme pour approbation par le coordonateur.
+L'employé veut rentrer ses vacances. Il se connecte au système et règle toute situation problématique signalée par le coordinateur dans le système,puis il entre les données de ses vacances. Ensuite,il le soumet dans le système pour approbation par le coordonnateur.
 
-### Pré-conditions
+### Préalables
 
 Être un analyste actif dans le système
 
@@ -117,24 +120,28 @@ _Section Se connecter au système_
 de feuille de temps avec ses
 identifiants.
 
-                                        2. Le système l'identifie et lui présente l'interface principale avec un calendrier qui contient ses mandats ainsi que toutes demande de correction de la part du coordonateur.
+                                        2. Le système l'identifie et lui présente l'interface principale avec un calendrier qui contient ses mandats ainsi que toute demande de correction de la part du coordonnateur.
 
 _Section Entree des heures_
 
 3. L'analyste entre ensuite ses
 demandes de vacances dans le système
-grace à la vue calendrier de
+grâce à la vue calendrier de
 l'interface.
 
-                                        4. Le système envoie un message de confirmation comme quoi les vaccances sont bien rentrées.
-_Section Demande d'approbation_              
+                                        4. Le système envoie un message de confirmation comme quoi les vacances sont bien rentrées.
+
+_Section Demande d'approbation_
 
 5. Une fois l'entrée terminée,
 l'analyste soumet ses changements
-au coordonateur pour obtenir une approbation.
+au coordonnateur pour obtenir une
+approbation.
 
                                         6. Le système envoie un message de confirmation comme quoi la demande d'approbation a bien été soumise.
+
 -------------------------------------------------------------------------------
+
 
 ### Déroulement alternatif 1
 
@@ -144,14 +151,14 @@ au coordonateur pour obtenir une approbation.
 _Section Correction des refus_
 
 1. À l'étape 2 du déroulement nominal,
-si le coordonateur a refusé la feuille
-de temps précedente,le système affiche
+si le coordonnateur a refusé la feuille
+de temps précédente,le système affiche
 un message à cet effet et l'employé
 doit corriger la feuille de temps
 problématique avant de pouvoir
 poursuivre.
 
-                                        2. Retour à l'étape 2 du déroulemment nominal
+                                        2. Retour à l'étape 2 du déroulement nominal
 
 -------------------------------------------------------------------------------
 
@@ -160,7 +167,7 @@ poursuivre.
 - Les informations de connexions de l'analyste sont erronées
 - L'analyste est hors ligne
 
-### Pré-conditions
+### Préalables
 
 Être un analyste actif dans le système
 
@@ -175,20 +182,20 @@ _Section Se connecter au système_
 de feuille de temps avec ses
 identifiants.
 
-                                        2. Le système l'identifie et lui présente l'interface principale avec un calendrier qui contient ses mandats ainsi que toutes demande de correction de la part du coordonateur.
+                                        2. Le système l'identifie et lui présente l'interface principale avec un calendrier qui contient ses mandats ainsi que toute demande de correction de la part du coordonnateur.
 
 _Section Entree des heures_
 
 3. L'analyste entre ensuite ses heures
-dans le système grace à la vue
+dans le système grâce à la vue
 calendrier de l'interface.
 
                                         4. Le système envoie un message de confirmation comme quoi les heures sont bien rentrées.
-_Section Demande d'approbation_              
+_Section Demande d'approbation_
 
 5. Une fois l'entrée des heures
 terminée,l'analyste soumet ses
-changements au coordonateur
+changements au coordonnateur
 pour obtenir une approbation.
 
                                         6. Le système envoie un message de confirmation comme quoi la demande d'approbation a bien été soumise.
@@ -202,14 +209,14 @@ pour obtenir une approbation.
 _Section Correction des refus_
 
 1. À l'étape 2 du déroulement nominal,
-si le coordonateur a refusé la feuille
-de temps précedente,le système affiche
+si le coordonnateur a refusé la feuille
+de temps précédente,le système affiche
 un message à cet effet et l'employé
 doit corriger la feuille de temps
 problématique avant de pouvoir
 poursuivre.
 
-                                        2. Retour à l'étape 2 du déroulemment nominal
+                                        2. Retour à l'étape 2 du déroulement nominal
 
 -------------------------------------------------------------------------------
 
@@ -218,25 +225,24 @@ poursuivre.
 - Les informations de connexions de l'analyste sont erronées
 - L'analyste est hors ligne
 
-# Cas d'utilisation
 
-## Un coordonateur veut approuver les feuilles de temps
+## Un coordonnateur veut approuver les feuilles de temps
 
 ### Approuver ou non les feuilles de temps
 
-Le but de ce cas d'utilisation est de gèrer les feuilles de temps des analaystes. Il faut donc consulter les feuilles de temps en attente de traitement,et les approuver ou non dans le système pour que les heures soient comptabilisées.
+Le but de ce cas d'utilisation est de gérer les feuilles de temps des analystes. Il faut donc consulter les feuilles de temps en attente de traitement,et les approuver ou non dans le système pour que les heures soient comptabilisées.
 
 ### Acteur principal _(ou Acteurs principaux)_
 
-Coordonateur
+Coordonnateur
 
 ### Sommaire
 
-Le coordonateur veut approuver ou non les feuilles de temps en attente. Il se connecte donc au système et consulte les feuilles à traiter grâce à une vue spéciale. Par la suite,il approuve ou non les feuilles de temps avec un bouton,en indiquant un message si il n'approuve pas la feuille de temps de l'analyste.
+Le coordonnateur veut approuver ou non les feuilles de temps en attente. Il se connecte donc au système et consulte les feuilles à traiter grâce à une vue spéciale. Par la suite,il approuve ou non les feuilles de temps avec un bouton,en indiquant un message s’il n'approuve pas la feuille de temps de l'analyste.
 
-### Pré-conditions
+### Préalables
 
-Être un coordonateur actif dans le système et disposer des autorisation de compte appropriées.
+Être un coordonnateur actif dans le système et disposer des autorisations de compte appropriées.
 
 ### Déroulement nominal
 
@@ -245,7 +251,7 @@ Le coordonateur veut approuver ou non les feuilles de temps en attente. Il se co
 -------------------------------------   ---------------------------------------
 _Section Se connecter au système_
 
-1. Le coordonateur se connecte au système
+1. Le coordonnateur se connecte au système
 de feuille de temps avec ses
 identifiants.
 
@@ -253,11 +259,11 @@ identifiants.
 
 _Section Consultation des feuilles_
 
-3. Le coordonateur consulte ensuite
+3. Le coordonnateur consulte ensuite
 les feuilles de temps à approuver
 une à une,et choisi le bouton
-approprié. Si il choisi le bouton
-refuser,il doit indiquer une message
+approprié. S’il choisit le bouton
+refusé,il doit indiquer un message
 explicatif.
 
                                         4. Le système envoie un message de confirmation comme quoi la feuille de temps a bien été approuvée ou non.
@@ -275,19 +281,17 @@ _Section Demandes de vacances_
 les vacances apparaissent aussi dans
 la feuille de temps et peuvent donc
 figurer dans le message de refus de
-feuille de temps du coordonateur.
+feuille de temps du coordonnateur.
 
-                                        2. Retour à l'étape 4 du déroulemment nominal
+                                        2. Retour à l'étape 4 du déroulement nominal
 
 -------------------------------------------------------------------------------
 
 ### Exceptions
 
-- Les informations de connexions du coordonateur sont erronées
-- Le coordonateur est hors ligne
+- Les informations de connexions du coordonnateur sont erronées
+- Le coordonnateur est hors ligne
 
-
-# Cas d'utilisation
 
 ## Le comptable désire faire la comptabilité
 
@@ -301,9 +305,9 @@ Comptable
 
 ### Sommaire
 
-Le comptable veut effectuer la comptabilité. Il commence par se connecter au système avec ses autorisations speciales,puis il verrouille la feuille de temps et entre les données dans son système comptable.
+Le comptable veut effectuer la comptabilité. Il commence par se connecter au système avec ses autorisations spéciales,puis il verrouille la feuille de temps et entre les données dans son système comptable.
 
-### Pré-conditions
+### Préalables
 
 -Avoir un compte actif de comptabilité dans le système
 -Ne pas avoir de feuilles de temps en attente d'approbation pour la période comptable à travailler
@@ -323,14 +327,14 @@ identifiants.
 
 _Section Verouillage des feuilles_
 
-3. Le comptable verouille les feuilles
+3. Le comptable verrouille les feuilles
 de temps de l'employé duquel il veut
 comptabiliser les heures.
 
-                                        4. Le système envoie un message de confirmation comme quoi les feuilles de temps sont verouillées.
-_Section Consultation des heures_              
+                                        4. Le système envoie un message de confirmation comme quoi les feuilles de temps sont verrouillées.
+_Section Consultation des heures_
 
-5. Une fois le verouillage effectué,
+5. Une fois le verrouillage effectué,
 le comptable peut consulter les
 données des heures des employés
 pour les entrer dans son système
@@ -351,7 +355,7 @@ le comptable peut aussi sortir des
 rapports par employé ou par mandat
 pour ses propres besoins comptable
 ou pour des rapports à la demande
-des coordonateurs ou des clients.
+des coordonnateurs ou des clients.
 
                                         2. Sortie du rapport papier ou PDF pour consultation.
 
@@ -363,25 +367,8 @@ des coordonateurs ou des clients.
 - Le comptable est hors ligne
 
 
+# Modèle conceptuel
+\includegraphics[width=6in]{DiagrammeDeConcept.pdf}
 
-### Diagramme de séquence système
-
-```plantuml
-== Déroulement nominal ==
-
-Acteur -> Système: Premier message
-note right: Petite note
-
-Système --> Acteur: Réponse du système
-
-Acteur -> Système: Deuxième message
-Acteur <-- Système: Deuxième réponse du système
-
-== Déroulement alternatif 1 ==
-
-Acteur -> Système: Un autre message
-Système --> Acteur: Réponse du système
-
-Acteur -> Système: Un dernier message
-Acteur <-- Système: La dernière réponse
-```
+# Diagramme d'activité
+\includegraphics[width=6in]{DiagrammeActivite.pdf}
