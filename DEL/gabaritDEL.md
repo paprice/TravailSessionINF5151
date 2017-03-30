@@ -3,7 +3,7 @@
   Nom de l'organisation
   Projet ou initiative
 % Louis Martin -- UQAM
-% 28 février 2017
+% 27 mars 2017
 
 # Sigles et abréviations {-}
 
@@ -36,6 +36,7 @@ UML
 | **Date** | **Version** | **Description** | **Auteur** |
 | :---------- | :------: | :----------------------------------- | :------------------|
 | 2017-02-28 | 0.1 | Version initiale | Louis Martin |
+| 2017-03-27 | 0.2 | Corrections mineures | Louis Martin |
 
 # Résumé {-}
 
@@ -286,7 +287,7 @@ Inclusion automatique de la section équivalente du DEU.
 
 Ajout d'items particuliers si nécessaire.
 
-# Exigences de portabilité
+## Exigences de portabilité
 
 Inclusion automatique de la section équivalente du DEU.
 
