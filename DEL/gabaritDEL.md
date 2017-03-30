@@ -1,8 +1,11 @@
-% _Gabarit_
-  Document des exigences logicielles
-  Nom de l'organisation
-  Projet ou initiative
-% Louis Martin -- UQAM
+% Exigences DEL
+Les Mousquetaires
+Gestion des mandats et des feuilles de temps
+% Patrice Desrochers -- DESP02049609
+Gabriel Thibault -- THIG15099407
+Pascal Vautour -- VAUP05049304
+William Corbeil -- CORW26049505
+Nizar Semlali -- SEMN14019103
 % 27 mars 2017
 
 # Sigles et abréviations {-}
