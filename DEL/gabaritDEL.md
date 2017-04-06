@@ -19,9 +19,6 @@ DEF
 DEL
   ~ Document des exigences logicielles
 
-DEU
-  ~ Document des exigences utilisateurs
-
 IEEE
   ~ The Institute of Electrical and Electronics Engineers, Inc.
 
@@ -73,7 +70,7 @@ Le présent document est le gabarit d'un DEL. Il tente de respecter les normes :
 
     Guide for Information Technology --- Software life cycle processes --- Implementation considerations
 
-L'étape dans laquelle est défini le DEL est la première étape de la construction de la solution. Le DEU et le DAG servent d'intrant au DEL.
+L'étape dans laquelle est défini le DEL est la première étape de la construction de la solution. Le DEF et le DAG servent d'intrant au DEL.
 
 Le DEL représente la compréhension que les développeurs ont du logiciel à construire.
 
@@ -98,13 +95,13 @@ Décrire les lecteurs visés.
 
 ## Portée et contexte
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 ## Références
 
-Les références incluses ici font partie intégrante du DEL. En particulier les références au DEU et au DAG sont de mise. Ces références sont décrites dans la bibliographie.
+Les références incluses ici font partie intégrante du DEL. En particulier les références au DEF et au DAG sont de mise. Ces références sont décrites dans la bibliographie.
 
-Inclusion automatique de la section équivalente du DEU. Ajout d'items particuliers si nécessaire.
+Inclusion automatique de la section équivalente du DEF. Ajout d'items particuliers si nécessaire.
 
 ## Structure du document
 
@@ -122,11 +119,11 @@ Cette section du DEL décrit les facteurs généraux affectant le logiciel et se
 
 ## Contexte
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 ## Survol des fonctionnalités
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 ## Contraintes générales
 
@@ -148,7 +145,7 @@ a) les considérations de sécurité physique ou autre ;
 a) les particularités opérationnelles (ex. en milieu d'usine –-- poussières, vibrations, etc.) ;
 a) les particularités des sites d'exploitation.
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 Ajout d'items particuliers si nécessaire.
 
@@ -156,7 +153,7 @@ Ajout d'items particuliers si nécessaire.
 
 Si les exigences décrites dans les prochaines sections dépendent d'hypothèses, celles-ci sont décrites ici. Par exemple, si le logiciel dépend d'un nouveau système d'exploitation devant être disponible pour une date donnée.
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 Ajout d'items particuliers si nécessaire.
 
@@ -164,17 +161,17 @@ Ajout d'items particuliers si nécessaire.
 
 Cette sous-section identifie les exigences pouvant être prises en compte dans une version future du logiciel.
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 Ajout d'items particuliers si nécessaire.
 
 # Description des acteurs
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 # Exigences fonctionnelles
 
-Inclusion automatique de la section équivalente du DEU. Chaque cas est enrichi :
+Inclusion automatique de la section équivalente du DEF. Chaque cas est enrichi :
 
 - d'un diagramme de séquence système ;
 - des références à l'annexe contenant les contrats ;
@@ -200,7 +197,7 @@ Si une sous-section n'est pas utilisée, la mention « S/O » (sans objet) est i
 
 ## Interfaces « humain »
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 Ajout d'items particuliers si nécessaire.
 
@@ -208,19 +205,19 @@ Les références aux IUG relatifs aux cas d'utilisation sont incluses.
 
 ## Interfaces « matériel »
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 Ajout d'items particuliers si nécessaire.
 
 ## Interfaces « logiciel »
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 Ajout d'items particuliers si nécessaire.
 
 ## Interfaces « communication »
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 Ajout d'items particuliers si nécessaire.
 
@@ -243,7 +240,7 @@ a) aux volumes de traitement en période normale et en période de pointe.
 
 Chacune de ces exigences doit être exprimée en terme mesurable et vérifiable.
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 Ajout d'items particuliers si nécessaire.
 
@@ -262,67 +259,67 @@ a) aux exigences de conservation des données.
 
 Les modèles logiques de données sont insérés ici.
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 Ajout d'items particuliers si nécessaire.
 
 ## Exigences de fiabilité
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 Ajout d'items particuliers si nécessaire.
 
 ## Exigences de disponibilité
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 Ajout d'items particuliers si nécessaire.
 
 ## Exigences de sécurité
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 Ajout d'items particuliers si nécessaire.
 
 ## Exigences de maintenabilité
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 Ajout d'items particuliers si nécessaire.
 
 ## Exigences de portabilité
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 Ajout d'items particuliers si nécessaire.
 
 ## Exigences de qualification
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 Ajout d'items particuliers si nécessaire.
 
 ## Exigences d'acceptation pour la mise en exploitation
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 Ajout d'items particuliers si nécessaire.
 
 ## Exigences d'acceptation pour la maintenance
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 Ajout d'items particuliers si nécessaire.
 
 ## Exigences de documentation
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 Ajout d'items particuliers si nécessaire.
 
 ## Exigences de déploiement
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 Ajout d'items particuliers si nécessaire.
 
@@ -358,8 +355,8 @@ Cette annexe contient une matrice permettant de faire le lien entre les exigence
 
 Une annexe normative fait partie intégrante des requis.
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
 
 # Annexe informative --- Modèle conceptuel
 
-Inclusion automatique de la section équivalente du DEU.
+Inclusion automatique de la section équivalente du DEF.
