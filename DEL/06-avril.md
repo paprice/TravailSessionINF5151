@@ -75,3 +75,7 @@ Les normes que le logiciel doit remplir
 ### Maquette pour interface utilisateur (POINT 9)
 
 permet de revoir les cas d'utilisation
+
+## Revue technique
+
+dmeander à un collegue de regarder ce que j'ai fait
