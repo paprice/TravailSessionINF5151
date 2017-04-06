@@ -27,3 +27,33 @@ La validation est de s'assurer qu'on a fait la bonne chose au total.
 Assurance qualité est une reflexion sur nos processus pour savoir si on peut les améliorer.
 
 ## Gabarit DEL
+
+Développement en cascade, mais même si on est pas en cascade sa peut être bon de savoir a quoi s'attendre.
+
+### Description générale
+
+Récuperer ce qu'on a fait dans l'étude de faisabilité (DEU)
+
+### Contraintes générales
+
+Savoir a quoi s'attendre dans l'entreprise
+
+### Hypothèe et dépendances
+
+nouvelle équipe, nouveau langage, nouvelle application  = **mort**
+
+### Exigences d'interface
+
+Le comptable peut se contenter de rapport
+
+Mettre des interfaces
+
+#### Matériel
+interface USB, interface WIFI, Message System, historique des documents
+
+#### Logiciel
+sql version X
+
+#### Communication
+
+Méthode de communication : http1.1 http2 tcp/ip https
