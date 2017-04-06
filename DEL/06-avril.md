@@ -57,3 +57,21 @@ sql version X
 #### Communication
 
 Méthode de communication : http1.1 http2 tcp/ip https
+
+### Persistance
+
+garder les logs
+Données opérationnelle : garder les factures pendant 10 ou 12 ans par exemple.
+
+Journalisation = log in log out ou erreur.
+Applicative : Quelle personne a consulté quel champs de quel dossier a quel moment
+
+### Qualification
+
+Les normes que le logiciel doit remplir
+
+### **PAS A FAIRE LES CONTRATS**
+
+### Maquette pour interface utilisateur (POINT 9)
+
+permet de revoir les cas d'utilisation
