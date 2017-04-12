@@ -95,7 +95,9 @@ Décrire les lecteurs visés.
 
 ## Portée et contexte
 
-Inclusion automatique de la section équivalente du DEF.
+L'étude porte seulement sur le système de feuilles de temps. Elle ne porte pas sur les autres éléments de l'entreprise  ou de la gestion du personnel tels que la gestion de la paie.
+
+L'objectif de cette étude sera de sélectionner ou de spécifier un logiciel de gestion des feuilles de temps qui répondra le mieux possible aux besoins de l'entreprise.
 
 ## Références
 
