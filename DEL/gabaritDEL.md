@@ -156,9 +156,11 @@ Ajout d'items particuliers si nécessaire.
 
 # Description des acteurs
 
-Inclusion automatique de la section équivalente du DEF.
+Analyste : L'analyste est l'employé normal de l'entreprise, c'est celui qui va devoir entrer son temps de travail dans les feuilles de temps en fonction du mandat sur lequel il a travaillé et le nombre d'heure qu'il a travaillé dessus.
+
 
 # Exigences fonctionnelles
+
 
 ## Un analyste veut soumettre une feuille de temps pour une période donnée
 
