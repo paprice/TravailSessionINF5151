@@ -151,13 +151,12 @@ Inclusion automatique de la section équivalente du DEF.
 
 Ajout d'items particuliers si nécessaire.
 
+
+
+
 ## Hypothèses et dépendances
 
-Si les exigences décrites dans les prochaines sections dépendent d'hypothèses, celles-ci sont décrites ici. Par exemple, si le logiciel dépend d'un nouveau système d'exploitation devant être disponible pour une date donnée.
-
-Inclusion automatique de la section équivalente du DEF.
-
-Ajout d'items particuliers si nécessaire.
+S/O
 
 ## Partition des exigences
 
