@@ -234,20 +234,14 @@ Si une sous-section n'est pas utilisée, la mention «S/O» (sans objet) est ins
 
 ## Exigences de performance
 
-Cette sous-section décrit les exigences portant sur la volumétrie statique et dynamique du logiciel.
+Nous choisissons un serveur de hosting qui peut supporter un maximum de 100 utilisateurs pour l'instant, étant donné qu'il y a seulement 5 employés qui utilisent le système présentement .
 
-Elle peut inclure des éléments relatifs :
+L'avantage d'un tel système est que l'ont peut rehausser le service pour augmenter le nombre de connexions simultanées, dans l'éventualité où la compagnie prendrait de l'expansion .
 
-a) au nombre de terminaux ou de postes client à gérer ;
-a) au nombre de terminaux ou de postes client à gérer concurremment ;
-a) au volume et au type de données à traiter ;
-a) aux volumes de traitement en période normale et en période de pointe.
+On s'attend à un temps de réponse de moins d'une seconde .
 
-Chacune de ces exigences doit être exprimée en terme mesurable et vérifiable.
+En période de pointe, les 5 employés de l'entreprise utiliseraient le service au même temps .
 
-Inclusion automatique de la section équivalente du DEF.
-
-Ajout d'items particuliers si nécessaire.
 
 ## Exigences de persistance
 
