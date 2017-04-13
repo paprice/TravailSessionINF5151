@@ -113,7 +113,7 @@ Pour ces raisons, et dans le but de moderniser le plus possible le système de g
 
 Inclusion automatique de la section équivalente du DEF.
 
-Le logiciel va permettre à l'entreprise d'amasser les feuilles de temps des analystes à un seul endroit pour faciliter la gestion de ces feuilles. Le coordonnateur va regarder ces feuilles de temps et va pouvoir les valider ou les refuser s'il voit une erreur. Une fois accepté, la feuille de temps est vérouillé et ne peux plus être changé. Le comptable peut prendre les feuilles de temps et les importés dans SimpleComptable pour permettre de créer les factures pour les clients.
+Le logiciel va permettre à l'entreprise d'amasser les feuilles de temps des analystes à un seul endroit pour faciliter la gestion de ces feuilles. Le coordonnateur va regarder ces feuilles de temps et va pouvoir les valider ou les refuser s'il voit une erreur. Une fois acceptée, la feuille de temps est verrouillée et ne peux plus être changée. Le comptable peut prendre les feuilles de temps et les importer dans SimpleComptable pour permettre de créer les factures pour les clients.
 
 ## Contraintes générales
 
@@ -161,9 +161,9 @@ Analyste : L'analyste est l'employé normal de l'entreprise, c'est celui qui va 
 
 Coordonnateur : Le coordonnateur est un employé qui va regarder les feuilles de temps entrer par les analystes pour voir s'il y a des erreurs. S'il y en a, il refuse la feuille de temps, sinon il l'accepte.
 
-Administrateur : L'administrateur n'est pas un poste à temps plein, c'est-à-dire que que le coordonnateur (de préférence) va pouvoir gérer les deux roles. L'administrateur va être en charge d'entrer les nouveaux mandats dans le système et d'ajouter les nouveaux analystes au système lors de l'embauche d'un nouvel analyste.
+Administrateur : L'administrateur n'est pas un poste à temps plein, c'est-à-dire que le coordonnateur (de préférence) va pouvoir gérer les deux rôles. L'administrateur va être en charge d'entrer les nouveaux mandats dans le système et d'ajouter les nouveaux analystes au système lors de l'embauche d'un nouvel analyste.
 
-Comptable : Le comptable est un employé externe que l'entreprise embauche pour creer les factures au clients avec l'aide de SimpleComptable.
+Comptable : Le comptable est un employé externe que l'entreprise embauche pour créer les factures au clients avec l'aide de SimpleComptable.
 
 # Exigences fonctionnelles
 
@@ -264,7 +264,7 @@ Si une sous-section n'est pas utilisée, la mention «S/O» (sans objet) est ins
 
 ## Exigences de performance
 
-Nous choisissons un serveur de hosting qui peut supporter un maximum de 100 utilisateurs pour l'instant, étant donné qu'il y a seulement 5 employés qui utilisent le système présentement .
+Nous choisissons un serveur de "hosting" qui peut supporter un maximum de 100 utilisateurs pour l'instant, étant donné qu'il y a seulement 5 employés qui utilisent le système présentement .
 
 L'avantage d'un tel système est que l'ont peut rehausser le service pour augmenter le nombre de connexions simultanées, dans l'éventualité où la compagnie prendrait de l'expansion .
 
