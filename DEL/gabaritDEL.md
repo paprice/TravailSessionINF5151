@@ -160,8 +160,6 @@ Ajout d'items particuliers si nécessaire.
 
 # Description des acteurs
 
-Inclusion automatique de la section équivalente du DEF.
-
 Analyste : L'analyste est l'employé normal de l'entreprise, c'est celui qui va devoir entrer son temps de travail dans les feuilles de temps en fonction du mandat sur lequel il a travaillé et le nombre d'heure qu'il a travaillé dessus.
 
 Coordonnateur : Le coordonnateur est un employé qui va regarder les feuilles de temps entrer par les analystes pour voir s'il y a des erreurs. S'il y en a, il refuse la feuille de temps, sinon il l'accepte.
