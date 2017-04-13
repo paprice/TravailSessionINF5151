@@ -6,7 +6,7 @@ Gabriel Thibault -- THIG15099407
 Pascal Vautour -- VAUP05049304
 William Corbeil -- CORW26049505
 Nizar Semlali -- SEMN14019103
-% 27 mars 2017
+% 27 avril 2017
 
 # Sigles et abréviations {-}
 
@@ -40,7 +40,7 @@ UML
 
 # Résumé {-}
 
-Le présent document est le gabarit d'un DEL. Il tente de respecter les normes :
+Le présent document est un document d'exigences logiciel. Il tente de respecter les normes :
 
 - **ESA BSSC(96)2**
 
@@ -70,20 +70,6 @@ Le présent document est le gabarit d'un DEL. Il tente de respecter les normes :
 
     Guide for Information Technology --- Software life cycle processes --- Implementation considerations
 
-L'étape dans laquelle est défini le DEL est la première étape de la construction de la solution. Le DEF et le DAG servent d'intrant au DEL.
-
-Le DEL représente la compréhension que les développeurs ont du logiciel à construire.
-
-Un DEL doit être :
-
-a) correct ;
-a) non ambigu ;
-a) complet ;
-a) cohérent ;
-a) échelonné selon le degré d'importance ou de priorité ;
-a) vérifiable ;
-a) modifiable ;
-a) traçable.
 
 # Introduction
 
@@ -97,7 +83,6 @@ Décrire les lecteurs visés.
 
 L'étude porte seulement sur le système de feuilles de temps. Elle ne porte pas sur les autres éléments de l'entreprise  ou de la gestion du personnel tels que la gestion de la paie.
 
-L'objectif de cette étude sera de sélectionner ou de spécifier un logiciel de gestion des feuilles de temps qui répondra le mieux possible aux besoins de l'entreprise.
 
 ## Références
 
@@ -117,11 +102,12 @@ Si certains points restent en suspens à cause de différentes contraintes dans 
 
 # Description générale
 
-Cette section du DEL décrit les facteurs généraux affectant le logiciel et ses exigences. Cette section ne contient pas d'exigences spécificiques, ces dernières sont décrites dans les sections suivantes. Le but de la présente section est de décrire le contexte général des exigences pour faciliter leur compréhension.
+FDTpro offre un service en ligne qui fonctionne par l'entremise d'un navigateur web. Il offre aussi une gestion des droits d'accès flexible et un processus d'approbation. Le logiciel offre un générateur de rapport qui laisse à l'utilisateur le choix de filtrer ce qu'il veut. Aussi, il permet l'intégration avec d'autres logiciels, dont SimpleComptable, et il permet d'envoyer des courriels de rappel pour l'heure de tombée des paies, donc il envoie un courriel seulement aux personnes n'ayant pas soumis les feuilles de temps.
 
 ## Contexte
 
-Inclusion automatique de la section équivalente du DEF.
+Le contexte dans lequel est implémenté le nouveau système est celui d'une nouvelle entreprise d'analystes. Puisqu'en ce moment la gestion du temps et des mandats se fait de façon informelle, on cherche ici à optimiser ces solutions et à les rendre plus formelles et informatisées. L'entreprise étant embryonnaire, on peut donc s'attendre à une augmentation du nombre de mandats et une forte croissance. C'est dans ce contexte qu'au lancement officiel de l'entreprise, il faut un système plus robuste et plus formel de gestion du temps et des mandats. Il faut aussi que le nouveau système soit plus pratique, fiable et remplisse mieux les objectifs énoncés plus haut.
+Pour ces raisons, et dans le but de moderniser le plus possible le système de gestion du temps, nous avons donné priorité aux solutions pouvant être déployées dans le nuage. Cela permettra une fiabilité accrue, une plateforme plus accessible entre autres sur les appareils mobiles, ainsi que de faibles coûts de maintenance.
 
 ## Survol des fonctionnalités
 
