@@ -111,6 +111,8 @@ Pour ces raisons, et dans le but de moderniser le plus possible le système de g
 
 ## Survol des fonctionnalités
 
+Inclusion automatique de la section équivalente du DEF.
+
 Le logiciel va permettre à l'entreprise d'amasser les feuilles de temps des analystes à un seul endroit pour faciliter la gestion de ces feuilles. Le coordonnateur va regarder ces feuilles de temps et va pouvoir les valider ou les refuser s'il voit une erreur. Une fois accepté, la feuille de temps est vérouillé et ne peux plus être changé. Le comptable peut prendre les feuilles de temps et les importés dans SimpleComptable pour permettre de créer les factures pour les clients.
 
 ## Contraintes générales
@@ -119,7 +121,7 @@ Cette sous-section décrit les éléments limitant les choix de conception. Elle
 
 a) les réglementations applicables ;
 a) les normes ergonomiques ;
-a) les normes d'infrastructure ;
+a) les normesd'infrastructure ;
 a) les limitations du matériel ;
 a) les interfaces avec les autres applications ;
 a) le parallélisme des opérations ;
@@ -127,6 +129,7 @@ a) les fonctions d'audit ;
 a) les fonction de contrôle ;
 a) les exigences de langage de haut niveau ;
 a) les protocoles d'échange de signaux (ex. XON/XOFF, ACK-NACK) ;
+a) les exigences de fiabilité ;
 a) la criticité de l'application ;
 a) les considérations de sécurité physique ou autre ;
 a) les particularités opérationnelles (ex. en milieu d'usine –-- poussières, vibrations, etc.) ;
@@ -137,13 +140,6 @@ Inclusion automatique de la section équivalente du DEF.
 Ajout d'items particuliers si nécessaire.
 
 
-a) S/O
-
-a) S/O
-
-b) Location de serveur
-
-a)
 
 
 ## Hypothèses et dépendances
@@ -162,15 +158,45 @@ Ajout d'items particuliers si nécessaire.
 
 Analyste : L'analyste est l'employé normal de l'entreprise, c'est celui qui va devoir entrer son temps de travail dans les feuilles de temps en fonction du mandat sur lequel il a travaillé et le nombre d'heure qu'il a travaillé dessus.
 
-Coordonnateur : Le coordonnateur est un employé qui va regarder les feuilles de temps entrer par les analystes pour voir s'il y a des erreurs. S'il y en a, il refuse la feuille de temps, sinon il l'accepte.
-
-Administrateur : L'administrateur n'est pas un poste à temps plein, c'est-à-dire que que le coordonnateur (de préférence) va pouvoir gérer les deux roles. L'administrateur va être en charge d'entrer les nouveaux mandats dans le système et d'ajouter les nouveaux analystes au système lors de l'embauche d'un nouvel analyste.
-
-Comptable : Le comptable est un employé externe que l'entreprise embauche pour creer les factures au clients avec l'aide de SimpleComptable.
 
 # Exigences fonctionnelles
 
+
 ## Un analyste veut soumettre une feuille de temps pour une période donnée
+
+1. Il enregistre sa feuille de temps au fur et à mesure qu'il travaille.
+2. Il la soumet une fois complétée.
+3. La feuille de temps est approuvée par un coordonnateur et, par le fait même, ne peut plus être modifiée à moins d'être désapprouvée.
+
+* Un coordonnateur vérifie l'avancement d'un projet à travers les notes laissées par un analyste :
+
+1. Il utilise les droits associés à son rôle pour voir les feuilles de temps des employés en lien avec le projet.
+
+* Un comptable souhaite utiliser les informations des feuilles de temps pour faire les livres de l'entreprise :
+
+1. Il verrouille les feuilles de temps approuvées par les coordonnateurs.
+2. Il les importe dans SimpleComptable pour faire la comptabilité.
+
+* Un rapport est généré et envoyé à un client :
+
+1. Les données à inclure au rapport sont sélectionnées à l'aide d'une liste de critères de filtrage. Ces options de filtrage incluent des options telles que la période de temps, les projets et les tâches.
+2. Un type de présentation est sélectionné pour le rapport.
+3. Au besoin, on active l'automatisation des rapports pour que ceux-ci soient envoyés au client périodiquement suivant les critères sélectionnés.
+
+* Un analyste souhaite corriger une erreur dans une feuille de temps soumise et verrouillée par le comptable.
+
+1. Il contacte un coordonnateur pour que la feuille soit débloquée.
+2. Le coordonnateur contacte le comptable pour que la feuille soit déverrouillée.
+3. Le comptable déverrouille la feuille de temps.
+4. Le coordonnateur utilise ses droits pour désapprouver la feuille de temps.
+5. L'analyste entre une nouvelle entrée pour corriger l'erreur sans effacer celle-ci de la feuille de temps.
+6. L'employé soumet sa feuille de temps pour une nouvelle approbation par le coordonnateur.
+
+* Un analyste souhaite entrer des heures, mais n'a pas accès à internet.
+
+1. Il écrit sur papier les changements à apporter.
+2. Une fois connecté à l'internet, il entre les informations notées dans sa feuille de temps.
+
 
 
 
@@ -268,7 +294,9 @@ Ajout d'items particuliers si nécessaire.
 
 ## Exigences de fiabilité
 
-Afin que le système soit le plus fiable possible, nous avons prévu de louer des serveurs dans un centre de serveurs reconnu pour que la gestion de la sécurité et de l'intégrité du matériel soit laissée à des experts. De plus, nous organiseront un backup journalier des informations afin de protéger les données en cas de problème et le système fera automatiquement des validations de base sur les entrées par les utilisateurs. Aussi, toutes les entrées seront vérifiées par un autre utilisateur humain pour éviter toute entrée invalide qui aurait pu être permise par la batterie de validations automatique.
+Inclusion automatique de la section équivalente du DEF.
+
+Ajout d'items particuliers si nécessaire.
 
 ## Exigences de disponibilité
 
