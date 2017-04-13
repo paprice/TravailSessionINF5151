@@ -75,7 +75,7 @@ Le présent document est un document d'exigences logiciel. Il tente de respecter
 
 ## But
 
-Ce document a pour but de soutenir,prevoir et documenter les besoins et les exigences du futur système de gestion de temps et de mandats de la firme Les Mousquetaires. Il contient les exigences telles qu'énoncéees par les mousquetaires et comprises par la firme de dévelopemment. Il vise donc a offrir une base claire et bien définie pour démarrer le travail de developemment et à assurer une uniformité entre la compréhension des deux cotés de la plateforme.
+Ce document a pour but de soutenir, prévoir et documenter les besoins et les exigences du futur système de gestion de temps et de mandats de la firme Les Mousquetaires. Il contient les exigences telles qu'énoncées par les mousquetaires et comprises par la firme de développement. Il vise donc a offrir une base claire et bien définie pour démarrer le travail de développement et à assurer une uniformité entre la compréhension des deux cotés de la plateforme.
 
 Décrire les lecteurs visés.
 
