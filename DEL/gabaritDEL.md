@@ -168,22 +168,22 @@ Analyste : L'analyste est l'employé normal de l'entreprise, c'est celui qui va 
 2. Il la soumet une fois complétée.
 3. La feuille de temps est approuvée par un coordonnateur et, par le fait même, ne peut plus être modifiée à moins d'être désapprouvée.
 
-* Un coordonnateur vérifie l'avancement d'un projet à travers les notes laissées par un analyste :
+## Un coordonnateur vérifie l'avancement d'un projet à travers les notes laissées par un analyste :
 
 1. Il utilise les droits associés à son rôle pour voir les feuilles de temps des employés en lien avec le projet.
 
-* Un comptable souhaite utiliser les informations des feuilles de temps pour faire les livres de l'entreprise :
+## Un comptable souhaite utiliser les informations des feuilles de temps pour faire les livres de l'entreprise :
 
 1. Il verrouille les feuilles de temps approuvées par les coordonnateurs.
 2. Il les importe dans SimpleComptable pour faire la comptabilité.
 
-* Un rapport est généré et envoyé à un client :
+## Un rapport est généré et envoyé à un client :
 
 1. Les données à inclure au rapport sont sélectionnées à l'aide d'une liste de critères de filtrage. Ces options de filtrage incluent des options telles que la période de temps, les projets et les tâches.
 2. Un type de présentation est sélectionné pour le rapport.
 3. Au besoin, on active l'automatisation des rapports pour que ceux-ci soient envoyés au client périodiquement suivant les critères sélectionnés.
 
-* Un analyste souhaite corriger une erreur dans une feuille de temps soumise et verrouillée par le comptable.
+## Un analyste souhaite corriger une erreur dans une feuille de temps soumise et verrouillée par le comptable.
 
 1. Il contacte un coordonnateur pour que la feuille soit débloquée.
 2. Le coordonnateur contacte le comptable pour que la feuille soit déverrouillée.
@@ -192,7 +192,7 @@ Analyste : L'analyste est l'employé normal de l'entreprise, c'est celui qui va 
 5. L'analyste entre une nouvelle entrée pour corriger l'erreur sans effacer celle-ci de la feuille de temps.
 6. L'employé soumet sa feuille de temps pour une nouvelle approbation par le coordonnateur.
 
-* Un analyste souhaite entrer des heures, mais n'a pas accès à internet.
+# Un analyste souhaite entrer des heures, mais n'a pas accès à internet.
 
 1. Il écrit sur papier les changements à apporter.
 2. Une fois connecté à l'internet, il entre les informations notées dans sa feuille de temps.
