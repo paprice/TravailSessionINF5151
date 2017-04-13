@@ -296,7 +296,7 @@ Ajout d'items particuliers si nécessaire.
 
 Inclusion automatique de la section équivalente du DEF.
 
-Ajout d'items particuliers si nécessaire.
+Pour une plus grande fiabilité, le système sera hébergé à l'externe dans une compagnie réputée qui à déjà fait ses preuves en tant qu'hébergeur de fiable. L'hébergeur devra offrir un bon soutien client en cas de problèmes.
 
 ## Exigences de disponibilité
 
