@@ -314,9 +314,7 @@ Ajout d'items particuliers si nécessaire.
 
 ## Exigences de portabilité
 
-Inclusion automatique de la section équivalente du DEF.
-
-Ajout d'items particuliers si nécessaire.
+Le programme fonctionnera avec un fureteur web. Il sera donc portable à toute machine qui peut naviguer l'internet.
 
 ## Exigences de qualification
 
