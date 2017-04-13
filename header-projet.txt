@@ -6,3 +6,5 @@
 \SetWatermarkText{version projet}
 \SetWatermarkLightness{0.92}
 \SetWatermarkScale{0.8}
+
+\renewcaptionname{french}{\listfigurename}{Liste des figures}
