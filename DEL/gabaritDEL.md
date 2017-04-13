@@ -75,13 +75,13 @@ Le présent document est un document d'exigences logiciel. Il tente de respecter
 
 ## But
 
-Décrire le but du DEL.
+Ce document a pour but de soutenir,prevoir et documenter les besoins et les exigences du futur système de gestion de temps et de mandats de la firme Les Mousquetaires. Il contient les exigences telles qu'énoncéees par les mousquetaires et comprises par la firme de dévelopemment. Il vise donc a offrir une base claire et bien définie pour démarrer le travail de developemment et à assurer une uniformité entre la compréhension des deux cotés de la plateforme.
 
 Décrire les lecteurs visés.
 
 ## Portée et contexte
 
-L'étude porte seulement sur le système de feuilles de temps. Elle ne porte pas sur les autres éléments de l'entreprise  ou de la gestion du personnel tels que la gestion de la paie.
+L'étude porte seulement sur le système de feuilles de temps. Elle ne porte pas sur les autres éléments de l'entreprise  ou de la gestion du personnel tels que la gestion de la paie. Dans le contexte ou la firme d'analyse Les mousquetaires décident d'avoir recours à un système de gestion de temps deévlopper sur mesure,ce documenta comme portée la définition claires des besoins et des exigence de la firme pour le projet.
 
 
 ## Références
@@ -159,6 +159,44 @@ Ajout d'items particuliers si nécessaire.
 Inclusion automatique de la section équivalente du DEF.
 
 # Exigences fonctionnelles
+
+## Un analyste veut soumettre une feuille de temps pour une période donnée
+
+1. Il enregistre sa feuille de temps au fur et à mesure qu'il travaille.
+2. Il la soumet une fois complétée.
+3. La feuille de temps est approuvée par un coordonnateur et, par le fait même, ne peut plus être modifiée à moins d'être désapprouvée.
+
+* Un coordonnateur vérifie l'avancement d'un projet à travers les notes laissées par un analyste :
+
+1. Il utilise les droits associés à son rôle pour voir les feuilles de temps des employés en lien avec le projet.
+
+* Un comptable souhaite utiliser les informations des feuilles de temps pour faire les livres de l'entreprise :
+
+1. Il verrouille les feuilles de temps approuvées par les coordonnateurs.
+2. Il les importe dans SimpleComptable pour faire la comptabilité.
+
+* Un rapport est généré et envoyé à un client :
+
+1. Les données à inclure au rapport sont sélectionnées à l'aide d'une liste de critères de filtrage. Ces options de filtrage incluent des options telles que la période de temps, les projets et les tâches.
+2. Un type de présentation est sélectionné pour le rapport.
+3. Au besoin, on active l'automatisation des rapports pour que ceux-ci soient envoyés au client périodiquement suivant les critères sélectionnés.
+
+* Un analyste souhaite corriger une erreur dans une feuille de temps soumise et verrouillée par le comptable.
+
+1. Il contacte un coordonnateur pour que la feuille soit débloquée.
+2. Le coordonnateur contacte le comptable pour que la feuille soit déverrouillée.
+3. Le comptable déverrouille la feuille de temps.
+4. Le coordonnateur utilise ses droits pour désapprouver la feuille de temps.
+5. L'analyste entre une nouvelle entrée pour corriger l'erreur sans effacer celle-ci de la feuille de temps.
+6. L'employé soumet sa feuille de temps pour une nouvelle approbation par le coordonnateur.
+
+* Un analyste souhaite entrer des heures, mais n'a pas accès à internet.
+
+1. Il écrit sur papier les changements à apporter.
+2. Une fois connecté à l'internet, il entre les informations notées dans sa feuille de temps.
+
+
+
 
 Inclusion automatique de la section équivalente du DEF. Chaque cas est enrichi :
 
@@ -254,7 +292,9 @@ Ajout d'items particuliers si nécessaire.
 
 ## Exigences de fiabilité
 
-Afin que le système soit le plus fiable possible, nous avons prévu de louer des serveurs dans un centre de serveurs reconnu pour que la gestion de la sécurité et de l'intégrité du matériel soit laissée à des experts. De plus, nous organiseront un backup journalier des informations afin de protéger les données en cas de problème et le système fera automatiquement des validations de base sur les entrées par les utilisateurs. Aussi, toutes les entrées seront vérifiées par un autre utilisateur humain pour éviter toute entrée invalide qui aurait pu être permise par la batterie de validations automatique.
+Inclusion automatique de la section équivalente du DEF.
+
+Ajout d'items particuliers si nécessaire.
 
 ## Exigences de disponibilité
 
