@@ -111,8 +111,6 @@ Pour ces raisons, et dans le but de moderniser le plus possible le système de g
 
 ## Survol des fonctionnalités
 
-Inclusion automatique de la section équivalente du DEF.
-
 Le logiciel va permettre à l'entreprise d'amasser les feuilles de temps des analystes à un seul endroit pour faciliter la gestion de ces feuilles. Le coordonnateur va regarder ces feuilles de temps et va pouvoir les valider ou les refuser s'il voit une erreur. Une fois accepté, la feuille de temps est vérouillé et ne peux plus être changé. Le comptable peut prendre les feuilles de temps et les importés dans SimpleComptable pour permettre de créer les factures pour les clients.
 
 ## Contraintes générales
@@ -121,7 +119,7 @@ Cette sous-section décrit les éléments limitant les choix de conception. Elle
 
 a) les réglementations applicables ;
 a) les normes ergonomiques ;
-a) les normesd'infrastructure ;
+a) les normes d'infrastructure ;
 a) les limitations du matériel ;
 a) les interfaces avec les autres applications ;
 a) le parallélisme des opérations ;
@@ -129,7 +127,6 @@ a) les fonctions d'audit ;
 a) les fonction de contrôle ;
 a) les exigences de langage de haut niveau ;
 a) les protocoles d'échange de signaux (ex. XON/XOFF, ACK-NACK) ;
-a) les exigences de fiabilité ;
 a) la criticité de l'application ;
 a) les considérations de sécurité physique ou autre ;
 a) les particularités opérationnelles (ex. en milieu d'usine –-- poussières, vibrations, etc.) ;
@@ -140,6 +137,13 @@ Inclusion automatique de la section équivalente du DEF.
 Ajout d'items particuliers si nécessaire.
 
 
+a) S/O
+
+a) S/O
+
+b) Location de serveur
+
+a)
 
 
 ## Hypothèses et dépendances
@@ -157,6 +161,14 @@ Ajout d'items particuliers si nécessaire.
 # Description des acteurs
 
 Inclusion automatique de la section équivalente du DEF.
+
+Analyste : L'analyste est l'employé normal de l'entreprise, c'est celui qui va devoir entrer son temps de travail dans les feuilles de temps en fonction du mandat sur lequel il a travaillé et le nombre d'heure qu'il a travaillé dessus.
+
+Coordonnateur : Le coordonnateur est un employé qui va regarder les feuilles de temps entrer par les analystes pour voir s'il y a des erreurs. S'il y en a, il refuse la feuille de temps, sinon il l'accepte.
+
+Administrateur : L'administrateur n'est pas un poste à temps plein, c'est-à-dire que que le coordonnateur (de préférence) va pouvoir gérer les deux roles. L'administrateur va être en charge d'entrer les nouveaux mandats dans le système et d'ajouter les nouveaux analystes au système lors de l'embauche d'un nouvel analyste.
+
+Comptable : Le comptable est un employé externe que l'entreprise embauche pour creer les factures au clients avec l'aide de SimpleComptable.
 
 # Exigences fonctionnelles
 
