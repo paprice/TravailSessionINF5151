@@ -54,7 +54,12 @@ S/O
 
 ## Méthodologie utilisée
 
+<<<<<<< HEAD
+Le document sera finalisé avant le 9 juillet. Il ne lui est pas assigné de budget précis tant que le travail est fait. 
+_Saisir le texte pertinent ou inscrire_ S/O
+=======
 Étant donné le court délai dans lequel l'étude a dû être conduite et le contexte dans lequel elle a été produite, nous avons considéré suffisant de baser notre recherche sur les informations disponibles sur internet. Ensuite, l'entreprise étant très jeune et ses requêtes communes, nous avons favorisé la recherche d'une solution pré-faite sur le marché étant donné que celles-ci sont généralement moins coûteuses tant au niveau financier que de l'entretien.
+>>>>>>> 67bf0cbf0799d82d3ce0c01a0f2c2f7431f26b0c
 
 ## Structure du document
 

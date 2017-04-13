@@ -266,9 +266,7 @@ Ajout d'items particuliers si nécessaire.
 
 ## Exigences de fiabilité
 
-Inclusion automatique de la section équivalente du DEF.
-
-Ajout d'items particuliers si nécessaire.
+Afin que le système soit le plus fiable possible, nous avons prévu de louer des serveurs dans un centre de serveurs reconnu pour que la gestion de la sécurité et de l'intégrité du matériel soit laissée à des experts. De plus, nous organiseront un backup journalier des informations afin de protéger les données en cas de problème et le système fera automatiquement des validations de base sur les entrées par les utilisateurs. Aussi, toutes les entrées seront vérifiées par un autre utilisateur humain pour éviter toute entrée invalide qui aurait pu être permise par la batterie de validations automatique.
 
 ## Exigences de disponibilité
 
