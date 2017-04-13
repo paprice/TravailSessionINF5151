@@ -258,15 +258,13 @@ Afin que le système soit le plus fiable possible, nous avons prévu de louer de
 
 ## Exigences de disponibilité
 
-Inclusion automatique de la section équivalente du DEF.
-
-Ajout d'items particuliers si nécessaire.
+Le système devra être fonctionnel et accessible tout le temps à l'exception de 2h à 4h pour le backup des données. Il devra être disponible de partout par une connexion internet durant ses heures d'opération.
 
 ## Exigences de sécurité
 
 Inclusion automatique de la section équivalente du DEF.
 
-Ajout d'items particuliers si nécessaire.
+Chaque utilisateur aura un compte avec un nom d'utilisateur et un mot de passe qui lui permettra d'accéder au système. Ce compte lui donnera accès seulement aux fonctionnalités utiles à l'accomplissement de ses tâches. La sécurité du matériel sera laissée entre les mains 
 
 ## Exigences de maintenabilité
 
