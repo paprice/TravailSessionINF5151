@@ -159,6 +159,12 @@ Ajout d'items particuliers si nécessaire.
 Analyste : L'analyste est l'employé normal de l'entreprise, c'est celui qui va devoir entrer son temps de travail dans les feuilles de temps en fonction du mandat sur lequel il a travaillé et le nombre d'heure qu'il a travaillé dessus.
 
 
+Coordonnateur : Le coordonnateur est un employé qui va regarder les feuilles de temps entrer par les analystes pour voir s'il y a des erreurs. S'il y en a, il refuse la feuille de temps, sinon il l'accepte.
+
+Administrateur : L'administrateur n'est pas un poste à temps plein, c'est-à-dire que que le coordonnateur (de préférence) va pouvoir gérer les deux roles. L'administrateur va être en charge d'entrer les nouveaux mandats dans le système et d'ajouter les nouveaux analystes au système lors de l'embauche d'un nouvel analyste.
+
+Comptable : Le comptable est un employé externe que l'entreprise embauche pour creer les factures au clients avec l'aide de SimpleComptable.
+
 # Exigences fonctionnelles
 
 
