@@ -113,6 +113,8 @@ Pour ces raisons, et dans le but de moderniser le plus possible le système de g
 
 Inclusion automatique de la section équivalente du DEF.
 
+Le logiciel va permettre à l'entreprise d'amasser les feuilles de temps des analystes à un seul endroit pour faciliter la gestion de ces feuilles. Le coordonnateur va regarder ces feuilles de temps et va pouvoir les valider ou les refuser s'il voit une erreur. Une fois accepté, la feuille de temps est vérouillé et ne peux plus être changé. Le comptable peut prendre les feuilles de temps et les importés dans SimpleComptable pour permettre de créer les factures pour les clients.
+
 ## Contraintes générales
 
 Cette sous-section décrit les éléments limitant les choix de conception. Elle ne décrit pas d'exigences spécifiques mais décrit la raison d'être de certaines contraintes en pointant vers les standards et normes devant être respectés. Sont inclus :
