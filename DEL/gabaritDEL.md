@@ -302,9 +302,7 @@ Le système devra être fonctionnel et accessible tout le temps à l'exception d
 
 ## Exigences de sécurité
 
-Inclusion automatique de la section équivalente du DEF.
-
-Chaque utilisateur aura un compte avec un nom d'utilisateur et un mot de passe qui lui permettra d'accéder au système. Ce compte lui donnera accès seulement aux fonctionnalités utiles à l'accomplissement de ses tâches. La sécurité du matériel sera laissée entre les mains 
+Chaque utilisateur aura un compte avec un nom d'utilisateur et un mot de passe qui lui permettra d'accéder au système. Ce compte lui donnera accès seulement aux fonctionnalités utiles à l'accomplissement de ses tâches. La sécurité du matériel sera laissée entre les mains de la compagnie externe qui sera choisie pour l'hébergement des serveurs.
 
 ## Exigences de maintenabilité
 
