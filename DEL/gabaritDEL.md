@@ -75,13 +75,13 @@ Le présent document est un document d'exigences logiciel. Il tente de respecter
 
 ## But
 
-Décrire le but du DEL.
+Ce document a pour but de soutenir,prevoir et documenter les besoins et les exigences du futur système de gestion de temps et de mandats de la firme Les Mousquetaires. Il contient les exigences telles qu'énoncéees par les mousquetaires et comprises par la firme de dévelopemment. Il vise donc a offrir une base claire et bien définie pour démarrer le travail de developemment et à assurer une uniformité entre la compréhension des deux cotés de la plateforme.
 
 Décrire les lecteurs visés.
 
 ## Portée et contexte
 
-L'étude porte seulement sur le système de feuilles de temps. Elle ne porte pas sur les autres éléments de l'entreprise  ou de la gestion du personnel tels que la gestion de la paie.
+L'étude porte seulement sur le système de feuilles de temps. Elle ne porte pas sur les autres éléments de l'entreprise  ou de la gestion du personnel tels que la gestion de la paie. Dans le contexte ou la firme d'analyse Les mousquetaires décident d'avoir recours à un système de gestion de temps deévlopper sur mesure,ce documenta comme portée la définition claires des besoins et des exigence de la firme pour le projet.
 
 
 ## Références
@@ -169,6 +169,10 @@ Administrateur : L'administrateur n'est pas un poste à temps plein, c'est-à-di
 Comptable : Le comptable est un employé externe que l'entreprise embauche pour creer les factures au clients avec l'aide de SimpleComptable.
 
 # Exigences fonctionnelles
+
+## Un analyste veut soumettre une feuille de temps pour une période donnée
+
+
 
 Inclusion automatique de la section équivalente du DEF. Chaque cas est enrichi :
 
