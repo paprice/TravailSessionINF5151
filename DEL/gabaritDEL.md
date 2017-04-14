@@ -275,22 +275,26 @@ En période de pointe, les 5 employés de l'entreprise utiliseraient le service 
 
 ## Exigences de persistance
 
-Cette sous-section décrit les exigences portant sur la persistance des informations.
+Le système créera automatiquement un événement système consitué d'une adresse IP, d'un identifiant d'utilisateur, de la machine utilisée pour la connexion, de la date et de l'heure de chaque action suivante:
 
-Elle peut inclure des éléments relatifs :
+* Connexion
+* Déconnexion
+* Modification
+* Lancement d'une erreur
+* Approbation et désaprobation d'une feuille
 
-a) au type d'information à conserver ;
-a) à la fréquence d'utilisation ;
-a) aux caractéristiques d'accès ;
-a) aux entités et leurs relations ;
-a) aux contraintes d'intégrité ;
-a) aux exigences de conservation des données.
+Il est à noter que chaque action ou erreur aura un code qui sera aussi conservé, que toute cette information ainsi que les fiches de temps approuvées seront conservées durant une décennie à partir du moment de leur approbation et ainsi, la personne ayant approuvé une feuille sera associée à celle-ci.
 
-Les modèles logiques de données sont insérés ici.
+Voici ce dont pourrait avoir l’air le Journal système:
 
-Inclusion automatique de la section équivalente du DEF.
+https://www.lucidchart.com/invitations/accept/edc0c1f8-52a5-4a1b-9b70-e417d335473e
 
-Ajout d'items particuliers si nécessaire.
+Certaines contraintes d'intégrité seront aussi utilisées pour s'assurer d'éviter les entrées de données invalides:
+
+* Des validations automatiques s'assureront que touts les champs d'une feuille de temps soient correctement remplis.
+* Une fois barrée par le comptable, une feuille ne pourra plus être modifiée. Toute correction devra être appliquée dans une feuille subséquente.
+
+Finalement, ces données seront inclues dans les "backups" et ne seront accessibles seulement qu'aux coordonnateurs et/ou administrateurs de réseau le cas échéant.
 
 ## Exigences de fiabilité
 
