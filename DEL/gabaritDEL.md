@@ -92,9 +92,7 @@ Inclusion automatique de la section équivalente du DEF. Ajout d'items particuli
 
 ## Structure du document
 
-Décrire ce que la suite du DEL contient.
-
-Expliquer comment le DEL est organisé.
+Ce document contient les éléments de base pour la bonne compréhension de la construction du système demandé. Donc, il contient un description générale du projet à développer, les fonctionnalité demandées et les contraintes générales que le programme doit respecté. La suite du documents sont les exigences fonctionnelles ainsi que les exigences non-fonctionnelles importante.
 
 ## Points en suspens
 
@@ -286,6 +284,8 @@ Le système créera automatiquement un événement système consitué d'une adre
 Il est à noter que chaque action ou erreur aura un code qui sera aussi conservé, que toute cette information ainsi que les fiches de temps approuvées seront conservées durant une décennie à partir du moment de leur approbation et ainsi, la personne ayant approuvé une feuille sera associée à celle-ci.
 
 Voici ce dont pourrait avoir l’air le Journal système:
+
+//TODO : inclure le pdf
 
 https://www.lucidchart.com/invitations/accept/edc0c1f8-52a5-4a1b-9b70-e417d335473e
 
