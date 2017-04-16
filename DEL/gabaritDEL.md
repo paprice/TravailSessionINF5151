@@ -313,7 +313,7 @@ Chaque utilisateur aura un compte avec un nom d'utilisateur et un mot de passe q
 
 ## Exigences de maintenabilité
 
-La compagnie offrant le service d'hébergement devra gérer toute la maintenance des serveurs. Le employés devraient être en mesure de gérer la maintenance de leurs propres moyens de connexion à l'interface utilisateur. Pour ce qui est du logiciel, le TDD sera utilisé afin de s'assurer qu'aucune mise à jour ne cause de régression au niveau des fonctionnalitées déjà implémentées dans le système. Il est recommandé que toute modification au code soit fait par une équipe qui soit à l'aise avec le langage de programmation utilisé et, de préférence, que le projet reste le plus possible entre les mains d'une seul et même équipe de programmeurs.
+La compagnie offrant le service d'hébergement devra gérer toute la maintenance des serveurs. Le employés devraient être en mesure de gérer la maintenance de leurs propres moyens de connexion à l'interface utilisateur. Pour ce qui est du logiciel, le TDD sera utilisé afin de s'assurer qu'aucune mise à jour ne cause de régression au niveau des fonctionnalitées déjà implémentées dans le système. 
 
 ## Exigences de portabilité
 
