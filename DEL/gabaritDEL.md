@@ -31,6 +31,9 @@ S/O
 UML
  ~ Unified Modeling Language
 
+ TDD
+ ~ Test driven developpement
+
 # Historique des révisions {-}
 
 | **Date** | **Version** | **Description** | **Auteur** |
@@ -298,13 +301,11 @@ Finalement, ces données seront inclues dans les "backups" et ne seront accessib
 
 ## Exigences de fiabilité
 
-Inclusion automatique de la section équivalente du DEF.
-
-Pour une plus grande fiabilité, le système sera hébergé à l'externe dans une compagnie réputée qui à déjà fait ses preuves en tant qu'hébergeur de fiable. L'hébergeur devra offrir un bon soutien client en cas de problèmes.
+Pour une plus grande fiabilité, le système sera hébergé à l'externe dans une compagnie réputée qui à déjà fait ses preuves en tant qu'hébergeur de qualité. L'hébergeur devra offrir un bon soutien client en cas de problèmes.
 
 ## Exigences de disponibilité
 
-Le système devra être fonctionnel et accessible tout le temps à l'exception de 2h à 4h pour le backup des données. Il devra être disponible de partout par une connexion internet durant ses heures d'opération.
+Le système devra être fonctionnel et accessible tout le temps à l'exception de 2h à 4h pour le "backup" des données. Il devra être disponible de partout par une connexion internet durant ses heures d'opération.
 
 ## Exigences de sécurité
 
@@ -312,9 +313,7 @@ Chaque utilisateur aura un compte avec un nom d'utilisateur et un mot de passe q
 
 ## Exigences de maintenabilité
 
-Inclusion automatique de la section équivalente du DEF.
-
-Ajout d'items particuliers si nécessaire.
+La compagnie offrant le service d'hébergement devra gérer toute la maintenance des serveurs. Le employés devraient être en mesure de gérer la maintenance de leurs propres moyens de connexion à l'interface utilisateur. Pour ce qui est du logiciel, le TDD sera utilisé afin de s'assurer qu'aucune mise à jour ne cause de régression au niveau des fonctionnalitées déjà implémentées dans le système. Il est recommandé que toute modification au code soit fait par une équipe qui soit à l'aise avec le langage de programmation utilisé et, de préférence, que le projet reste le plus possible entre les mains d'une seul et même équipe de programmeurs.
 
 ## Exigences de portabilité
 

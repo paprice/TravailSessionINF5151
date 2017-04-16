@@ -20,7 +20,7 @@ processus transversaux p.72
 
 #### Vérification vs. Validation
 
-La vérification est un processus qui travaille a chque étape et qui vérifie si tous a été fait dans les règles. Travail pour s'assurer que l'étape a été bien faite.
+La vérification est un processus qui travaille a chaque étape et qui vérifie si tous a été fait dans les règles. Travail pour s'assurer que l'étape a été bien faite.
 
 La validation est de s'assurer qu'on a fait la bonne chose au total.
 
