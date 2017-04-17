@@ -112,8 +112,7 @@ Pour ces raisons, et dans le but de moderniser le plus possible le système de g
 
 ## Survol des fonctionnalités
 
-Inclusion automatique de la section équivalente du DEF.
-
+Le logiciel offrira les fonctionnalitées de bases d'une feuille de temps,c'est à dire l'entrée et la gestion d'heures et de mandats ainsi que la gestion des vacances.
 Le logiciel va permettre à l'entreprise d'amasser les feuilles de temps des analystes à un seul endroit pour faciliter la gestion de ces feuilles. Le coordonnateur va regarder ces feuilles de temps et va pouvoir les valider ou les refuser s'il voit une erreur. Une fois acceptée, la feuille de temps est verrouillée et ne peux plus être changée. Le comptable peut prendre les feuilles de temps et les importer dans SimpleComptable pour permettre de créer les factures pour les clients.
 
 ## Contraintes générales
@@ -313,7 +312,7 @@ Chaque utilisateur aura un compte avec un nom d'utilisateur et un mot de passe q
 
 ## Exigences de maintenabilité
 
-La compagnie offrant le service d'hébergement devra gérer toute la maintenance des serveurs. Le employés devraient être en mesure de gérer la maintenance de leurs propres moyens de connexion à l'interface utilisateur. Pour ce qui est du logiciel, le TDD sera utilisé afin de s'assurer qu'aucune mise à jour ne cause de régression au niveau des fonctionnalitées déjà implémentées dans le système. 
+La compagnie offrant le service d'hébergement devra gérer toute la maintenance des serveurs. Le employés devraient être en mesure de gérer la maintenance de leurs propres moyens de connexion à l'interface utilisateur. Pour ce qui est du logiciel, le TDD sera utilisé afin de s'assurer qu'aucune mise à jour ne cause de régression au niveau des fonctionnalitées déjà implémentées dans le système.
 
 ## Exigences de portabilité
 
