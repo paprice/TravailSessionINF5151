@@ -107,38 +107,24 @@ FDTpro offre un service en ligne qui fonctionne par l'entremise d'un navigateur 
 ## Contexte
 
 Le contexte dans lequel est implémenté le nouveau système est celui d'une nouvelle entreprise d'analystes. Puisqu'en ce moment la gestion du temps et des mandats se fait de façon informelle, on cherche ici à optimiser ces solutions et à les rendre plus formelles et informatisées. L'entreprise étant embryonnaire, on peut donc s'attendre à une augmentation du nombre de mandats et une forte croissance. C'est dans ce contexte qu'au lancement officiel de l'entreprise, il faut un système plus robuste et plus formel de gestion du temps et des mandats. Il faut aussi que le nouveau système soit plus pratique, fiable et remplisse mieux les objectifs énoncés plus haut.
-Pour ces raisons, et dans le but de moderniser le plus possible le système de gestion du temps, nous avons donné priorité aux solutions pouvant être déployées dans le nuage. Cela permettra une fiabilité accrue, une plateforme plus accessible entre autres sur les appareils mobiles, ainsi que de faibles coûts de maintenance.
 
 ## Survol des fonctionnalités
 
 Le logiciel offrira les fonctionnalitées de bases d'une feuille de temps,c'est à dire l'entrée et la gestion d'heures et de mandats ainsi que la gestion des vacances.
-Le logiciel va permettre à l'entreprise d'amasser les feuilles de temps des analystes à un seul endroit pour faciliter la gestion de ces feuilles. Le coordonnateur va regarder ces feuilles de temps et va pouvoir les valider ou les refuser s'il voit une erreur. Une fois acceptée, la feuille de temps est verrouillée et ne peux plus être changée. Le comptable peut prendre les feuilles de temps et les importer dans SimpleComptable pour permettre de créer les factures pour les clients.
+Le logiciel va aussi permettre à l'entreprise d'amasser les feuilles de temps des analystes à un seul endroit pour faciliter la gestion de ces feuilles. Le coordonnateur va regarder ces feuilles de temps et va pouvoir les valider ou les refuser s'il voit une erreur. Une fois acceptée, la feuille de temps est verrouillée et ne peux plus être changée. Le comptable peut prendre les feuilles de temps et les importer dans SimpleComptable pour permettre de créer les factures pour les clients.
 
 ## Contraintes générales
 
-Cette sous-section décrit les éléments limitant les choix de conception. Elle ne décrit pas d'exigences spécifiques mais décrit la raison d'être de certaines contraintes en pointant vers les standards et normes devant être respectés. Sont inclus :
+Cette section énumère les limitations rencontrées lors de certains choix de conceptions du système.
 
-a) les réglementations applicables ;
-a) les normes ergonomiques ;
-a) les normesd'infrastructure ;
-a) les limitations du matériel ;
-a) les interfaces avec les autres applications ;
-a) le parallélisme des opérations ;
-a) les fonctions d'audit ;
-a) les fonction de contrôle ;
-a) les exigences de langage de haut niveau ;
-a) les protocoles d'échange de signaux (ex. XON/XOFF, ACK-NACK) ;
-a) les exigences de fiabilité ;
-a) la criticité de l'application ;
-a) les considérations de sécurité physique ou autre ;
-a) les particularités opérationnelles (ex. en milieu d'usine –-- poussières, vibrations, etc.) ;
-a) les particularités des sites d'exploitation.
+a) Différentes règlementations des ressources humaines quand à l'utilisation d'un système de gestion de feuille de temps  ;
+a) La compatiblité avec plusieurs systèmes d'exploitation et donc un certain concept d'universalité ;
+a) l'utilsiation du système par une comptable externe afin d'effectuer sa comptabilitée ;
+a) un niveau d'ergonomie et d'intuition suffisant pour permettre une prise en main rapide et prévenir tout ralentissement du travail régulier ;
+a) des fonctionalitées de contrôle afin de permettre une administration transparente au sein de l'entreprise ;
+a) un système sufisamment fiable pour pouvoir l'utiliser dans la gestion du temps des mandats chez les clients ;
 
-Inclusion automatique de la section équivalente du DEF.
-
-Ajout d'items particuliers si nécessaire.
-
-
+Ainsi,la plateforme devrait fonctionner sur le web, et ainsi être accessible de n'importe où dans le monde et de n'importe quels appareils supportant les normes web standard. Il faudra avoir recours à un identifiant et un mot de passe pour s'identifier dans la plateforme. Les données de la plateforme devraient être accessible via une API pour en faciliter la manipulation et pour offrir une flexibilité au niveau du traitement possible des données en sortie (c.-à-d. logiciel comptable).
 
 
 ## Hypothèses et dépendances
