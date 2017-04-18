@@ -123,6 +123,7 @@ a) l'utilsiation du système par une comptable externe afin d'effectuer sa compt
 a) un niveau d'ergonomie et d'intuition suffisant pour permettre une prise en main rapide et prévenir tout ralentissement du travail régulier ;
 a) des fonctionalitées de contrôle afin de permettre une administration transparente au sein de l'entreprise ;
 a) un système sufisamment fiable pour pouvoir l'utiliser dans la gestion du temps des mandats chez les clients ;
+a) Une certaine transparence et sécurité des données transmise afin d'en protegez-le contenu ;
 
 Ainsi,la plateforme devrait fonctionner sur le web, et ainsi être accessible de n'importe où dans le monde et de n'importe quels appareils supportant les normes web standard. Il faudra avoir recours à un identifiant et un mot de passe pour s'identifier dans la plateforme. Les données de la plateforme devraient être accessible via une API pour en faciliter la manipulation et pour offrir une flexibilité au niveau du traitement possible des données en sortie (c.-à-d. logiciel comptable).
 
@@ -133,11 +134,7 @@ S/O
 
 ## Partition des exigences
 
-Cette sous-section identifie les exigences pouvant être prises en compte dans une version future du logiciel.
-
-Inclusion automatique de la section équivalente du DEF.
-
-Ajout d'items particuliers si nécessaire.
+Selon nos plan pour subvenirs aux besoins de Les mousquetaires,nous pensons couvrir la majoritée des besoins pouvant être utiles au cadre opérationnelles de l'entreprise à ce jour ainsi que dans le futur. Toutefois, puisque de nouveaux besoin non prévisbles peuvent survenir en tout temps, nous auront recours à une plateforme aussi flexible que possible, et donc ouverte aux ajouts et modifications futurs afin de se modeler aux nouveaux critères de la compagnie. Dans une futur version du logiciel,on pourrait par exemple imaginer l'ajout d'une intégration au système de paie, à un intranet ou à un sytème de communication internet. On pourrait aussi imaginer l'utilisation d'un système de type "single sign-on" pour faciliter la gestion des utilisateurs ou une plateforme de communication directe avec nos clients qui viendrait se greffer a nos modules de gestion de temps. Toutes ces fonctionnalitées futures pourraient être implanter dans le futur au système une le developpement achevé.
 
 # Description des acteurs
 
