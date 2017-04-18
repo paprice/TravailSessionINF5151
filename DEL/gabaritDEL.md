@@ -84,22 +84,21 @@ Décrire les lecteurs visés.
 
 ## Portée et contexte
 
-L'étude porte seulement sur le système de feuilles de temps. Elle ne porte pas sur les autres éléments de l'entreprise  ou de la gestion du personnel tels que la gestion de la paie. Dans le contexte ou la firme d'analyse Les mousquetaires décident d'avoir recours à un système de gestion de temps deévlopper sur mesure,ce documenta comme portée la définition claires des besoins et des exigence de la firme pour le projet.
+L'étude porte seulement sur le système de feuilles de temps. Elle ne porte pas sur les autres éléments de l'entreprise  ou de la gestion du personnel tels que la gestion de la paie. Dans le contexte ou la firme d'analyse Les mousquetaires décident d'avoir recours à un système de gestion de temps dévlopper sur mesure,ce documenta comme portée la définition claires des besoins et des exigence de la firme pour le projet.
 
 
 ## Références
 
-Les références incluses ici font partie intégrante du DEL. En particulier les références au DEF et au DAG sont de mise. Ces références sont décrites dans la bibliographie.
+Au fil du présent document,nous ferons allusion aux précédants dossiers remis dans le cadre de notre mandat pour la firme Les Mousquetaires,c'est à dire à l'étude de faisabilité ainsi qu'au document d'architecture global. En effet,ceux-ci constituent les bases de l'étude effectuée pour cette analyse.
 
-Inclusion automatique de la section équivalente du DEF. Ajout d'items particuliers si nécessaire.
 
 ## Structure du document
 
-Ce document contient les éléments de base pour la bonne compréhension de la construction du système demandé. Donc, il contient un description générale du projet à développer, les fonctionnalité demandées et les contraintes générales que le programme doit respecté. La suite du documents sont les exigences fonctionnelles ainsi que les exigences non-fonctionnelles importante.
+Ce document contient les éléments de base pour la bonne compréhension de la construction du système demandé. Donc, il contient une description générale du projet à développer, les fonctionnalité demandées et les contraintes générales que le programme doit respecter. La suite du documents sont les exigences fonctionnelles ainsi que les exigences non-fonctionnelles importante.
 
 ## Points en suspens
 
-Si certains points restent en suspens à cause de différentes contraintes dans l'exécution des travaux (ex. faute de temps ou de budget), ils sont inscrits ici.
+À moins de nouveautées requises par Les mousquetaires dans leur système de gestion du temps,il n'y a pas de points en attente dans ce dossier.
 
 # Description générale
 
