@@ -6,7 +6,7 @@ Gabriel Thibault -- THIG15099407
 Pascal Vautour -- VAUP05049304
 William Corbeil -- CORW26049505
 Nizar Semlali -- SEMN14019103
-% 27 avril 2017
+% 20 avril 2017
 
 # Sigles et abréviations {-}
 
@@ -89,7 +89,7 @@ L'étude porte seulement sur le système de feuilles de temps. Elle ne porte pas
 
 ## Références
 
-Au fil du présent document,nous ferons allusion aux précédants dossiers remis dans le cadre de notre mandat pour la firme Les Mousquetaires,c'est à dire à l'étude de faisabilité ainsi qu'au document d'architecture global. En effet,ceux-ci constituent les bases de l'étude effectuée pour cette analyse.
+Au fil du présent document,nous ferons allusion aux précédents dossiers remis dans le cadre de notre mandat pour la firme Les Mousquetaires, c'est-à-dire l'étude de faisabilité ainsi qu'au document d'architecture global. En effet,ceux-ci constituent les bases de l'étude effectuée pour cette analyse.
 
 
 ## Structure du document
@@ -119,7 +119,7 @@ Cette section énumère les limitations rencontrées lors de certains choix de c
 
 a) Différentes règlementations des ressources humaines quand à l'utilisation d'un système de gestion de feuille de temps  ;
 a) La compatiblité avec plusieurs systèmes d'exploitation et donc un certain concept d'universalité ;
-a) l'utilsiation du système par une comptable externe afin d'effectuer sa comptabilitée ;
+a) l'utilisation du système par un comptable externe afin d'effectuer sa comptabilitée ;
 a) un niveau d'ergonomie et d'intuition suffisant pour permettre une prise en main rapide et prévenir tout ralentissement du travail régulier ;
 a) des fonctionalitées de contrôle afin de permettre une administration transparente au sein de l'entreprise ;
 a) un système sufisamment fiable pour pouvoir l'utiliser dans la gestion du temps des mandats chez les clients ;
@@ -139,7 +139,6 @@ Selon nos plan pour subvenirs aux besoins de Les mousquetaires,nous pensons couv
 # Description des acteurs
 
 Analyste : L'analyste est l'employé normal de l'entreprise, c'est celui qui va devoir entrer son temps de travail dans les feuilles de temps en fonction du mandat sur lequel il a travaillé et le nombre d'heure qu'il a travaillé dessus.
-
 
 Coordonnateur : Le coordonnateur est un employé qui va regarder les feuilles de temps entrer par les analystes pour voir s'il y a des erreurs. S'il y en a, il refuse la feuille de temps, sinon il l'accepte.
 
