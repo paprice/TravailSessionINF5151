@@ -331,11 +331,45 @@ Ajout d'items particuliers si nécessaire.
 
 ## Livres
 
+S/O
+
 ## Normes
+
+- **ESA BSSC(96)2**
+
+    Guide to applying the ESA software engineering standards to small software projects
+
+- **ESA PSS-05-0**
+
+    ESA software engineering standards – Issue 2
+
+- **ESA PSS-05-03**
+
+    Guide to the software requirements definition phase
+
+- **IEEE Std 830-1998**
+
+    IEEE Recommended Practice for Software Requirements
+
+- **IEEE/EIA 12207.0-1996**
+
+    Guide for Information Technology --- Software life cycle processes
+
+- **IEEE/EIA 12207.1-1997**
+
+    Guide for Information Technology --- Software life cycle processes --- Life cycle data
+
+- **IEEE/EIA 12207.2-1997**
+
+    Guide for Information Technology --- Software life cycle processes --- Implementation considerations
 
 ## Rapports
 
+S/O
+
 ## Sites
+
+S/O
 
 # Annexe normative --- Spécifications des contrats
 
