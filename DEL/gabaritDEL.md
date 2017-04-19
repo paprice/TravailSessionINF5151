@@ -179,7 +179,7 @@ Comptable : Le comptable est un employé externe que l'entreprise embauche pour 
 5. L'analyste entre une nouvelle entrée pour corriger l'erreur sans effacer celle-ci de la feuille de temps.
 6. L'employé soumet sa feuille de temps pour une nouvelle approbation par le coordonnateur.
 
-# Un analyste souhaite entrer des heures, mais n'a pas accès à internet.
+## Un analyste souhaite entrer des heures, mais n'a pas accès à internet.
 
 1. Il écrit sur papier les changements à apporter.
 2. Une fois connecté à l'internet, il entre les informations notées dans sa feuille de temps.
@@ -218,6 +218,16 @@ Inclusion automatique de la section équivalente du DEF.
 Ajout d'items particuliers si nécessaire.
 
 Les références aux IUG relatifs aux cas d'utilisation sont incluses.
+
+### Analystes
+
+L'interface que les analystes vont voir va comporter le minimum requis. C'est-à-dire que les seules options que l'analyste devrait voir sont la feuille de temps de la semaine en cours et les feuilles de temps des semaines qui suivent, pour pouvoir les remplir s'il part en vacances.
+
+![Interface des analystes](./assets/InterAnalyste.png)
+
+L'analyste aura a remplir tous les champs pour chaque mandat sélectionné, donc l'heure de début et l'heure de fin ainsi qu'une brève description de ce qu'il a fait sur le projet pendant ce temps. S'il y a un champs non rempli parmi les cinq journée de la semaine, l'analyste ne pourra pas soumettre sa feuille de temps. Si une feuille de temps soumis par l'analyste est rejeté par le coordonateur, elle se rajoute dans la liste d'onglet des semaines en première position.
+
+
 
 ## Interfaces « matériel »
 
