@@ -225,7 +225,9 @@ L'interface que les analystes vont voir va comporter le minimum requis. C'est-à
 
 ![Interface des analystes](./assets/InterAnalyste.png)
 
-L'analyste aura a remplir tous les champs pour chaque mandat sélectionné, donc l'heure de début et l'heure de fin ainsi qu'une brève description de ce qu'il a fait sur le projet pendant ce temps. S'il y a un champs non rempli parmi les cinq journée de la semaine, l'analyste ne pourra pas soumettre sa feuille de temps. Si une feuille de temps soumis par l'analyste est rejeté par le coordonateur, elle se rajoute dans la liste d'onglet des semaines en première position.
+L'analyste aura a remplir tous les champs pour chaque mandat sélectionné, donc l'heure de début et l'heure de fin ainsi qu'une brève description de ce qu'il a fait sur le projet pendant ce temps. S'il y a un champs non rempli parmi les cinq journée de la semaine, l'analyste ne pourra pas soumettre sa feuille de temps.
+
+Si une feuille de temps soumis par l'analyste est rejeté par le coordonateur, elle se rajoute dans la liste d'onglet des semaines en première position.
 
 
 
