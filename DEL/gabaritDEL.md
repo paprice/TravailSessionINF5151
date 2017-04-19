@@ -155,41 +155,50 @@ Le comptable est un employé externe que l'entreprise embauche pour créer les f
 
 # Exigences fonctionnelles
 
+## Un utilisateur veux se connecter au système
 
-## Un analyste veut soumettre une feuille de temps pour une période donnée
+### L'utilisateur se connecte au système pour y avoir accèes
 
-1. Il enregistre sa feuille de temps au fur et à mesure qu'il travaille.
-2. Il la soumet une fois complétée.
-3. La feuille de temps est approuvée par un coordonnateur et, par le fait même, ne peut plus être modifiée à moins d'être désapprouvée.
+Le but de ce cas d'utilisation est de permettre aux utilisateur de se connecter au système. Chose que doivent faire chacun des utilisateurs pour accéder aux fonctionnalités auxquels ils ont droits.
 
-## Un coordonnateur vérifie l'avancement d'un projet à travers les notes laissées par un analyste :
+### Acteur principal _(ou Acteurs principaux)_
 
-1. Il utilise les droits associés à son rôle pour voir les feuilles de temps des employés en lien avec le projet.
+Employé, Coordonateur, Comptable
 
-## Un comptable souhaite utiliser les informations des feuilles de temps pour faire les livres de l'entreprise :
+### Sommaire
 
-1. Il verrouille les feuilles de temps approuvées par les coordonnateurs.
-2. Il les importe dans SimpleComptable pour faire la comptabilité.
+L'utilisateur envoie ses identifiants aux système, celui-ci les valide et autorise sa connexion. Il lui permet d'accéder aux fonctionnalités associé a son compte et d'y faire des opérations.
 
-## Un rapport est généré et envoyé à un client :
+### Préalables
 
-1. Les données à inclure au rapport sont sélectionnées à l'aide d'une liste de critères de filtrage. Ces options de filtrage incluent des options telles que la période de temps, les projets et les tâches.
-2. Un type de présentation est sélectionné pour le rapport.
-3. Au besoin, on active l'automatisation des rapports pour que ceux-ci soient envoyés au client périodiquement suivant les critères sélectionnés.
+Être un utilisateur actif dans le système
 
-## Un analyste souhaite corriger une erreur dans une feuille de temps soumise et verrouillée par le comptable.
+### Déroulement nominal
 
-1. Il contacte un coordonnateur pour que la feuille soit débloquée.
-2. Le coordonnateur contacte le comptable pour que la feuille soit déverrouillée.
-3. Le comptable déverrouille la feuille de temps.
-4. Le coordonnateur utilise ses droits pour désapprouver la feuille de temps.
-5. L'analyste entre une nouvelle entrée pour corriger l'erreur sans effacer celle-ci de la feuille de temps.
-6. L'employé soumet sa feuille de temps pour une nouvelle approbation par le coordonnateur.
+-------------------------------------------------------------------------------
+**Acteur**                              **Système**
+-------------------------------------   ---------------------------------------
+_Section Se connecter au système_
 
-## Un analyste souhaite entrer des heures, mais n'a pas accès à internet.
+1. L'utilisateur fait la demande de
+connexion.
 
-1. Il écrit sur papier les changements à apporter.
-2. Une fois connecté à l'internet, il entre les informations notées dans sa feuille de temps.
+                                        2. Le système affiche la fenêtre de connexion
+
+3. L'utilisateur entre ses identifiants
+
+                                        4. Le système valide les identifiants et présente une interface personnalisée a l'utilisateur selon ses droits.
+
+-------------------------------------------------------------------------------
+
+
+### Exceptions
+
+- Les informations de connexions de l'utilisateur sont erronées
+
+### Diagramme de séquence système
+\includegraphics[width=6in]{DiagrammeConnexion.pdf}
+
 
 ## Un analyste veut rentrer ses heures
 
@@ -256,6 +265,20 @@ poursuivre.
 
                                         2. Retour à l'étape 2 du déroulement nominal
 
+### Déroulement alternatif 2
+
+-------------------------------------------------------------------------------
+**Acteur**                              **Système**
+-------------------------------------   ---------------------------------------
+_Section Entree de vacances_
+
+1. À l'étape 3 du déroulement nominal,
+l'analyste peut entrer des périodes
+de vacances, maladies et congés
+a sa feuille de temps
+
+                                        2. Retour à l'étape 4 du déroulement nominal
+
 -------------------------------------------------------------------------------
 
 ### Exceptions
@@ -265,7 +288,6 @@ poursuivre.
 
 ### Diagramme de séquence système
 \includegraphics[width=6in]{DiagrammeAnalyste.pdf}
-
 
 ## Un coordonnateur veut approuver les feuilles de temps
 
