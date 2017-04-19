@@ -244,7 +244,7 @@ L'interface de l'administrateur ne vas servir qu'à ajouter les mandats dans le 
 
 ## Interfaces « matériel »
 
-Étant donné le fait que le logiciel sera accessible par fureteur web, il devrait être automatiquement compatible avec toute machine qui ait la possibibilité d'installer un des fureteurs supportés. 
+Étant donné le fait que le logiciel sera accessible par fureteur web, il devrait être automatiquement compatible avec toute machine qui ait la possibibilité d'installer un des fureteurs supportés.
 
 ## Interfaces « logiciel »
 
@@ -252,9 +252,7 @@ Le logiciel devra avoir une API pour envoyer les informations des fiches de temp
 
 ## Interfaces « communication »
 
-Inclusion automatique de la section équivalente du DEF.
-
-Ajout d'items particuliers si nécessaire.
+Puisque le logiciel est accessible à partir d'un fureteur web, il n'y a pas de communication avec d'autre interface/logiciel lors de l'utilisation. 
 
 # Autres exigences
 
