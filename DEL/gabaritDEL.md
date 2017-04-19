@@ -244,7 +244,13 @@ Le logiciel devra avoir une API pour envoyer les informations des fiches de temp
 
 ## Interfaces « communication »
 
+<<<<<<< HEAD
 L'interface de communication de notre système de gestion du temps pour Les mousqeutaire a été décrite plus haut comme une interface web standard de type "Client/serveur". Le serveur sera hébergé chez une firme externe spécialisé pour une accesbilité accrue et une maintenance plus facile. Ainsi,puisque lèinternet constituera l'interface de communication du système,celui-ci aura recours aux protocoles standarads qui s'y rattachent comme HTTPS et TCP/IP pour la communication et DNS pour la résolution du nom de domaine.
+=======
+Puisque le logiciel est accessible à partir d'un fureteur web, il n'y a pas de communication avec d'autre interface/logiciel lors de l'utilisation. 
+
+# Autres exigences
+>>>>>>> origin/master
 
 # Exigence spécifique de documentation
 
