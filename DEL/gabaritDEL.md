@@ -238,21 +238,17 @@ L'interface des coordonateurs ressemble beaucoup à celui des analystes, sauf qu
 
 ### Administrateur
 
-L'interface de l'administrateur ne vas servir qu'à ajouter les mandats dans le système ainsi que les nouveaux analystes étant donné que ce n'est pas un rôle a temps plein. 
+L'interface de l'administrateur ne vas servir qu'à ajouter les mandats dans le système ainsi que les nouveaux analystes étant donné que ce n'est pas un rôle a temps plein.
 
 ![Interface de l'administrateur](./assets/InterAdmin.png)
 
 ## Interfaces « matériel »
 
-Inclusion automatique de la section équivalente du DEF.
-
-Ajout d'items particuliers si nécessaire.
+Étant donné le fait que le logiciel sera accessible par fureteur web, il devrait être automatiquement compatible avec toute machine qui ait la possibibilité d'installer un des fureteurs supportés. 
 
 ## Interfaces « logiciel »
 
-Inclusion automatique de la section équivalente du DEF.
-
-Ajout d'items particuliers si nécessaire.
+Le logiciel devra avoir une API pour envoyer les informations des fiches de temps dans sage 50 et devra être compatible avec les fureteurs Firefox, Google chrome et safari.
 
 ## Interfaces « communication »
 
