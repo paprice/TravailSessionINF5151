@@ -220,12 +220,6 @@ Si une sous-section n'est pas utilisée, la mention « S/O » (sans objet) est i
 
 ## Interfaces « humain »
 
-Inclusion automatique de la section équivalente du DEF.
-
-Ajout d'items particuliers si nécessaire.
-
-Les références aux IUG relatifs aux cas d'utilisation sont incluses.
-
 ### Analystes
 
 L'interface que les analystes vont voir va comporter le minimum requis. C'est-à-dire que les seules options que l'analyste devrait voir sont la feuille de temps de la semaine en cours et les feuilles de temps des semaines qui suivent, pour pouvoir les remplir s'il part en vacances.
@@ -240,8 +234,13 @@ Si une feuille de temps soumis par l'analyste est rejeté par le coordonateur, e
 
 L'interface des coordonateurs ressemble beaucoup à celui des analystes, sauf qu'il ne vas rien pouvoir changer. Les grosse différences sont que au lieu d'avoir les semaines qui suivent, le coordonateur va avoir toutes les feuilles de temps des analystes et il va pouvoir refuser une feuille de temps ou l'accepter.
 
-![Interface des coordonateurs](./assets/InterCoordo.png)
+![Interface du coordonateur](./assets/InterCoordo.png)
 
+### Administrateur
+
+L'interface de l'administrateur ne vas servir qu'à ajouter les mandats dans le système ainsi que les nouveaux analystes étant donné que ce n'est pas un rôle a temps plein. 
+
+![Interface de l'administrateur](./assets/InterAdmin.png)
 
 ## Interfaces « matériel »
 
