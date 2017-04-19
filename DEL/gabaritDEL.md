@@ -193,30 +193,22 @@ Le comptable est un employé externe que l'entreprise embauche pour créer les f
 
 
 
-
-Inclusion automatique de la section équivalente du DEF. Chaque cas est enrichi :
-
-- d'un diagramme de séquence système ;
-- des références à l'annexe contenant les contrats ;
-- des références à l'annexe contenant les spécifications des IUG.
+Les spécifications détaillées des cas ci-haut sont disponibles en references dans le DEF et DAG.
 
 # Exigences d'interface
 
 Pour chaque catégorie d'acteurs identifiés à la sous-section _Description des acteurs_, la présente sous-section décrit de façon détaillée les échanges entre les acteurs et le logiciel. La description logique des échanges est déjà contenue à la sous-section _Exigences fonctionnelles_.
 
-Ici, il s'agit de détailler les points particuliers suivants :
 
-a) les protocoles utilisés ;
-a) les normes ergonomiques spécifiques ;
-a) le format des messages échangés ;
-a) le chronométrage (timing) ;
-a) les relations entre les données ;
-a) le format des commandes ;
-a) les messages d'erreur.
+Seules les exigences différentes des normes de l'organisation sont décrites ici. Les normes de l'organisation sont spécifiées à la sous-section Contraintes générales.
 
-Utilisez un sous-ensemble pertinent de la liste précédente pour chaque catégorie ci-dessous. Seules les exigences différentes des normes de l'organisation sont décrites ici. Les normes de l'organisation sont spécifiées à la sous-section Contraintes générales.
+L'accès à notre service de gestion du temps se fera via une interface web. Ainsi,le protocole TCP/IP sera utilisé en conjonction avec HTTPS afin d'assurer une fiabilité et une sécurité accrue.
+Le format des messages échangées sera en texte,lui aussi encrypté en suivant le sens de l'implémentation HTTPS. Les normes ergonomiques,quant à elles,suivront celles tiréees des standards indiqués au début de ce document.
+Afin d'assurer un accès universel et compte tenu du bas volume des données,le timeout qui sera préconisé sera d'environ 500ms par action et 3500ms par transmission.
+Les données locales pourront être modifié instantanément en local (sur la page web) puis syncronisées à l'aide d'un bouton afin d'améliorer l'ergonomie globale de la plateforme.
+Les commandes internet du système respecteront les standards html/php pour permettre une maintenance facile.
+Nous avons prévu des messages d'erreur pour tous les cas limites envisageables,et nous prévoyons implémenter d'autre messages d'erreur selon nos constation en test.
 
-Si une sous-section n'est pas utilisée, la mention « S/O » (sans objet) est inscrite.
 
 ## Interfaces « humain »
 
@@ -244,33 +236,29 @@ L'interface de l'administrateur ne vas servir qu'à ajouter les mandats dans le 
 
 ## Interfaces « matériel »
 
-Étant donné le fait que le logiciel sera accessible par fureteur web, il devrait être automatiquement compatible avec toute machine qui ait la possibibilité d'installer un des fureteurs supportés. 
+Étant donné le fait que le logiciel sera accessible par fureteur web, il devrait être automatiquement compatible avec toute machine qui ait la possibibilité d'installer un des fureteurs supportés.
 
 ## Interfaces « logiciel »
 
-Le logiciel devra avoir une API pour envoyer les informations des fiches de temps dans sage 50 et devra être compatible avec les fureteurs Firefox, Google chrome et safari.
+Le logiciel devra avoir une API pour envoyer les informations des fiches de temps dans sage 50 et devra être compatible avec les fureteurs Firefox, Google chrome et safari. L'interface utilisateur (GUI) a été décrite plus haut.
 
 ## Interfaces « communication »
 
-Inclusion automatique de la section équivalente du DEF.
+L'interface de communication de notre système de gestion du temps pour Les mousqeutaire a été décrite plus haut comme une interface web standard de type "Client/serveur". Le serveur sera hébergé chez une firme externe spécialisé pour une accesbilité accrue et une maintenance plus facile. Ainsi,puisque lèinternet constituera l'interface de communication du système,celui-ci aura recours aux protocoles standarads qui s'y rattachent comme HTTPS et TCP/IP pour la communication et DNS pour la résolution du nom de domaine.
 
-Ajout d'items particuliers si nécessaire.
+# Exigence spécifique de documentation
 
-# Autres exigences
-
-Cette section décrit les exigences **spécifiques** ne se retrouvant pas dans les autres sections. Chaque exigence doit être vérifiable. Chaque exigence doit être identifiée de façon unique. Les exigences essentielles doivent être identifiées comme telles. La source de chaque exigence doit être indiquée. Par **spécifiques**, nous entendons des exigences différentes de celles décrites dans la section _Exigences fonctionnelles_ et dans les normes de l'organisation. Ces dernières ayant été spécifiées à la sous-section _Contraintes générales_. Par exemple, des exigences spécifiques concernant la documentation ou des exigences spécifiques concernant les tests d'acceptation seraient décrites ici.
-
-Si une sous-section n'est pas utilisée, la mention «S/O» (sans objet) est inscrite.
+Considérant que la futur plate-forme de gestion du temps sera utilisé par plusieurs personnes de tout niveau en informatique,nous imposons donc des exigences spécifique en matière de documentation. En particulier, nous prévoyions soumettre une ébauche de cette future documentation à des futurs utilisateurs afin dèobtenir leur avis sur la clarté de nos explications et sur la pertinences de nos exemples tels que présentés dans ce documentation. Nous souhaitons donc produire une documentation la plus claire,conrète et pratique possible pour l'utilisateur conventionnel tout comme pour l'administrateur.
 
 ## Exigences de performance
 
-Nous choisissons un serveur de "hosting" qui peut supporter un maximum de 100 utilisateurs pour l'instant, étant donné qu'il y a seulement 5 employés qui utilisent le système présentement .
+Nous choisissons un serveur de "hosting" qui peut supporter un maximum de 100 utilisateurs pour l'instant, étant donné qu'il y a seulement 5 employés qui utilisent le système actuellement .
 
-L'avantage d'un tel système est que l'ont peut rehausser le service pour augmenter le nombre de connexions simultanées, dans l'éventualité où la compagnie prendrait de l'expansion .
+L'avantage d'un tel système est que l'ont peut facilement et rapidemment rehausser le service pour augmenter le nombre de connexions simultanées, dans l'éventualité où la compagnie prendrait de l'expansion .
 
 On s'attend à un temps de réponse de moins d'une seconde .
 
-En période de pointe, les 5 employés de l'entreprise utiliseraient le service au même temps .
+En période de pointe, les 5 employés de l'entreprise utiliseraient le service en même temps sans aucun problème ou ralentissement.
 
 
 ## Exigences de persistance
@@ -281,9 +269,9 @@ Le système créera automatiquement un événement système consitué d'une adre
 * Déconnexion
 * Modification
 * Lancement d'une erreur
-* Approbation et désaprobation d'une feuille
+* Approbation et soumission d'une feuille
 
-Il est à noter que chaque action ou erreur aura un code qui sera aussi conservé, que toute cette information ainsi que les fiches de temps approuvées seront conservées durant une décennie à partir du moment de leur approbation et ainsi, la personne ayant approuvé une feuille sera associée à celle-ci.
+Il est à noter que chaque action ou erreur aura un code qui sera aussi conservé, que toute cette information ainsi que les fiches de temps approuvées seront conservées durant une décennie à partir du moment de leur approbation et que l'identifiant de l'utilisateur posant action (approbation,soumission ou autre) sera enregistré pour la même période.
 
 Voici ce dont pourrait avoir l’air le Journal système:
 
@@ -306,7 +294,7 @@ Le système devra être fonctionnel et accessible tout le temps à l'exception d
 
 ## Exigences de sécurité
 
-Chaque utilisateur aura un compte avec un nom d'utilisateur et un mot de passe qui lui permettra d'accéder au système. Ce compte lui donnera accès seulement aux fonctionnalités utiles à l'accomplissement de ses tâches. La sécurité du matériel sera laissée entre les mains de la compagnie externe qui sera choisie pour l'hébergement des serveurs.
+Chaque utilisateur aura un compte avec un nom d'utilisateur et un mot de passe qui lui permettra d'accéder au système. Ce compte lui donnera accès seulement aux fonctionnalités utiles à l'accomplissement de ses tâches. La sécurité du matériel sera laissée entre les mains de la compagnie externe qui sera choisie pour l'hébergement des serveurs,mais nous exigeons une communication encryptée de type HTTPS.
 
 ## Exigences de maintenabilité
 
