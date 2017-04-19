@@ -1,12 +1,11 @@
-% Exigences DEL
-Les Mousquetaires
-Gestion des mandats et des feuilles de temps
-% Patrice Desrochers -- DESP02049609
-Gabriel Thibault -- THIG15099407
-Pascal Vautour -- VAUP05049304
-William Corbeil -- CORW26049505
-Nizar Semlali -- SEMN14019103
+% Exigences DEL Les Mousquetaires Gestion des mandats et des feuilles de temps
+% Patrice Desrochers -- DESP02049609;
+ Gabriel Thibault -- THIG15099407;
+ Pascal Vautour -- VAUP05049304;
+ William Corbeil -- CORW26049505;
+ Nizar Semlali -- SEMN14019103;
 % 20 avril 2017
+
 
 # Sigles et abréviations {-}
 
@@ -225,10 +224,15 @@ L'interface que les analystes vont voir va comporter le minimum requis. C'est-à
 
 ![Interface des analystes](./assets/InterAnalyste.png)
 
-L'analyste aura a remplir tous les champs pour chaque mandat sélectionné, donc l'heure de début et l'heure de fin ainsi qu'une brève description de ce qu'il a fait sur le projet pendant ce temps. S'il y a un champs non rempli parmi les cinq journée de la semaine, l'analyste ne pourra pas soumettre sa feuille de temps.
+L'analyste aura a remplir tous les champs pour chaque mandat sélectionné, donc l'heure de début et l'heure de fin ainsi qu'une brève description de ce qu'il a fait sur le projet pendant ce temps. S'il y a un champs non rempli parmi les cinq journée de la semaine, l'analyste ne pourra pas soumettre sa feuille de temps. Aussi, si un champs d'heure de fin est plus petit que l'heure du début, un message d'erreur est généré et est affiché dans une fenêtre pop-up.
 
 Si une feuille de temps soumis par l'analyste est rejeté par le coordonateur, elle se rajoute dans la liste d'onglet des semaines en première position.
 
+### Coordonateurs
+
+L'interface des coordonateurs ressemble beaucoup à celui des analystes, sauf qu'il ne vas rien pouvoir changer. Les grosse différences sont que au lieu d'avoir les semaines qui suivent, le coordonateur va avoir toutes les feuilles de temps des analystes et il va pouvoir refuser une feuille de temps ou l'accepter.
+
+![Interface des coordonateurs](./assets/InterCoordo.png)
 
 
 ## Interfaces « matériel »
@@ -280,9 +284,7 @@ Il est à noter que chaque action ou erreur aura un code qui sera aussi conserv�
 
 Voici ce dont pourrait avoir l’air le Journal système:
 
-//TODO : inclure le pdf
-
-https://www.lucidchart.com/invitations/accept/edc0c1f8-52a5-4a1b-9b70-e417d335473e
+![Journal système](<./assets/Journal système.png>)
 
 Certaines contraintes d'intégrité seront aussi utilisées pour s'assurer d'éviter les entrées de données invalides:
 
