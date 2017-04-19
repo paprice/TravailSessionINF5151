@@ -245,13 +245,10 @@ Le logiciel devra avoir une API pour envoyer les informations des fiches de temp
 ## Interfaces « communication »
 
 
-L'interface de communication de notre système de gestion du temps pour Les mousqeutaire a été décrite plus haut comme une interface web standard de type "Client/serveur". Le serveur sera hébergé chez une firme externe spécialisé pour une accesbilité accrue et une maintenance plus facile. Ainsi,puisque lèinternet constituera l'interface de communication du système,celui-ci aura recours aux protocoles standarads qui s'y rattachent comme HTTPS et TCP/IP pour la communication et DNS pour la résolution du nom de domaine.
+L'interface de communication de notre système de gestion du temps pour Les mousquetaires a été décrite plus haut comme une interface web standard de type "Client/serveur". Le serveur sera hébergé chez une firme externe spécialisé pour une accesbilité accrue et une maintenance plus facile. Ainsi,puisque lèinternet constituera l'interface de communication du système,celui-ci aura recours aux protocoles standarads qui s'y rattachent comme HTTPS et TCP/IP pour la communication et DNS pour la résolution du nom de domaine.
 Puisque le logiciel est accessible à partir d'un fureteur web, il n'y a pas de communication avec d'autre interface/logiciel lors de l'utilisation.
 
 
-# Exigence spécifique de documentation
-
-Considérant que la futur plate-forme de gestion du temps sera utilisé par plusieurs personnes de tout niveau en informatique,nous imposons donc des exigences spécifique en matière de documentation. En particulier, nous prévoyions soumettre une ébauche de cette future documentation à des futurs utilisateurs afin dèobtenir leur avis sur la clarté de nos explications et sur la pertinences de nos exemples tels que présentés dans ce documentation. Nous souhaitons donc produire une documentation la plus claire,conrète et pratique possible pour l'utilisateur conventionnel tout comme pour l'administrateur.
 
 ## Exigences de performance
 
@@ -307,33 +304,30 @@ La compagnie offrant le service d'hébergement devra gérer toute la maintenance
 
 Le programme fonctionnera avec un fureteur web. Il sera donc portable à toute machine qui peut naviguer l'internet.
 
+## Exigences de documentation
+
+Considérant que la futur plate-forme de gestion du temps sera utilisé par plusieurs personnes de tout niveau en informatique,nous imposons donc des exigences spécifique en matière de documentation. En particulier, nous prévoyions soumettre une ébauche de cette future documentation à des futurs utilisateurs afin dèobtenir leur avis sur la clarté de nos explications et sur la pertinences de nos exemples tels que présentés dans ce documentation. Nous souhaitons donc produire une documentation la plus claire,conrète et pratique possible pour l'utilisateur conventionnel tout comme pour l'administrateur.
+
 ## Exigences de qualification
 
-Inclusion automatique de la section équivalente du DEF.
-
-Ajout d'items particuliers si nécessaire.
+Puisque tous les employées de la firme Les mousquetaires ainsi que leurs partenaires externes pourraient être appellées à utiliser ou accèder a notre systèmes,nous visons les plus bases exigences de qualifications possibles afin de permettre au plus grand nombre de personnes possibles dèutilsier notre interface et ce,sans formation ou qualifications spéciales requises. Comme décrit plus haut,nous souhaitons égalemment produire un documentation claire et simple à comprendre,ce qui permettra à une personne sans aucune connaissance spécifique en rapport avec l'informatique ou la techonologie d'accèder à la plateforme.
+Il en va de même pour les administrateurs,qui disposeront de leur propre documentation avec approche intuitive pour les aiders à comprendre rapidemment les facettes de l'utilisation du service.
 
 ## Exigences d'acceptation pour la mise en exploitation
 
-Inclusion automatique de la section équivalente du DEF.
+Pour la mise en exploitation,nous visons un système fonctionnel selon nos normes à 100%,avec 80% des fonctionnalitées demandées et décrites disponibles immédiatemment au moment de la mise en exploitation si la firme en a besoin du système plus rapidemment. Selon les besoins des mousquetaires,il sera aussi possible de faire une mise en exploitation sans risque en testant le système quelques semaines en parrallèle avec l'ancienne facon actuelle,dans le but de s'assurer d'avoir accès à 100% des fonctionnalité dès la mise en exploitation.
 
-Ajout d'items particuliers si nécessaire.
 
 ## Exigences d'acceptation pour la maintenance
 
-Pour travailler sur la maintenance de l'application, une équipe devra nécessairement être à l'aise avec les technologies et le langage utilisés. De plus, elle devra avoir une bonne expérience à travailler ensemble. Finalement, une équipe ayant déjà travaillé sur le projet sera toujours priorisé. Dans un cas ou une tel équipe n'est pas disponible, celles ayant des expériences sur des projets similaires auront la priorité. Pour ce qui est des serveurs, la maintenance sera laissée entre les mains de la compagnie choisie pour l'hébergement. Celle-ci devra pouvoir garantir un "uptime" d'au moins 90/100 sans arrêt de service de plus de 48h.
+Pour travailler sur la maintenance de l'application, une équipe devra nécessairement être à l'aise avec les technologies et le langage utilisés. De plus, elle devra avoir une bonne expérience à travailler ensemble. Finalement, une équipe ayant déjà travaillé sur le projet sera toujours priorisé. Dans un cas ou une tel équipe n'est pas disponible, celles ayant des expériences sur des projets similaires auront la priorité. Pour ce qui est des serveurs, la maintenance sera laissée entre les mains de la compagnie choisie pour l'hébergement. Celle-ci devra pouvoir garantir un "uptime" d'au moins 99.9% sans arrêt de service de plus de 24h.
 
-## Exigences de documentation
-
-Inclusion automatique de la section équivalente du DEF.
 
 Ajout d'items particuliers si nécessaire.
 
 ## Exigences de déploiement
 
-Inclusion automatique de la section équivalente du DEF.
-
-Ajout d'items particuliers si nécessaire.
+Nous planifions un déploiemment relativemment simple puisqu'une grande partie du travail sera effectué par la firme d'hébergement supportant notre système. Il nous sera égalemment possible de tester de facon très fidèle la mise sur pied de celui-ci en donnant accès à un ou deux employés "tests" dans l'entreprise pour s'assurer d'une fidelité du système quant aux normes prédéterminées ainsi que d'une bonne fiabilité. Une autre exigence de déploiemment sera de transmettre les informations d'identifications à tous les acteurs présent dans l'écosystème pour quèils puissent commencer à travailler sur la palte-forme en masse de facon syncronisée. Cela pourra donc être fait au début d'une semaine de travail,dans une période plus tranquille comme la saison estivale afin de pallier à toute éventualité requièrant un support critique.
 
 # Bibliographie
 
