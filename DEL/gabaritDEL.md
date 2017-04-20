@@ -197,7 +197,7 @@ connexion.
 - Les informations de connexions de l'utilisateur sont erronées
 
 ### Diagramme de séquence système
-\includegraphics[width=6in]{DiagrammeConnexion.pdf}
+\includegraphics[width=6in]{./DEL/DiagrammeConnexion.pdf}
 
 
 ## Un analyste veut rentrer ses heures
@@ -287,7 +287,7 @@ a sa feuille de temps
 - L'analyste est hors ligne
 
 ### Diagramme de séquence système
-\includegraphics[width=6in]{DiagrammeAnalyste.pdf}
+\includegraphics[width=6in]{./DEL/DiagrammeAnalyste.pdf}
 
 ## Un coordonnateur veut approuver les feuilles de temps
 
@@ -356,7 +356,7 @@ feuille de temps du coordonnateur.
 - Le coordonnateur est hors ligne
 
 ### Diagramme de séquence système
-\includegraphics[width=6in]{DiagrammeCoordonateur.pdf}
+\includegraphics[width=6in]{./DEL/DiagrammeCoordonateur.pdf}
 
 ## Le comptable désire faire la comptabilité
 
@@ -432,7 +432,7 @@ des coordonnateurs ou des clients.
 - Le comptable est hors ligne
 
 ### Diagramme de séquence système
-\includegraphics[width=6in]{DiagrammeComptable.pdf}
+\includegraphics[width=6in]{./DEL/DiagrammeComptable.pdf}
 
 # Exigences d'interface
 
